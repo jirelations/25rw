@@ -1,92 +1,93 @@
-﻿blank,session,date,filename,unit,topic,title,pad-slug,image,zotero-tag,zotero-readings,objective,tags,contents
-,1,16.10,2023-10-16-1.md,,Introduction,1. Introduction,1,wool.jpg,1-Introduction,,"1. Get oriented to the way this course works.
-2. Explain why the story of each Abrahamic faith cannot be understood without the others.",[1],"---
+﻿blank,session,date,filename,unit,topic,long-topic,concepts,title,pad-slug,image,zotero-tag,zotero-readings,objective,Leitfrage,tags,contents
+,1,13.10,2025-10-13-1.md,Religion als Gegenstand,Vorstellung,Was machen wir hier?,,1. Religion als Gegenstand: Was machen wir hier?,1,candle.jpg,1-Vorstellung,,,,[1],"---
 layout: post
 session: 1
 tags: [1]
 level: overview
 ---"
-,2,23.10,2023-10-23-2.md,,Monotheism,2. Monotheism,2,stars.jpg,2-Monotheism,"[beckingBoundariesIsraeliteMonotheism2008a, langMonotheismus1998a]","Describe how Abraham became a father of faith to Judaism, Christianity, and Islam.",[2],"---
+,2,20.10,2025-10-20-2.md,Religion als Gegenstand,Definitionen,Was ist Religion?,,2. Religion als Gegenstand: Was ist Religion?,2,magnifying-glass.jpg,2-Definitionen,stausbergI1ReligionBegriff2012,"Verschiedene Definitionen von Religion unterscheiden können, was sie umfassen und wofür sie nützlich sein können.",,[2],"---
 layout: post
 session: 2
 tags: [2]
 level: overview
 ---"
-,3,30.10,2023-10-30-3.md,,Scripture & Prophets,3. Scripture & Prophets,3,isaiah.jpg,3-Scripture-Prophets,,,[3],"---
+,3,27.10,2025-10-27-3.md,Religion als Gegenstand,Ritual,Was gilt als religiöses Ritual?,,3. Religion als Gegenstand: Was gilt als religiöses Ritual?,3,02_Fussball.jpg,3-Ritual,brombergerFussballAlsWeltsicht2003,"Rituale auf drei Ebenen (Formen, Funktionen, Bedeutungen) anhand von Beispielen schildern können.",,[3],"---
 layout: post
 session: 3
 tags: [3]
 level: overview
 ---"
-,4,06.11,2023-11-06-4.md,,Messiah & Covenant,4. Messiah & Covenant,4,palm.jpg,4-Messiah-Covenant,,,[4],"---
+,4,03.11,2025-11-03-4.md,Gruppen und Autorität,Gruppen,Wie bilden sich religiöse Gruppen und Autoritäten?,,4. Gruppen und Autorität: Wie bilden sich religiöse Gruppen und Autoritäten?,4,kaaba.jpg,4-Gruppen,rengerIII7MeisterJuengerUnd2012,"Historische und gegenwärtige Beispiele der Gruppenbildung anhand eines differenzierten Konzepts von ""Meister/Jüngerschaft"" erläutern können.",,[4],"---
 layout: post
 session: 4
 tags: [4]
 level: overview
 ---"
-,5,13.11,2023-11-13-5.md,,Parting of the Ways,5. Parting of the Ways,5,stone.jpg,5-Parting-of-the-Ways,,,[5],"---
+,5,10.11,2025-11-10-5.md,Gruppen und Autorität,Gender,Welche Rolle spielt Gender in der Religion?,,5. Gruppen und Autorität: Welche Rolle spielt Gender in der Religion?,5,04.MarabouWomen.jpg,5-Gender,gemmekeMaraboutWomenDakar2009,"Ebenen der Genderforschung erläutern können, auf die die Religionswissenschaft grundlegend eingehen kann.",,[5],"---
 layout: post
 session: 5
 tags: [5]
 level: overview
 ---"
-,6,20.11,2023-11-20-6.md,,Martyrs,6. Martyrs,6,fire.jpg,6-Martyrs,,,[6],"---
+,6,17.11,2025-11-17-6.md,Gruppen und Autorität,Orthodoxie,Wer oder was bestimmt die Orthodoxie?,,6. Gruppen und Autorität: Wer oder was bestimmt die Orthodoxie?,6,yezidi.jpg,6-Orthodoxie,schlieterReligionReligionswissenschaftUnd2012,"Erklären können, wie Normativitätsansprüche in der Religionswissenschaft untersucht werden können.",,[6],"---
 layout: post
 session: 6
 tags: [6]
 level: overview
 ---"
-,7,27.11,2023-11-27-7.md,,East & West,7. East & West,7,pebble-beach.jpg,7-East-West,,,[7],"---
+,7,24.11,2025-11-24-7.md,Materialität und Körper,Schriften,Wie werden heilige Schriften überliefert?,,7. Materialität und Körper: Wie werden heilige Schriften überliefert?,7,synagogue-scroll.jpg,7-Schriften,pelikanWrittenTorahTalmud2006,Die mündliche und schriftliche Dynamik der abrahamitischen Religionen im Verhältnis zueinander zu beschreiben.,,[7],"---
 layout: post
 session: 7
 tags: [7]
 level: overview
 ---"
-,8,04.12,2023-12-04-8.md,,Rabbis,8. Rabbis,8,tallit.jpg,8-Rabbis,,,[8],"---
+,8,01.12,2025-12-01-8.md,Materialität und Körper,Objekte,Welche Rolle spielen materielle Objekte in der Religion?,,8. Materialität und Körper: Welche Rolle spielen materielle Objekte in der Religion?,8,mosque.jpg,8-Objekte,prohlMaterialeReligion2012,"Erklären können, wie die Forschung an materiellen Objekten den Glauben an das Transzendente greifbar macht.",,[8],"---
 layout: post
 session: 8
 tags: [8]
 level: overview
 ---"
-,9,11.12,2023-12-11-9.md,,A New Prophet,9. A New Prophet,9,crescent-moon.jpg,9-A-New-Prophet,,,[9],"---
+,9,08.12,2025-12-08-9.md,Materialität und Körper,Orte,Welche Rolle spielen heilige Orte in der Religion?,,9. Materialität und Körper: Welche Rolle spielen heilige Orte in der Religion?,9,madaba-map.jpg,9-Orte,walker11Pilgrimage2018,"Erklären können, auf welche Weise Orte sakrale Bedeutung erlangen, und diese Bedeutung anhand jüdischer, christlicher und islamischer Beispiele erläutern.","Was macht einen Ort für Pilger ""heilig""?",[9],"---
 layout: post
 session: 9
 tags: [9]
 level: overview
 ---"
-,10,18.12,2023-12-18-10.md,,A New Community,10. A New Community,10,dome-of-the-rock.jpg,10-A-New-Community,,,[10],"---
+,10,15.12,2025-12-15-10.md,Materialität und Körper,Kunst,Kursbesuch: Kunst (Shahid Alam),,10. Materialität und Körper: Kursbesuch: Kunst (Shahid Alam),10,06_gegenseitiges.anerkennen.shahid.alam.png.webp,10-Kunst,,Die Gestaltung religiöser Kunst beobachten und beschreiben.,,[10],"---
 layout: post
 session: 10
 tags: [10]
 level: overview
 ---"
-,11,08.01,2024-01-08-11.md,,Rules & Rulers,11. Rules & Rulers,11,palace-ceiling.jpg,11-Rules-Rulers,,,[11],"---
+,11,12.01,2026-01-12-11.md,Materialität und Körper,Körper,Welche Wirkung hat die religiöse Praxis auf den Körper?,,11. Materialität und Körper: Welche Wirkung hat die religiöse Praxis auf den Körper?,11,dhanvantari.jpg,11-Körper,ladenhaufReligiositaetUndSpiritualitaet2010,Religionspsychologische Ansätze zur Krankheit und Heilung schildern.,Wie unterscheiden sich religiös-spirituelle Menschen von anderen im Krankheitsprozess?,[11],"---
 layout: post
 session: 11
 tags: [11]
 level: overview
 ---"
-,12,15.01,2024-01-15-12.md,,Tradition,12. Tradition,12,leaf.jpg,12-Tradition,,,[12],"---
+,12,19.01,2026-01-19-12.md,Religionswissenschaft für heute,Digitalisierung,Wie wird Religion digital untersucht?,,12. Religionswissenschaft für heute: Wie wird Religion digital untersucht?,12,digital.jpg,12-Digitalisierung,campbellContextualizingCurrentDigital2020,"Verständnis dafür zeigen, wie religiöse Identität, Gemeinschaft und Autorität in Online- und Offline-Umgebungen miteinander verwoben sind.","Wie verändern sich die Dynamiken religiöser Identität, Autorität und Gemeinschaft in digitalen Umgebungen? Inwiefern bleiben sie gleich?",[12],"---
 layout: post
 session: 12
 tags: [12]
 level: overview
 ---"
-,13,22.01,2024-01-22-13.md,,A Common Language,13. A Common Language,13,ox-bodl-laud-or-258-fol-10b.jpg,13-A-Common-Language,,,[13],"---
+,13,26.01,2026-01-26-13.md,Religionswissenschaft für heute,Extremismus,Wie sollte religiöser Extremismus verstanden werden?,,13. Religionswissenschaft für heute: Wie sollte religiöser Extremismus verstanden werden?,13,12_iranischeSchiiten.jpeg,13-Extremismus,riesebrodt11FundamentalismusUnd1990,"Fundamentalismus, Radikalisierung und Extremismus definieren und Beispiele für jeden Begriff geben.",Wie definiert Riesebrodt den Fundamentalismus?,[13],"---
 layout: post
 session: 13
 tags: [13]
 level: overview
 ---"
-,14,29.01,2024-01-29-14.md,,Converted Conquerors,14. Converted Conquerors,14,horse.jpg,14-Converted-Conquerors,,,[14],"---
+,14,02.02,2026-02-02-14.md,Religionswissenschaft für heute,Interreligiös,Sollten Religionswissenschaftler/innen am interreligiösen Dialog mitwirken?,,14. Religionswissenschaft für heute: Sollten Religionswissenschaftler/innen am interreligiösen Dialog mitwirken?,14,interreligious-conversation.png,14-Interreligiös,schmiedelInterreligioeserDialogAls2008,"Überlegen und erklären können, inwieweit religionswissenschaftliche Ansätze zum interreligiösen Dialog beitragen können, sollen und dürfen.",,[14],"---
 layout: post
 session: 14
 tags: [14]
 level: overview
 ---"
-,15,05.02,2024-02-05-15.md,,Perceptions,15. Perceptions,15,carpet_ed.jpg,15-Perceptions,,,[15],"---
+,15,09.02,2026-02-09-15.md,Religionswissenschaft für heute,Abschluss,Wie gehe ich mit dem erworbenen Wissen um?,,15. Religionswissenschaft für heute: Wie gehe ich mit dem erworbenen Wissen um?,15,girl-bridge.jpg,15-Abschluss,,,,[15],"---
 layout: post
 session: 15
 tags: [15]
 level: overview
 ---"
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
