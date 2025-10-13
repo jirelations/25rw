@@ -2021,22 +2021,6 @@ references:
   type: book
   URL: http://dx.doi.org/10.1093/acprof:oso/9780199931002.001.0001
 
-- id: meyerNeutraleReligionswissenschaftNormativitat2020
-  author:
-    - family: Meyer
-      given: Sophie Sidonie
-  citation-key: meyerNeutraleReligionswissenschaftNormativitat2020
-  event-place: Bern
-  genre: M.A. Thesis
-  issued:
-    - year: 2020
-  publisher: Universität Bern
-  publisher-place: Bern
-  title: >-
-    Neutrale Religionswissenschaft? Normativität und Wissenschaftlichkeit im
-    Verständnis ihrer Studierenden
-  type: thesis
-
 - id: middelbeck-varwickRamadanBrandenburgSignaturen2019
   accessed:
     - year: 2023
