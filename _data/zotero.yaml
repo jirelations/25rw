@@ -1,3 +1,3402 @@
 ---
 references:
+- id: aeschbachWhatBritishMuslimsReallyThink2017
+  abstract: >-
+    In the discursive construction of intra-national sameness, religious
+    identity is often a key criterion for inclusion or exclusion from the
+    imagined national community. In today’s Europe, the boundaries of individual
+    nations are increasingly secured by applying a logic characteristic of
+    Islamophobia and cultural racism. Therefore, the negotiation of Muslim
+    identity and its intersection with the respective national identity category
+    is of particular interest. In this study, the Twitter hashtag
+    #WhatBritishMuslimsReallyThink was examined in order to analyze how members
+    of the British Muslim digital community both construct and reinforce their
+    collective identity as well as employ discursive strategies to negotiate
+    British national identity and their national belonging in the face of
+    exclusionary political rhetoric. Drawing on a corpus of 480 tweets
+    containing the hashtag #WhatBritishMuslimsReallyThink, a mixed-method
+    content analysis approach was employed to analyze the topics and strategies
+    present in the hashtag discourse. Thereby, the issues addressed and the
+    strategies of belonging employed in the Twitter conversation are embedded in
+    a larger public discourse on British national identity and intra-national
+    boundary making. This research investigates Twitter as a site of national
+    and religious identity construction and sheds light on the contested nature
+    of such identity categories.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Aeschbach
+      given: Mirjam
+  citation-key: aeschbachWhatBritishMuslimsReallyThink2017
+  container-title: Zeitschrift für junge Religionswissenschaft
+  DOI: 10.4000/zjr.896
+  ISSN: 1862-5886
+  issue: '12'
+  issued:
+    - year: 2017
+      month: 1
+      day: 10
+  language: en
+  license: https://creativecommons.org/licenses/by/4.0/
+  number: '12'
+  publisher: Zeitschrift für junge Religionswissenschaft
+  source: journals.openedition.org
+  title: '#WhatBritishMuslimsReallyThink'
+  type: article-journal
+  URL: https://journals.openedition.org/zjr/896
+
+- id: alberaSharingSacredSpaces2012
+  author:
+    - family: Albera
+      given: Dionigi
+    - family: Couroucli
+      given: Maria
+  citation-key: alberaSharingSacredSpaces2012
+  collection-title: New anthropologies of Europe
+  event-place: Bloomington
+  ISBN: 978-0-253-35633-8 978-0-253-22317-3
+  issued:
+    - year: 2012
+  language: eng
+  publisher: Indiana University Press
+  publisher-place: Bloomington
+  source: BnF ISBN
+  title: >-
+    Sharing sacred spaces in the Mediterranean: Christians, Muslims, and Jews at
+    shrines and sanctuaries
+  title-short: Sharing sacred spaces in the Mediterranean
+  type: book
+  URL: https://books.google.de/books?hl=de&lr=&id=73HwBQAAQBAJ
+
+- id: alberaWhyAreYou2008
+  accessed:
+    - year: 2025
+      month: 9
+      day: 5
+  author:
+    - family: Albera
+      given: Dionigi
+  citation-key: alberaWhyAreYou2008
+  container-title: History and Anthropology
+  container-title-short: History and Anthropology
+  DOI: 10.1080/02757200802150026
+  ISSN: 0275-7206, 1477-2612
+  issue: '1'
+  issued:
+    - year: 2008
+      month: 3
+  language: en
+  page: 37-59
+  source: DOI.org (Crossref)
+  title: >-
+    “Why Are You Mixing what Cannot be Mixed?” Shared Devotions in the
+    Monotheisms
+  title-short: “Why Are You Mixing what Cannot be Mixed?
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/abs/10.1080/02757200802150026
+  volume: '19'
+
+- id: alberaWritingThreeDimensions
+  author:
+    - family: Albera
+      given: Dionigi
+  citation-key: alberaWritingThreeDimensions
+  title: 'Writing in Three Dimensions: Heterographies of Shared Sacred Sites'
+  type: article-journal
+
+- id: albertsI8Weltreligionenparadigma2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Alberts
+      given: Wanda
+  citation-key: albertsI8Weltreligionenparadigma2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 107-118
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: I.8 Das Weltreligionenparadigma
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-010/html
+
+- id: apostolos-cappadonaReligionMaterialReligion2016
+  citation-key: apostolos-cappadonaReligionMaterialReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Apostolos-Cappadona
+      given: Diane
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866362-3
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: material religion'
+  title-short: Religion
+  type: book
+
+- id: armbrusterSpiritualitaetUndSeelische2013
+  citation-key: armbrusterSpiritualitaetUndSeelische2013
+  edition: 1. Aufl
+  editor:
+    - family: Armbruster
+      given: Jürgen
+    - family: Behrens
+      given: Dirk
+  event-place: Köln
+  ISBN: 978-3-88414-793-1 978-3-88414-551-7
+  issued:
+    - year: 2013
+  language: ger
+  number-of-pages: '288'
+  publisher: Psychiatrie Verlag
+  publisher-place: Köln
+  source: K10plus ISBN
+  title: Spiritualität und seelische Gesundheit
+  type: book
+  URL: >-
+    https://elibrary-utb-de.proxy.ub.uni-frankfurt.de/doi/book/10.1486/9783884147931
+
+- id: atwoodIV2MetaphernUnd2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Atwood
+      given: David
+  citation-key: atwoodIV2MetaphernUnd2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 305-316
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: IV.2 Metaphern und die Lesbarkeit von Religion
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-028/html
+
+- id: barkanChoreographiesSharedSacred2016
+  citation-key: barkanChoreographiesSharedSacred2016
+  collection-title: Religion, culture, and public life
+  edition: Paperback edition, 2016
+  editor:
+    - family: Barkan
+      given: Elazar
+    - family: Barkey
+      given: Karen
+  event-place: New York
+  ISBN: 978-0-231-16995-0 978-0-231-16994-3
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '428'
+  publisher: Columbia Univ Press
+  publisher-place: New York
+  source: K10plus ISBN
+  title: >-
+    Choreographies of shared sacred sites: religion, politics and conflict
+    resolution
+  title-short: Choreographies of shared sacred sites
+  type: book
+
+- id: beinhauer-koehlerIV4ReligionsgeschichteSchreiben2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Beinhauer-Köhler
+      given: Bärbel
+  citation-key: beinhauer-koehlerIV4ReligionsgeschichteSchreiben2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 329-340
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: IV.4 Religionsgeschichte schreiben
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-030/html
+
+- id: bergunderIV1MethodologieReligionsvergleichs2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Bergunder
+      given: Michael
+  citation-key: bergunderIV1MethodologieReligionsvergleichs2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 291-304
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    IV.1 Methodologie des Religionsvergleichs: Reinkarnation zwischen „Ost“ und
+    „West“
+  title-short: IV.1 Methodologie des Religionsvergleichs
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-027/html
+
+- id: bernerSynkretismus2001
+  author:
+    - family: Berner
+      given: Ulrich
+  call-number: '2'
+  citation-key: bernerSynkretismus2001
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 2001
+  language: de
+  number-of-volumes: '5'
+  page: 143-152
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Synkretismus
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/05_Berner+-+2001+-+Synkretismus.pdf
+  volume: '5'
+
+- id: betzReligionGeschichteUnd1998
+  call-number: BL31 .R4 1998
+  citation-key: betzReligionGeschichteUnd1998
+  edition: 4., völlig neu bearb. Aufl
+  editor:
+    - family: Betz
+      given: Hans Dieter
+  event-place: Tübingen
+  ISBN: >-
+    978-3-16-146941-1 978-3-16-146942-8 978-3-16-146943-5 978-3-16-146944-2
+    978-3-16-146945-9 978-3-16-146946-6 978-3-16-146947-3 978-3-16-146948-0
+    978-3-16-146949-7
+  issued:
+    - year: 1998
+  number-of-pages: '9'
+  publisher: Mohr
+  publisher-place: Tübingen
+  source: Library of Congress ISBN
+  title: >-
+    Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und
+    Religionswissenschaft
+  title-short: Religion in Geschichte und Gegenwart
+  type: book
+
+- id: bigelowSharingSacredPracticing2010
+  author:
+    - family: Bigelow
+      given: Anna
+  citation-key: bigelowSharingSacredPracticing2010
+  event-place: New York
+  ISBN: 978-0-19-536823-9
+  issued:
+    - year: 2010
+  language: eng
+  publisher: Oxford university press
+  publisher-place: New York
+  source: BnF ISBN
+  title: 'Sharing the sacred: practicing pluralism in muslim north India'
+  title-short: Sharing the sacred
+  type: book
+
+- id: brintnallReligionEmbodiedReligion2016
+  citation-key: brintnallReligionEmbodiedReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Brintnall
+      given: Kent
+    - literal: Gale (Firm)
+  event-place: Farmington Hills. Mich
+  ISBN: 978-0-02-866298-5
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills. Mich
+  source: K10plus ISBN
+  title: 'Religion: embodied religion'
+  title-short: Religion
+  type: book
+
+- id: brombergerFussballAlsWeltsicht2003
+  author:
+    - family: Bromberger
+      given: Christian
+  citation-key: brombergerFussballAlsWeltsicht2003
+  container-title: 'Ritualtheorien: Ein einführendes Handbuch'
+  edition: '5'
+  editor:
+    - family: Belliger
+      given: Andréa
+    - family: Krieger
+      given: David J.
+  event-place: Wiesbaden
+  issued:
+    - year: 2003
+  language: de
+  page: 281-97
+  publisher: Opladen
+  publisher-place: Wiesbaden
+  source: Google Scholar
+  title: Fußball als Weltsicht und als Ritual
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/02_Bromberger_Fussball.pdf
+
+- id: campbellContextualizingCurrentDigital2020
+  abstract: >-
+    This article provides an overview of contemporary research within the
+    interdisciplinary arc of scholarship known as digital religion studies, in
+    which scholars explore the intersection between emerging digital
+    technologies, lived and material religious practices in contemporary
+    culture, and the impact the structures of the network society have on
+    understandings of spirituality and religiosity. Digital religion studies
+    specifically investigates how online and offline religious spaces and
+    practices have become bridged, blended, and blurred as religious groups and
+    practitioners seek to integrate their religious lives with technology use
+    within different aspects of digital culture.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Campbell
+      given: Heidi A.
+    - family: Evolvi
+      given: Giulia
+  citation-key: campbellContextualizingCurrentDigital2020
+  container-title: Human Behavior and Emerging Technologies
+  container-title-short: Human Behav and Emerg Tech
+  DOI: 10.1002/hbe2.149
+  ISSN: 2578-1863, 2578-1863
+  issue: '1'
+  issued:
+    - year: 2020
+      month: 1
+  language: en
+  page: 5-17
+  source: DOI.org (Crossref)
+  title: Contextualizing current digital religion research on emerging technologies
+  type: article-journal
+  URL: >-
+    https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/pdfdirect/10.1002/hbe2.149
+  volume: '2'
+
+- id: cancikBand1Systematischer1988
+  call-number: '2'
+  citation-key: cancikBand1Systematischer1988
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1988
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: 'Band 1. Systematischer Teil; Alphabetischer Teil: Aberglaube-Antisemitismus'
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/v34eAAAAMAAJ
+  volume: '1'
+
+- id: cancikBand2Apokalyptik1990
+  call-number: '2'
+  citation-key: cancikBand2Apokalyptik1990
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1990
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Band 2. Apokalyptik - Geschichte
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wH4eAAAAMAAJ
+  volume: '2'
+
+- id: cancikBand3Gesetz1993
+  call-number: '2'
+  citation-key: cancikBand3Gesetz1993
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1993
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Band 3. Gesetz - Kult
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ
+  volume: '3'
+
+- id: cancikBand4Kultbild1998
+  call-number: '2'
+  citation-key: cancikBand4Kultbild1998
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1998
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Band 4. Kultbild - Rolle
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ
+  volume: '4'
+
+- id: cancikBand5SaekularisierungZwischenwesen2001
+  call-number: '2'
+  citation-key: cancikBand5SaekularisierungZwischenwesen2001
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 2001
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Band 5. Säkularisierung-Zwischenwesen; Register
+  type: chapter
+  URL: https://books.google.de/books?id=5_3WAAAAMAAJ
+  volume: '5'
+
+- id: cancikHandbuchReligionswissenschaftlicherGrundbegriffe1988
+  call-number: '2'
+  citation-key: cancikHandbuchReligionswissenschaftlicherGrundbegriffe1988
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1988
+    - year: 2001
+  language: de
+  number-of-volumes: '5'
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Handbuch religionswissenschaftlicher Grundbegriffe
+  type: book
+
+- id: christophejaffrelotSHAREDSACREDSITES2025
+  citation-key: christophejaffrelotSHAREDSACREDSITES2025
+  editor:
+    - family: Christophe Jaffrelot
+      given: ''
+    - family: Mohammad-Arif
+      given: Aminah Schlemmer
+      suffix: Gregoire
+  event-place: S.l.
+  ISBN: 978-1-80526-299-2
+  issued:
+    - year: 2025
+  language: eng
+  note: 'OCLC: 1458754351'
+  publisher: C HURST & CO PUB LTD
+  publisher-place: S.l.
+  source: Open WorldCat
+  title: 'SHARED SACRED SITES IN SOUTH ASIA: negotiating coexistence and belonging'
+  title-short: SHARED SACRED SITES IN SOUTH ASIA
+  type: book
+
+- id: clementsReligionMentalReligion2017
+  citation-key: clementsReligionMentalReligion2017
+  collection-title: Macmillan interdisciplinary handbooks. Religion
+  editor:
+    - family: Clements
+      given: Niki Kasumi
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866360-9
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: mental religion'
+  title-short: Religion
+  type: book
+
+- id: colemanMedicineReligionBody2010
+  citation-key: colemanMedicineReligionBody2010
+  collection-number: v. 11
+  collection-title: International studies in religion and society
+  DOI: 10.1163/ej.9789004179707.i-300
+  editor:
+    - family: Coleman
+      given: Elizabeth Burns
+    - family: White
+      given: Kevin
+  event-place: Leiden Boston
+  ISBN: 978-90-474-4400-8
+  issued:
+    - year: 2010
+  language: eng
+  number-of-pages: '1'
+  publisher: Brill
+  publisher-place: Leiden Boston
+  source: K10plus ISBN
+  title: Medicine, religion, and the body
+  type: book
+
+- id: csordas1Introduction1994
+  abstract: >-
+    How does religious healing work, if indeed it does? What is actually being
+    healed by the performances of the shaman, the medicine man, or the faith
+    healer? In this study of the contemporary North American movement known as
+    the Catholic Charismatic Renewal, Thomas Csordas offers new insight into the
+    experiential specificity that defines efficacy in therapeutic ritual
+    performance. This is not only a book about healing, however, but also one
+    about the phenomenology of self and self-transformation. The Catholic
+    Charismatic Renewal is a movement that incorporates Pentecostal practices
+    into Catholicism. In the nearly three decades since its inception, the
+    movement has developed a system that includes several genres of healing:
+    physical healing, emotional healing, and deliverance from evil spirits.
+    Blending ethnographic description and detailed case studies within these
+    various healing genres, Csordas works out a theory of self and therapeutic
+    efficacy grounded in the notions of embodiment and orientation. With this
+    theory he examines the experience of sensory imagery and performative
+    utterance and explicates the sense of the sacred that is cultivated by
+    participation in this coherent ritual system. The system in turn is embedded
+    in the Charismatic world of meaning within which the sacred self comes into
+    being: to be healed is to inhabit the Charismatic world as a sacred self.
+    Csordas calls his approach "cultural phenomenology" because it is concerned
+    with synthesizing the immediacy of embodied existence with the multiplicity
+    of cultural meaning in which we are always and inevitably immersed. This
+    innovative book forms the basis for a rapprochement between phenomenology
+    and semiotics in culture theory. It will interest anthropologists,
+    philosophers, psychologists, physicians, and students of comparative
+    religion and healing
+  accessed:
+    - year: 2023
+      month: 10
+      day: 11
+  author:
+    - family: Csordas
+      given: Thomas J.
+  citation-key: csordas1Introduction1994
+  container-title: 'The sacred self: A cultural phenomenology of charismatic healing'
+  event-place: Berkeley
+  ISBN: 978-0-520-08311-0
+  issued:
+    - year: 1994
+  language: eng
+  note: 'OCLC: 28844324'
+  page: 1-24
+  publisher: University of California Press
+  publisher-place: Berkeley
+  source: Open WorldCat
+  title: 1. Introduction
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/10_Csordas_SacredSelf.pdf
+
+- id: cyrankaII3WasIst2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Cyranka
+      given: Daniel
+  citation-key: cyrankaII3WasIst2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 151-160
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: II.3 Was ist Esoterik?
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-014/html
+
+- id: deckerIV5KontextualisierungenReligionsgeschichtlicher2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Decker
+      given: Doris
+  citation-key: deckerIV5KontextualisierungenReligionsgeschichtlicher2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 341-352
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: IV.5 Kontextualisierungen religionsgeschichtlicher Textquellen
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-031/html
+
+- id: deconickReligionSecretReligion2016
+  citation-key: deconickReligionSecretReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: De Conick
+      given: April D.
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866357-9
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: secret religion'
+  title-short: Religion
+  type: book
+
+- id: dejongSpiritualEliteCommunities2018
+  author:
+    - family: Jong
+      given: Albert
+      non-dropping-particle: de
+  citation-key: dejongSpiritualEliteCommunities2018
+  container-title: Sociology of Islam
+  DOI: 10.1163/22131418-00602002
+  issue: '2'
+  issued:
+    - year: 2018
+  language: en
+  page: 116–140
+  publisher: Brill
+  source: Google Scholar
+  title: Spiritual Elite Communities in the Contemporary Middle East
+  type: article-journal
+  URL: >-
+    https://scholarlypublications.universiteitleiden.nl/access/item%3A3458757/download
+  volume: '6'
+
+- id: dresslerI4ReligionisierungKonstruktivistischer2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Dreßler
+      given: Markus
+  citation-key: dresslerI4ReligionisierungKonstruktivistischer2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 61-72
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    I.4 Religionisierung: Ein konstruktivistischer Zugang zu Religion und
+    Säkularität
+  title-short: I.4 Religionisierung
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-006/html
+
+- id: dziriFluchtMigrationVertreibung2018
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Dziri
+      given: Amir
+    - family: Middelbeck-Varwick
+      given: Anja
+  citation-key: dziriFluchtMigrationVertreibung2018
+  issued:
+    - year: 2018
+  language: de
+  source: publikationen-uni-tuebingen-de.proxy.ub.uni-frankfurt.de
+  title: >-
+    Flucht, Migration, Vertreibung - Herausforderungen für die christliche und
+    islamische Theologie?
+  type: article-journal
+  URL: https://publikationen.uni.tuebingen.de/xmlui/handle/10900/137123
+
+- id: frankeReligionenReligionswissenschaftUnd2012
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Franke
+      given: Edith
+    - family: Maske
+      given: Verena
+  citation-key: frankeReligionenReligionswissenschaftUnd2012
+  collection-title: De Gruyter Studium
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 125–139
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: Religionen, Religionswissenschaft und die Kategorie Geschlecht/Gender
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/04_Franke_Maske_Gender.pdf
+
+- id: freudenbergII1CharismaGenese2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Freudenberg
+      given: Maren
+    - family: Schüler
+      given: Sebastian
+  citation-key: freudenbergII1CharismaGenese2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 127-138
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    II.1 Charisma: Genese, Erhalt und Veralltäglichung von Autoritätsbeziehungen
+    in Religion
+  title-short: II.1 Charisma
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-012/html
+
+- id: gebauerErlebeVersuchZion2022
+  accessed:
+    - year: 2024
+      month: 2
+      day: 6
+  author:
+    - family: Gebauer
+      given: Matthias
+  citation-key: gebauerErlebeVersuchZion2022
+  container-title: Geographische Rundschau
+  ISSN: 0016-7460
+  issue: '10'
+  issued:
+    - year: 2022
+  language: ger
+  number: '10'
+  page: 40-45
+  source: eref.uni-bayreuth.de
+  title: >-
+    Erlebe den Versuch von Zion! Die Religionsgeschichte der Mormonen als Living
+    History Museum und sakrales Event
+  type: article-journal
+  URL: >-
+    https://www.westermann.de/anlage/4649775/Erlebe-den-Versuch-von-Zion-Die-Religionsgeschichte-der-Mormonen-als-Living-History-Museum-und-sakrales-Event
+  volume: '74'
+
+- id: gemmekeMaraboutWomenDakar2009
+  author:
+    - family: Gemmeke
+      given: Amber B.
+  citation-key: gemmekeMaraboutWomenDakar2009
+  container-title: 'Africa: Journal of the International African Institute'
+  issue: '1 (= Knowledge in Practice: Expertise and the Transmission of Knowledge)'
+  issued:
+    - year: 2009
+  page: 128–147
+  publisher: Cambridge University Press
+  source: Google Scholar
+  title: 'Marabout women in Dakar: Creating authority in Islamic knowledge'
+  title-short: Marabout women in Dakar
+  type: article-journal
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/04_Marabout_Women_Dakar.pdf
+  volume: '79'
+
+- id: golanIntroductionDigitalYouth2023
+  abstract: >-
+    Public and academic discourse on the online activities of youth have been
+    stormy and ambivalent at times (Lynn Schofield Clark 2013) [...]
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Golan
+      given: Oren
+  citation-key: golanIntroductionDigitalYouth2023
+  container-title: Religions
+  DOI: 10.3390/rel14060704
+  ISSN: 2077-1444
+  issue: '6'
+  issued:
+    - year: 2023
+      month: 6
+  language: en
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '6'
+  page: '704'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: 'Introduction: Digital Youth and Religion'
+  title-short: Introduction
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/14/6/704
+  volume: '14'
+
+- id: goshadzeI7AfricanTraditional2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Goshadze
+      given: Mariam
+  citation-key: goshadzeI7AfricanTraditional2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 97-106
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    I.7 African Traditional Religion (ATR): A Model in the Study of African
+    Religions
+  title-short: I.7 African Traditional Religion (ATR)
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-009/html
+
+- id: grimesCraftRitualStudies2014
+  abstract: >-
+    In religious studies, theory and method research has long been embroiled in
+    a polarized debate over scientific versus theological perspectives. Ronald
+    L. Grimes shows that this debate has stagnated, due in part to a manner of
+    theorizing too far removed from the study of actual religious practices. A
+    worthwhile theory, according to Grimes, must be practice-oriented, and
+    practices are most effectively studied by field research methods. The Craft
+    of Ritual Studies melds together a systematic theory and method capable of
+    underwriting the cross-cultural, interdisciplinary study of ritual
+    enactments. Grimes first exposes the limitations that disable many theories
+    of ritual—for example, defining ritual as essentially religious, assuming
+    that ritual's only function is to generate group solidarity, or treating
+    ritual as a mirror of the status quo. He proposes strategies and offers
+    guidelines for conducting field research on the public performance of rites,
+    providing a guide for fieldwork on complex ritual enactments, particularly
+    those characterized by social conflict or cultural creativity. The volume
+    also provides a section on case study, focusing on a single complex event:
+    the Santa Fe Fiesta, a New Mexico celebration marked by protracted ethnic
+    conflict and ongoing dramatic creativity. Grimes explains how rites interact
+    creatively and critically with their social surroundings, developing such
+    themes as the relation of ritual to media, theater, and film, the dynamics
+    of ritual creativity, the negotiation of ritual criticism, and the impact of
+    ritual on cultural and physical environments. This important and influential
+    book will be the capstone work of Grimes's three decades of leadership in
+    the field of ritual studies. It is accompanied by twenty online appendices
+    illustrating key aspects of ritual study.
+  author:
+    - family: Grimes
+      given: Ronald L.
+  citation-key: grimesCraftRitualStudies2014
+  event-place: New York
+  ISBN: 978-0-19-530142-7
+  issued:
+    - year: 2014
+  language: en
+  number-of-pages: '433'
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: Google Books
+  title: The Craft of Ritual Studies
+  type: book
+  URL: https://www.google.de/books?id=BWMBAQAAQBAJ
+
+- id: haussmannUniversitaetUndLehrerausbildung2013
+  author:
+    - family: Haußmann
+      given: Werner
+  citation-key: haussmannUniversitaetUndLehrerausbildung2013
+  container-title: Handbuch interreligiöses Lernen
+  editor:
+    - family: Schreiner
+      given: Peter
+    - family: Sieg
+      given: Ursula
+    - family: Elsenbast
+      given: Volker
+  event-place: Gütersloh
+  ISBN: 3-579-05574-7
+  issued:
+    - year: 2013
+  language: de
+  page: 508-519
+  publisher: Gütersloher Verlagshaus
+  publisher-place: Gütersloh
+  source: COinS
+  title: Universität und Lehrerausbildung als Orte interreligiösen Lernens
+  type: chapter
+  URL: https://comenius.de/produkt/a40058_handbuch_interreligioeses_lernen/
+
+- id: haydenAntagonisticTolerance2016
+  accessed:
+    - year: 2025
+      month: 9
+      day: 5
+  author:
+    - family: Hayden
+      given: Robert M.
+    - family: Erdemir
+      given: Aykan
+    - family: Tanyeri-Erdemir
+      given: Tuğba
+    - family: Walker
+      given: Timothy D.
+    - family: Rangachari
+      given: Devika
+    - family: Aguilar-Moreno
+      given: Manuel
+    - family: López-Hurtado
+      given: Enrique
+    - family: Bakić-Hayden
+      given: Milica
+  citation-key: haydenAntagonisticTolerance2016
+  DOI: 10.4324/9781315642079
+  edition: '0'
+  ISBN: 978-1-317-28192-4
+  issued:
+    - year: 2016
+      month: 3
+      day: 22
+  language: en
+  publisher: Routledge
+  source: DOI.org (Crossref)
+  title: Antagonistic Tolerance
+  type: book
+  URL: https://www.taylorfrancis.com/books/9781317281924
+
+- id: haydenAntagonisticToleranceCompetitive2002
+  accessed:
+    - year: 2025
+      month: 9
+      day: 5
+  author:
+    - family: Hayden
+      given: "Robert\_M."
+  citation-key: haydenAntagonisticToleranceCompetitive2002
+  container-title: Current Anthropology
+  container-title-short: Current Anthropology
+  DOI: 10.1086/338303
+  ISSN: 0011-3204, 1537-5382
+  issue: '2'
+  issued:
+    - year: 2002
+      month: 4
+  language: en
+  page: 205-231
+  source: DOI.org (Crossref)
+  title: >-
+    Antagonistic Tolerance: Competitive Sharing of Religious Sites in South Asia
+    and the Balkans
+  title-short: Antagonistic Tolerance
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/10.1086/338303
+  volume: '43'
+
+- id: hermannIV6GlobaleReligionsgeschichte2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Hermann
+      given: Adrian
+  citation-key: hermannIV6GlobaleReligionsgeschichte2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 353-364
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    IV.6 Globale Religionsgeschichte: Zeitschriften als Medium von „Religion“ um
+    1900
+  title-short: IV.6 Globale Religionsgeschichte
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-032/html
+
+- id: hess12SacredSpaces2018
+  abstract: >-
+    The Oxford Illustrated History of the Holy Land covers the 3,000 years which
+    saw the rise of Judaism, Christianity, and Islam--and relates the familiar
+    stories of the sacred texts with the fruits of modern scholarship. Beginning
+    with the origins of the people who became the Israel of the Bible, it
+    follows the course of the ensuing millennia down to the time when the
+    Ottoman Empire succumbed to British and French rule at the end of the First
+    World War. Parts of the story, especially as known from the Bible, will be
+    widely familiar. Less familiar are the ways in which modern research, both
+    from archaeology and from other ancient sources, sometimes modify this story
+    historically. Better understanding, however, enables us to appreciate
+    crucial chapters in the story of the Holy Land, such as how and why Judaism
+    developed in the way that it did from the earlier sovereign states of Israel
+    and Judah and the historical circumstances in which Christianity emerged
+    from its Jewish cradle. Later parts of the story are vital not only for the
+    history of Islam and its relationships with the two older religions, but
+    also for the development of pilgrimage and religious tourism, as well as the
+    notions of sacred space and of holy books with which we are still familiar
+    today. Sensitive to the concerns of those for whom the sacred books of
+    Judaism, Christianity, and Islam are of paramount religious authority, the
+    authors all try sympathetically to show how historical information from
+    other sources, as well as scholarly study of the texts themselves, enriches
+    our understanding of the history of the region and its prominent position in
+    the world's cultural and intellectual history.
+  author:
+    - family: Hess
+      given: Richard S.
+    - family: Pringle
+      given: Denys
+  citation-key: hess12SacredSpaces2018
+  container-title: The Oxford Illustrated History of the Holy Land
+  editor:
+    - family: Hoyland
+      given: Robert G.
+    - family: Williamson
+      given: Hugh Godfrey Maturin
+  event-place: Oxford
+  ISBN: 978-0-19-872439-1
+  issued:
+    - year: 2018
+  language: en
+  page: 317-351
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: Google Books
+  title: 12. Sacred Spaces and Holy Places
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/09_Hess+and+Pringle+-+2018+-+12.+Sacred+Spaces+and+Holy+Places.pdf
+
+- id: hochGottImKoerper2001
+  author:
+    - family: Hoch
+      given: Lothar Carlos 1945-
+  citation-key: hochGottImKoerper2001
+  collection-number: '41'
+  collection-title: Weltmission heute
+  container-title: >-
+    Heilung in Mission und Ökumene: Impulse zum interkulturellen Dialog über
+    Heilung und ihre kirchliche Praxis
+  editor:
+    - family: Cordula
+      given: Schmid
+  event-place: Hamburg
+  issued:
+    - year: 2001
+  language: de
+  page: 153-166
+  publisher: EMW
+  publisher-place: Hamburg
+  source: COinS
+  title: >-
+    Gott im Körper erfahren: das Phänomen religiöser Heilungen in den
+    Pfingstkirchen und den afrobrasilianischen Kulten als Herausforderung für
+    Medizin und Kirche
+  title-short: Gott im Körper erfahren
+  type: chapter
+
+- id: hockEinfuehrungReligionswissenschaft2014
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Hock
+      given: Klaus
+  citation-key: hockEinfuehrungReligionswissenschaft2014
+  collection-title: Einführung Theologie
+  edition: 5., bibliografisch erweiterte Auflage
+  event-place: Darmstadt
+  ISBN: 978-3-534-73851-9
+  issued:
+    - year: 2014
+      month: 4
+      day: 15
+  language: de
+  publisher: WBG
+  publisher-place: Darmstadt
+  source: content-select-com.proxy.ub.uni-frankfurt.de
+  title: Einführung in die Religionswissenschaft
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fcontent-select.com%2Findex.php%3Fid%3Dbib_view%26ean%3D9783534738519
+
+- id: hockV3ReligionssoziologischeTypenbildungen2014
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Hock
+      given: Klaus
+  citation-key: hockV3ReligionssoziologischeTypenbildungen2014
+  collection-title: Einführung Theologie
+  container-title: Einführung in die Religionswissenschaft
+  edition: 5., bibliografisch erweiterte Auflage
+  event-place: Darmstadt
+  ISBN: 978-3-534-73851-9
+  issued:
+    - year: 2014
+      month: 4
+      day: 15
+  language: de
+  page: 97-105
+  publisher: WBG
+  publisher-place: Darmstadt
+  source: content-select-com.proxy.ub.uni-frankfurt.de
+  title: V.3. Religionssoziologische Typenbildungen
+  type: chapter
+  URL: >-
+    https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073923&page=19
+
+- id: hockVIII1ReligionsgeographieReligionUmweltForschung2014
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Hock
+      given: Klaus
+  citation-key: hockVIII1ReligionsgeographieReligionUmweltForschung2014
+  collection-title: Einführung Theologie
+  container-title: Einführung in die Religionswissenschaft
+  edition: 5., bibliografisch erweiterte Auflage
+  event-place: Darmstadt
+  ISBN: 978-3-534-73851-9
+  issued:
+    - year: 2014
+      month: 4
+      day: 15
+  language: de
+  page: 146-152
+  publisher: WBG
+  publisher-place: Darmstadt
+  source: content-select-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    VIII.1. Religionsgeographie – Religion-Umwelt-Forschung – Geographie der
+    Geisteshaltung
+  type: chapter
+  URL: >-
+    https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073941&page=1
+
+- id: hoylandOxfordIllustratedHistory2018
+  abstract: >-
+    The Oxford Illustrated History of the Holy Land covers the 3,000 years which
+    saw the rise of Judaism, Christianity, and Islam--and relates the familiar
+    stories of the sacred texts with the fruits of modern scholarship. Beginning
+    with the origins of the people who became the Israel of the Bible, it
+    follows the course of the ensuing millennia down to the time when the
+    Ottoman Empire succumbed to British and French rule at the end of the First
+    World War. Parts of the story, especially as known from the Bible, will be
+    widely familiar. Less familiar are the ways in which modern research, both
+    from archaeology and from other ancient sources, sometimes modify this story
+    historically. Better understanding, however, enables us to appreciate
+    crucial chapters in the story of the Holy Land, such as how and why Judaism
+    developed in the way that it did from the earlier sovereign states of Israel
+    and Judah and the historical circumstances in which Christianity emerged
+    from its Jewish cradle. Later parts of the story are vital not only for the
+    history of Islam and its relationships with the two older religions, but
+    also for the development of pilgrimage and religious tourism, as well as the
+    notions of sacred space and of holy books with which we are still familiar
+    today. Sensitive to the concerns of those for whom the sacred books of
+    Judaism, Christianity, and Islam are of paramount religious authority, the
+    authors all try sympathetically to show how historical information from
+    other sources, as well as scholarly study of the texts themselves, enriches
+    our understanding of the history of the region and its prominent position in
+    the world's cultural and intellectual history.
+  citation-key: hoylandOxfordIllustratedHistory2018
+  editor:
+    - family: Hoyland
+      given: Robert G.
+    - family: Williamson
+      given: Hugh Godfrey Maturin
+  event-place: Oxford
+  ISBN: 978-0-19-872439-1
+  issued:
+    - year: 2018
+  language: en
+  number-of-pages: '413'
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: Google Books
+  title: The Oxford Illustrated History of the Holy Land
+  type: book
+
+- id: hutterReligionsgeschichteEinfuehrung2025
+  author:
+    - family: Hutter
+      given: Manfred
+  citation-key: hutterReligionsgeschichteEinfuehrung2025
+  collection-title: NomosBibliothek
+  DOI: 10.5771/9783748928713
+  edition: 1. Auflage
+  event-place: Baden-Baden
+  ISBN: 978-3-7489-2871-3
+  issued:
+    - year: 2025
+  language: ger
+  number-of-pages: '1'
+  publisher: Nomos Verlagsgesellschaft mbH & Co. KG
+  publisher-place: Baden-Baden
+  source: K10plus ISBN
+  title: 'Religionsgeschichte: Einführung'
+  title-short: Religionsgeschichte
+  type: book
+
+- id: johnstonReligionNarratingReligion2017
+  citation-key: johnstonReligionNarratingReligion2017
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Johnston
+      given: Sarah Iles
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866292-3
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: narrating religion'
+  title-short: Religion
+  type: book
+
+- id: kehrerGruppeGruppendynamik1993
+  author:
+    - family: Kehrer
+      given: Günter
+  call-number: '2'
+  citation-key: kehrerGruppeGruppendynamik1993
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1993
+  language: de
+  number-of-volumes: '5'
+  page: 51-63
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Gruppe / Gruppendynamik
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ?hl=de&gbpv=1&pg=PA51&printsec=frontcover
+
+- id: kippenbergEinfuehrungReligionswissenschaftGegenstaende2003
+  author:
+    - family: Kippenberg
+      given: Hans Gerhard
+    - family: Stuckrad
+      given: Kocku
+      non-dropping-particle: von
+  citation-key: kippenbergEinfuehrungReligionswissenschaftGegenstaende2003
+  event-place: Munich
+  ISBN: 978-3-406-50207-1
+  issued:
+    - year: 2003
+  language: de
+  publisher: C.H. Beck
+  publisher-place: Munich
+  title: 'Einführung in die Religionswissenschaft: Gegenstände und Begriffe'
+  title-short: Einführung in die Religionswissenschaft
+  type: book
+
+- id: kirbyIII2ReligionUrban2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Kirby
+      given: Benjamin
+  citation-key: kirbyIII2ReligionUrban2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 229-238
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: III.2 Religion and Urban Life
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-021/html
+
+- id: kloeckerHandbuchReligionenKirchen2025
+  abstract: >-
+    Handbuch der Religionen - Das Nachschlagewerk für Wissenschaft und PraxisDas
+    Handbuch der Religionen ist ein in Anspruch und Umfang einzigartiges,
+    wissenschaftlich fundiertes Nachschlagewerk über das gesamte Spektrum der
+    Religionen in Deutschland und im deutschsprachigen Raum. Das Handbuch der
+    Religionen bietet:- wissenschaftlich fundiertes Orientierungswissen- von
+    einem Team kompetenter Expert:innen aus derzeit 2 Herausgebern, 24
+    Fachgebietsleiter:innen und über 200 Autor:innen- über Geschichte, religiöse
+    Kernaussagen und Autoritäten, Organisationen und Verbreitung, Glaubenspraxis
+    sowie das Verhältnis zum Staat und anderen Religionen- zur gezielten
+    Recherche nach Themenbereichen- mit kontinuierlichen Informationen zu neuen
+    Entwicklungen, ständig aktualisierten Neuerscheinungen und Kontaktadressen
+  citation-key: kloeckerHandbuchReligionenKirchen2025
+  collection-title: Handbuch der Religionen
+  DOI: 10.5771/9783866175167
+  editor:
+    - family: Klöcker
+      given: Michael
+    - family: Tworuschka
+      given: Udo
+    - family: Rötting
+      given: Martin
+  event-place: Hohenwarsleben
+  ISBN: 978-3-86617-500-6 978-3-86617-516-7
+  issued:
+    - year: 2025
+  language: ger
+  number-of-pages: '1'
+  publisher: Westarp Science Fachverlag
+  publisher-place: Hohenwarsleben
+  source: K10plus ISBN
+  title: >-
+    Handbuch der Religionen: Kirchen und andere Glaubensgemeinschaften in
+    Deutschland und im deutschsprachigen Raum
+  title-short: Handbuch der Religionen
+  type: book
+
+- id: kloeckerPraktischeReligionswissenschaftHandbuch2008
+  citation-key: kloeckerPraktischeReligionswissenschaftHandbuch2008
+  collection-number: '3165'
+  collection-title: UTB M (Medium-Format) Religionswissenschaft
+  editor:
+    - family: Klöcker
+      given: Michael
+    - family: Tworuschka
+      given: Udo
+  event-place: Köln Weimar Wien
+  ISBN: 978-3-8252-3165-1 978-3-412-20197-5
+  issued:
+    - year: 2008
+  language: de
+  number-of-pages: '328'
+  publisher: Böhlau
+  publisher-place: Köln Weimar Wien
+  source: K10plus ISBN
+  title: 'Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf'
+  title-short: Praktische Religionswissenschaft
+  type: book
+
+- id: kripalReligionSourcesPerspectives2016
+  citation-key: kripalReligionSourcesPerspectives2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Kripal
+      given: Jeffrey John
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866288-6
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: sources, perspectives, and methodologies'
+  title-short: Religion
+  type: book
+
+- id: kripalReligionSuperReligion2017
+  citation-key: kripalReligionSuperReligion2017
+  collection-title: Macmillan interdisciplinary handbooks. Religion
+  editor:
+    - family: Kripal
+      given: Jeffrey John
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866358-6
+  issued:
+    - year: 2017
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: super religion'
+  title-short: Religion
+  type: book
+
+- id: laackII5IndigenitaetDiskurse2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Laack
+      given: Isabel
+  citation-key: laackII5IndigenitaetDiskurse2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 173-184
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    II.5 Indigenität: Diskurse um indigene Religionen, dekoloniale Kritik an
+    westlicher Wissenschaft und mögliche Konsequenzen für die
+    Religionswissenschaft
+  title-short: II.5 Indigenität
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-016/html
+
+- id: ladenhaufReligiositaetUndSpiritualitaet2010
+  accessed:
+    - year: 2025
+      month: 1
+      day: 8
+  author:
+    - family: Ladenhauf
+      given: Karl Heinz
+    - family: Unterrainer
+      given: Human-Friedrich
+  citation-key: ladenhaufReligiositaetUndSpiritualitaet2010
+  collection-number: '14'
+  collection-title: Theologie im kulturellen Dialog
+  container-title: 'Macht Religion gesund?: christliches Heilsangebot und Wellness-Kultur'
+  editor:
+    - family: Schaupp
+      given: Walter
+    - family: Ruckenbauer
+      given: Hans-Walter
+  event-place: Innsbruck
+  issued:
+    - year: 2010
+  language: de
+  page: 163-188
+  publisher: Tyrolia-Verlag
+  publisher-place: Innsbruck
+  source: unipub.uni-graz.at
+  title: >-
+    Religiosität und Spiritualität im Krankheitsprozess: Ergebnisse aus einem
+    interdisziplinären Forschungsprojekt von empirischer Religionspsychologie
+    und Pastoralpsychologie
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/11-Ladenhauf+and+Unterrainer+-+2010+-+Religiosita%CC%88t+und+Spiritualita%CC%88t+im+Krankheitsprozes.pdf
+
+- id: langerDynamicsOrthodoxyHeterodoxy2008
+  author:
+    - family: Langer
+      given: Robert
+    - family: Simon
+      given: Udo
+  citation-key: langerDynamicsOrthodoxyHeterodoxy2008
+  container-title: Die Welt des Islams
+  issue: 3/4
+  issued:
+    - year: 2008
+  language: English
+  page: '273'
+  source: COinS
+  title: >-
+    The Dynamics of Orthodoxy and Heterodoxy. Dealing with Divergence in Muslim
+    Discourses and Islamic Studies
+  type: article-journal
+  URL: https://ubffm.hds.hebis.de/EdsRecord/edsjsr%2Cedsjsr.27798270/PDF
+  volume: '48'
+
+- id: langerIV3ReligionsbezogeneOrte2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Langer
+      given: Robert
+  citation-key: langerIV3ReligionsbezogeneOrte2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 317-328
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: 'IV.3 Religionsbezogene Orte: Eine praxisorientierte Annäherung'
+  title-short: IV.3 Religionsbezogene Orte
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-029/html
+
+- id: langerTherapeutischreligioseRitualperformanzenIm2015
+  author:
+    - family: Langer
+      given: Robert
+  citation-key: langerTherapeutischreligioseRitualperformanzenIm2015
+  container-title: >-
+    Somatisierung des Religiösen: Empirische Studien zum rezenten religiösen
+    Heilungs-und Therapiemarkt
+  editor:
+    - family: Klinkhammer
+      given: Gritt
+    - family: Tolksdorf
+      given: Eva
+  event-place: Bremen
+  issued:
+    - year: 2015
+  page: 219–236
+  publisher-place: Bremen
+  source: Google Scholar
+  title: >-
+    Therapeutisch-religiöse Ritualperformanzen im sufischen Kontext: Das
+    Beispiel Oruç Güvenç
+  title-short: 8. Therapeutisch-religiöse Ritualperformanzen im sufischen Kontext
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/02_Therapeutisch_religiose_Ritualperformanz.pdf
+
+- id: langerYezidismScholarlyLiterature2010
+  abstract: >-
+    This paper examines the question of heterodoxy and orthodoxy from the point
+    of view of the Yezidis, attempting to consider their place vis-a-vis Islam
+    and at the same time make a valid general characterisation of their form of
+    social life. It is particularly interested in the transition from the rural
+    background to urban European cities by the Yezidi community, and concludes
+    that there is a strong chance that the need to interact with European
+    society will force a codification of doctrine upon the Yezidis, with effects
+    which are not yet clear.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 9
+  author:
+    - family: Langer
+      given: Robert
+  citation-key: langerYezidismScholarlyLiterature2010
+  container-title: British Journal of Middle Eastern Studies
+  DOI: 10.1080/13530194.2010.524441
+  ISSN: 1353-0194
+  issue: '3'
+  issued:
+    - year: 2010
+      month: 12
+      day: 1
+  language: en
+  page: 393-403
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Yezidism between Scholarly Literature and Actual Practice: From ‘Heterodox’
+    Islam and ‘Syncretism’ to the Formation of a Transnational Yezidi
+    ‘Orthodoxy’
+  title-short: Yezidism between Scholarly Literature and Actual Practice
+  type: article-journal
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.tandfonline.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D1353-0194%26volume%3D37%26issue%3D3%26spage%3D393
+  volume: '37'
+
+- id: lugerVerkoerperteSpirituelleErfahrung2013
+  author:
+    - family: Luger
+      given: Martin A.
+  citation-key: lugerVerkoerperteSpirituelleErfahrung2013
+  collection-number: '5'
+  collection-title: >-
+    Schriftenreihe der Österreichischen Gesellschaft für Religionswissenschaft
+    (ÖGRW)
+  container-title: 'Heilung in den Religionen: religiöse, spirituelle und leibliche Dimensionen'
+  editor:
+    - family: Ferrknecht
+      given: Veronica
+    - family: Noseck-Licul
+      given: Michaela
+    - family: Kremser
+      given: Manfred
+  event-place: Vienna
+  ISBN: 978-3-643-50443-2
+  issued:
+    - year: 2013
+  language: de
+  page: 451-465
+  publisher: Lit-Verlag
+  publisher-place: Vienna
+  source: COinS
+  title: >-
+    Verkörperte spirituelle Erfahrung: der achtsame Körper in
+    Feldenkrais-Methode und Vipassana-Meditation
+  title-short: Verkörperte spirituelle Erfahrung
+  type: chapter
+
+- id: malteseII4GenderZur2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Maltese
+      given: Giovanni
+  citation-key: malteseII4GenderZur2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 161-172
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: 'II.4 Gender: Zur Vergeschlechtlichung von Allgemein- und Vergleichsbegriffen'
+  title-short: II.4 Gender
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-015/html
+
+- id: MaterialCulture
+  abstract: '"Material Culture" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 7
+      day: 25
+  citation-key: MaterialCulture
+  container-title: referenceworks
+  DOI: 10.1163/9789004249707_vsr_COM_00000036
+  language: en
+  title: Material Culture
+  type: webpage
+  URL: >-
+    https://referenceworks-1brill-1com-1h247bkmi02b8.proxy.fid-lizenzen.de/display/entries/VSRO/COM-00000036.xml
+
+- id: mattesYouBeOnYoungBelievers2022
+  abstract: Mapping On- and Offline Identifications of Urban Religious Youth
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Mattes
+      given: Astrid
+    - family: Novak
+      given: Christoph
+    - family: Haselbacher
+      given: Miriam
+    - family: Limacher
+      given: Katharina
+    - family: Abdolvahab
+      given: Shirin
+    - family: Rauer
+      given: Eva
+    - family: Probst
+      given: Stefan
+    - family: Ďurčo
+      given: Matej
+    - family: Hasenberger
+      given: Markus
+    - family: Breuer
+      given: Ludwig Maximilian
+  citation-key: mattesYouBeOnYoungBelievers2022
+  issued:
+    - year: 2022
+  language: de
+  title: YouBeOn - Young Believers Online
+  type: webpage
+  URL: https://app.youbeon.eu/places
+
+- id: mattsonVoicePen2013
+  abstract: >-
+    This popular introduction by a well-known Islamic scholar has been updated
+    and expanded, offering a balanced portrayal of the Qur’an and its place in
+    historic and contemporary Muslim society.  Features new sections on the
+    Qur’an and its relationship to democracy, science, human rights, and the
+    role of women Contains expanded sections on the Qur’an in the life cycle of
+    Muslims, and in Islamic ethics and law Incorporates additional images and
+    student features, including a glossary. Supported by an accompanying website
+    (available on publication) hosting a range of additional material, including
+    student resources, links to important websites, news stories, and more This
+    title is also available as an eTextbook on the CourseSmart platform, as a
+    Wiley Desktop Edition, or via your preferred eTextbook vendor; eTextbooks
+    offer convenience, enhanced electronic functionality, and flexible pricing
+    options – learn more at www.wiley.com/college/wileyflex
+  author:
+    - family: Mattson
+      given: Ingrid
+  citation-key: mattsonVoicePen2013
+  container-title: 'The Story of the Qur''an: Its History and Place in Muslim Life'
+  event-place: Chichester
+  ISBN: 978-0-470-67349-2
+  issued:
+    - year: 2013
+      month: 2
+      day: 18
+  language: en
+  page: 79-140
+  publisher: Wiley-Blackwell
+  publisher-place: Chichester
+  source: Google Books
+  title: The Voice and the Pen
+  type: chapter
+
+- id: mazumdarSacredSpacePlace1993
+  abstract: >-
+    The aim of this paper is to provide an understanding of the
+    interconnectedness between religion, identity and attachment to sacred
+    spaces. This is done in three parts. First, we provide a general
+    understanding of attachment to sacred spaces, settings and objects and
+    create a typology of attachment to different sacred spaces, from macro to
+    micro, from natural to human-made, based on a brief comparison of several
+    religions. Second, focusing on one part of this typology (attachment to
+    homes), we illustrate the creation, content and meaning of sacred space
+    through a detailed analysis of the Hindu house. Third, we examine the
+    emergence of place attachment and identity, the ways religion through ritual
+    connects people to places, and how places as settings for sacred behavior
+    and socialization connects people to religion. Finally, by including
+    personal history and auto-ethnography we attempt to ‘personalize’
+    environmental psychology.
+  accessed:
+    - year: 2024
+      month: 12
+      day: 9
+  author:
+    - family: Mazumdar
+      given: Shampa
+    - family: Mazumdar
+      given: Sanjoy
+  citation-key: mazumdarSacredSpacePlace1993
+  container-title: Journal of Environmental Psychology
+  container-title-short: Journal of Environmental Psychology
+  DOI: 10.1016/S0272-4944(05)80175-6
+  ISSN: 0272-4944
+  issue: '3'
+  issued:
+    - year: 1993
+      month: 9
+      day: 1
+  page: 231-242
+  source: ScienceDirect
+  title: Sacred space and place attachment
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S0272494405801756
+  volume: '13'
+
+- id: mercadanteBeliefBordersMinds2014
+  author:
+    - family: Mercadante
+      given: Linda A.
+  citation-key: mercadanteBeliefBordersMinds2014
+  event-place: New York
+  ISBN: 978-0-19-993100-2
+  issued:
+    - year: 2014
+  number-of-pages: 1 Online-Ressource
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: COinS
+  title: 'Belief without borders : inside the minds of the spiritual but not religious'
+  title-short: Belief without borders
+  type: book
+  URL: http://dx.doi.org/10.1093/acprof:oso/9780199931002.001.0001
+
+- id: meyerNeutraleReligionswissenschaftNormativitat2020
+  author:
+    - family: Meyer
+      given: Sophie Sidonie
+  citation-key: meyerNeutraleReligionswissenschaftNormativitat2020
+  event-place: Bern
+  genre: M.A. Thesis
+  issued:
+    - year: 2020
+  publisher: Universität Bern
+  publisher-place: Bern
+  title: >-
+    Neutrale Religionswissenschaft? Normativität und Wissenschaftlichkeit im
+    Verständnis ihrer Studierenden
+  type: thesis
+
+- id: middelbeck-varwickRamadanBrandenburgSignaturen2019
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Middelbeck-Varwick
+      given: Anja
+  citation-key: middelbeck-varwickRamadanBrandenburgSignaturen2019
+  container-title: Lebendige Seelsorge
+  DOI: 10.15496/PUBLIKATION-78472
+  issue: '4'
+  issued:
+    - year: 2019
+  page: 238-243
+  publisher: Universitaet Tuebingen
+  source: DOI.org (Datacite)
+  title: >-
+    Ramadan in Brandenburg : Signaturen des christlich-muslimischen Dialogs in
+    Deutschland
+  title-short: Ramadan in Brandenburg
+  type: article-journal
+  URL: https://publikationen.uni-tuebingen.de/xmlui/handle/10900/137121
+  volume: '70'
+
+- id: nagelII2DiasporaMigration2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Nagel
+      given: Alexander-Kenneth
+  citation-key: nagelII2DiasporaMigration2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 139-150
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: 'II.2 Diaspora: Migration und religiöser Wandel'
+  title-short: II.2 Diaspora
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-013/html
+
+- id: neumaierIII3ReligioesePluralitaet2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Neumaier
+      given: Anna
+    - family: Klinkhammer
+      given: Gritt
+  citation-key: neumaierIII3ReligioesePluralitaet2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 239-250
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    III.3 Religiöse Pluralität: Empirische Lage, Begriffsgeschichte und
+    theoretischer Kontext
+  title-short: III.3 Religiöse Pluralität
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-022/html
+
+- id: parsonsReligionSocialReligion2016
+  citation-key: parsonsReligionSocialReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Parsons
+      given: William Barclay
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866290-9
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: social religion'
+  title-short: Religion
+  type: book
+
+- id: pelikanWrittenTorahTalmud2006
+  abstract: >-
+    Jaroslav Pelikan, widely regarded as one of the most distinguished
+    historians of our day, now provides a clear and engaging account of the
+    Bible’s journey from oral narrative to Hebrew and Greek text to today’s
+    countless editions. Pelikan explores the evolution of the Jewish,
+    Protestant, and Catholic versions and the development of the printing press
+    and its effect on the Reformation, the translation into modern languages,
+    and varying schools of critical scholarship. Whose Bible Is It? is a triumph
+    of scholarship that is also a pleasure to read.
+  author:
+    - family: Pelikan
+      given: Jaroslav
+  citation-key: pelikanWrittenTorahTalmud2006
+  container-title: 'Whose Bible Is It?: A Short History of the Scriptures'
+  event-place: New York
+  ISBN: 978-0-14-303677-7
+  issued:
+    - year: 2006
+      month: 1
+      day: 31
+  language: en
+  page: 67-86
+  publisher: Penguin
+  publisher-place: New York
+  source: Google Books
+  title: 'Beyond Written Torah: Talmud and Continuing Revelation'
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/07_Pelikan+-+2006+-+Beyond+Written+Torah+Talmud+and+Continuing+Revela.pdf
+
+- id: picardJerusalemBabylonUnd
+  author:
+    - family: Picard
+      given: Jacques
+  citation-key: picardJerusalemBabylonUnd
+  language: de
+  source: Zotero
+  title: >-
+    Jerusalem, Babylon und andere Orte der Erinnerung. Über das Woher und Wohin
+    in der jüdischen Geschichtsschreibung
+  type: article-journal
+
+- id: pinnReligionJustReligion2016
+  citation-key: pinnReligionJustReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Pinn
+      given: Anthony B.
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866359-3
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: just religion'
+  title-short: Religion
+  type: book
+
+- id: pokornyII6MillenarismusDefinition2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Pokorny
+      given: Lukas K.
+  citation-key: pokornyII6MillenarismusDefinition2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 185-196
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: 'II.6 Millenarismus: Definition, Theorie, Systematik'
+  title-short: II.6 Millenarismus
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-017/html
+
+- id: postRitualStudies2015
+  abstract: '"Ritual Studies" published on  by Oxford University Press.'
+  accessed:
+    - year: 2024
+      month: 10
+      day: 28
+  author:
+    - family: Post
+      given: Paul
+  citation-key: postRitualStudies2015
+  container-title: Oxford Research Encyclopedia of Religion
+  DOI: 10.1093/acrefore/9780199340378.013.21
+  ISBN: 978-0-19-934037-8
+  issued:
+    - year: 2015
+      month: 9
+      day: 3
+  language: en
+  source: oxfordre-com.proxy.ub.uni-frankfurt.de
+  title: Ritual Studies
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/acrefore/9780199340378.013.21
+
+- id: prohlMaterialeReligion2012
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Prohl
+      given: Inken
+  citation-key: prohlMaterialeReligion2012
+  collection-title: De Gruyter Studium
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 379–392
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: Materiale Religion
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/08_Prohl_materialeReligion.pdf
+
+- id: radde-antweilerIII6ReligionZeiten2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Radde-Antweiler
+      given: Kerstin
+  citation-key: radde-antweilerIII6ReligionZeiten2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 273-282
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: III.6 Religion in Zeiten tiefgreifender Mediatisierung
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-025/html
+
+- id: rengerIII7MeisterJuengerUnd2012
+  abstract: >-
+    III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
+    Religionsgeschichte was published in Religionswissenschaft on page 313.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 17
+  author:
+    - family: Renger
+      given: Almut-Barbara
+  citation-key: rengerIII7MeisterJuengerUnd2012
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936.313
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  page: 313-326
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der
+    Religionsgeschichte
+  type: chapter
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110258936.313
+
+- id: reuterI2ReligioeseFeld2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 8
+  author:
+    - family: Reuter
+      given: Astrid
+  citation-key: reuterI2ReligioeseFeld2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 37-48
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: I.2 Das religiöse Feld
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-004/html
+
+- id: rezaniaI5GeneseReligionsbegriffs2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Rezania
+      given: Kianoosh
+  citation-key: rezaniaI5GeneseReligionsbegriffs2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 73-84
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    I.5 Die Genese eines Religionsbegriffs im iranischen Feld des
+    Religionskontaktes
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-007/html
+
+- id: riesebrodt11FundamentalismusUnd1990
+  accessed:
+    - year: 2023
+      month: 10
+      day: 11
+  author:
+    - family: Riesebrodt
+      given: Martin
+  citation-key: riesebrodt11FundamentalismusUnd1990
+  container-author:
+    - family: Riesebrodt
+      given: Martin
+  container-title: >-
+    Fundamentalismus als patriarchalische Protestbewegung: amerikanische
+    Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich
+  event-place: Tübingen
+  ISBN: 978-3-16-145669-5
+  issued:
+    - year: 1990
+  language: de
+  note: 'OCLC: 23972886'
+  page: 1-24
+  publisher: Mohr (Paul Siebeck)
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: >-
+    1.1 Fundamentalismus und Soziologie; 1.2 Fundamentalismus: ein umstrittenes
+    Konzept; 1.3 Fundamentalismus: ein definitorischer und typologischer
+    Neuansatz
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus-1_1-3.pdf
+
+- id: riesebrodtFundamentalismusAlsPatriarchalische1990
+  accessed:
+    - year: 2023
+      month: 10
+      day: 11
+  author:
+    - family: Riesebrodt
+      given: Martin
+  citation-key: riesebrodtFundamentalismusAlsPatriarchalische1990
+  event-place: Tübingen
+  ISBN: 978-3-16-145669-5
+  issued:
+    - year: 1990
+  language: de
+  note: 'OCLC: 23972886'
+  number-of-pages: '292'
+  publisher: Mohr (Paul Siebeck)
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: >-
+    Fundamentalismus als patriarchalische Protestbewegung: amerikanische
+    Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich
+  title-short: Fundamentalismus als patriarchalische Protestbewegung
+  type: book
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/12_Riesebrodt_Fundamentalismus-Buch.pdf
+
+- id: roettingIII4InterreligioeserDialog2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Rötting
+      given: Martin
+  citation-key: roettingIII4InterreligioeserDialog2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 251-262
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: III.4 Interreligiöser Dialog und Religionswissenschaft
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-023/html
+
+- id: schauppMachtReligionGesund2010
+  accessed:
+    - year: 2025
+      month: 1
+      day: 8
+  citation-key: schauppMachtReligionGesund2010
+  collection-number: '14'
+  collection-title: Theologie im kulturellen Dialog
+  editor:
+    - family: Schaupp
+      given: Walter
+    - family: Ruckenbauer
+      given: Hans-Walter
+  event-place: Innsbruck
+  issued:
+    - year: 2010
+  language: de
+  publisher: Tyrolia-Verlag
+  publisher-place: Innsbruck
+  source: unipub.uni-graz.at
+  title: 'Macht Religion gesund?: christliches Heilsangebot und Wellness-Kultur'
+  title-short: Macht Religion gesund?
+  type: book
+  URL: https://unipub.uni-graz.at/obvugroa/download/pdf/10318635
+
+- id: schilbrackConceptReligion2022
+  abstract: >-
+    It is common today to take the concept religion as a taxonfor sets of social
+    practices, a category-concept whose paradigmaticexamples are the so-called
+    “world” religions of Judaism,Christianity, Islam, Hinduism, Buddhism,
+    Confucianism, and Daoism.[1] Perhaps equally paradigmatic, though somewhat
+    trickier to label, areforms of life that have not been given a name, either
+    by practitionersor by observers, but are common to a geographical area or a
+    group ofpeople—for example, the religion of China or that of ancientRome,
+    the religion of the Yoruba or that of the Cherokee. In short,the concept is
+    today used for a genus of social formations thatincludes several members, a
+    type of which there are many tokens.
+  accessed:
+    - year: 2025
+      month: 9
+      day: 6
+  author:
+    - family: Schilbrack
+      given: Kevin
+  citation-key: schilbrackConceptReligion2022
+  container-title: The Stanford Encyclopedia of Philosophy
+  edition: Summer 2022
+  editor:
+    - family: Zalta
+      given: Edward N.
+  issued:
+    - year: 2022
+  publisher: Metaphysics Research Lab, Stanford University
+  source: Stanford Encyclopedia of Philosophy
+  title: The Concept of Religion
+  type: chapter
+  URL: https://plato.stanford.edu/archives/sum2022/entries/concept-religion/
+
+- id: schlieterReligionReligionswissenschaftUnd2012
+  accessed:
+    - year: 2024
+      month: 11
+      day: 11
+  author:
+    - family: Schlieter
+      given: Jens
+  citation-key: schlieterReligionReligionswissenschaftUnd2012
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936.227
+  editor:
+    - family: Stausberg
+      given: Michael
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  page: 227-240
+  publisher: De Gruyter
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: Religion, Religionswissenschaft und Normativität
+  type: chapter
+  URL: >-
+    https://www-degruyter-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110258936.227/pdf
+
+- id: schmiedelInterreligioeserDialogAls2008
+  author:
+    - family: Schmiedel
+      given: Michael A.
+  citation-key: schmiedelInterreligioeserDialogAls2008
+  collection-number: '3165'
+  collection-title: UTB M (Medium-Format) Religionswissenschaft
+  container-title: 'Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf'
+  editor:
+    - family: Klöcker
+      given: Michael
+    - family: Tworuschka
+      given: Udo
+  event-place: Köln Weimar Wien
+  ISBN: 978-3-8252-3165-1 978-3-412-20197-5
+  issued:
+    - year: 2008
+  language: de
+  page: 228-237
+  publisher: Böhlau
+  publisher-place: Köln Weimar Wien
+  source: K10plus ISBN
+  title: Interreligiöser Dialog als Aufgabe angewandter Religionswissenschaft
+  title-short: Interreligiöser Dialog
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/13_Schmiedel+-+2008+-+Interreligio%CC%88ser+Dialog+als+Aufgabe+angewandter+Rel.pdf
+
+- id: schrodeI3ReligionRelational2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Schrode
+      given: Paula
+    - family: Spies
+      given: Eva
+  citation-key: schrodeI3ReligionRelational2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 49-60
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    I.3 Religion relational: Eine Forschungsperspektive auf Praktiken und
+    Prozesse
+  title-short: I.3 Religion relational
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-005/html
+
+- id: sijapatiBodyToolRemembrance2021
+  author:
+    - family: Sijapati
+      given: Megan Adamson
+  citation-key: sijapatiBodyToolRemembrance2021
+  container-title: Body and religion
+  ISSN: 2057-5831
+  issue: '1'
+  issued:
+    - year: 2021
+  language: English
+  page: '96'
+  source: COinS
+  title: >-
+    "The body is a tool for remembrance": healing, transformation, and the
+    instrumentality of the body in a North American Sufi order
+  title-short: The body is a tool for remembrance
+  type: article-journal
+  volume: '5'
+
+- id: srowigRadikalisierungIndividuenUeberblick2018
+  abstract: >-
+    Warum radikalisieren sich Individuen? Dieser Report gibt einen
+    systematischen Überblick über den Forschungsstand zu den Ursachen und Folgen
+    der Radikalisierung von Individuen und beschreibt wie diese in
+    Wechselwirkung und Interaktion mit anderen Personen, sozialen Gruppen sowie
+    Organisationen oder Institutionen stattfinden. Die Aneignung extremistischer
+    Denkmuster sowie die Zugehörigkeit zu einer extremistischen
+    Gleichaltrigengruppe im Jugendalter helfen bei der Befriedigung allgemeiner
+    Bedürfnisse wie Anerkennung und Gruppenzugehörigkeit, aber auch bei der
+    Reduktion von Unsicherheiten und Identitätskonflikten. Ideologien bieten
+    Individuen nachvollziehbare Deutungsmuster und individuelle
+    Handlungsalternativen für spezifische Problemlagen an. Der Report leitet aus
+    seinen Erkenntnissen Vorschläge für zukünftige präventive und therapeutische
+    Maßnahmen ab
+  author:
+    - family: Srowig
+      given: Fabian
+    - family: Roth
+      given: Viktoria
+    - family: Pisoiu
+      given: Daniela
+    - family: Seewald
+      given: Katharina
+    - family: Zick
+      given: Andreas
+  citation-key: srowigRadikalisierungIndividuenUeberblick2018
+  collection-title: PRIF report
+  container-title: PRIF report
+  contributor:
+    - family: Hessische Stiftung Friedens- und Konfliktforschung
+      given: ''
+  issued:
+    - year: 2018
+  language: de
+  page: 1-31
+  source: K10plus ISBN
+  title: >-
+    Radikalisierung von Individuen: ein Überblick über mögliche
+    Erklärungsansätze
+  title-short: Radikalisierung von Individuen
+  type: article-journal
+  URL: https://www.hsfk.de/fileadmin/HSFK/hsfk_publikationen/prif0618.pdf
+
+- id: stausbergGlossar2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  citation-key: stausbergGlossar2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 379-390
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: Glossar
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-034/html
+
+- id: stausbergI1ReligionBegriff2012
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Stausberg
+      given: Michael
+  citation-key: stausbergI1ReligionBegriff2012
+  collection-title: De Gruyter Studium
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 33-47
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: 'I.1 Religion : Begriff, Definitionen, Theorien'
+  type: chapter
+  URL: >-
+    https://www-degruyter-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110258936.33/pdf
+
+- id: stausbergNormenWerteUnd2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Stausberg
+      given: Michael
+  citation-key: stausbergNormenWerteUnd2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 367-378
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: Normen, Werte und Tugenden in der Religionswissenschaft
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-033/html
+
+- id: stausbergReligionswissenschaft2012
+  abstract: >-
+    What constitutes the field of religious studies? The 29 chapters in this
+    introductory text offer an incisive look at the key approaches, methods,
+    problems, and subjects that define contemporary academic research in the
+    field of religious studies at universities in the German-speaking world. It
+    provides a unique and polyphonic portrait of contemporary religious studies.
+    The contributions are written in a clear, accessible style; an appendix with
+    supplemental reading aids helps one to navigate the individual
+    contributions.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  citation-key: stausbergReligionswissenschaft2012
+  collection-title: De Gruyter Studium
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: Religionswissenschaft
+  type: book
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110258936
+
+- id: stausbergReligionswissenschaftAktuelleAnnaherungen2025
+  abstract: >-
+    This volume offers a unique introduction to contemporary religious studies
+    in twenty-seven accessible, clearly written chapters written by religious
+    studies scholars from Germany, Austria, and Switzerland. The central,
+    research-driven topics showcase the field’s rich diversity of perspectives.
+    The chapters are framed by an introduction and an epilogue, supplemented by
+    a glossary and an image series.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 8
+  citation-key: stausbergReligionswissenschaftAktuelleAnnaherungen2025
+  DOI: 10.1515/9783111458892
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  event-place: Berlin
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de, en
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyterbrill.com
+  title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  title-short: Religionswissenschaft
+  type: book
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892/html
+
+- id: stausbergReligionswissenschaftProfilUniversitatsfachs2012
+  accessed:
+    - year: 2025
+      month: 10
+      day: 13
+  author:
+    - family: Stausberg
+      given: Michael
+  citation-key: stausbergReligionswissenschaftProfilUniversitatsfachs2012
+  container-title: Religionswissenschaft
+  editor:
+    - family: Stausberg
+      given: Michael
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: en
+  page: 1-30
+  publisher: De Gruyter
+  source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    Religionswissenschaft: Profil eines Universitätsfachs im deutschsprachigen
+    Raum
+  title-short: Religionswissenschaft
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.1/html
+
+- id: stausbergReligionswissenschaftWarumWas2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 8
+  author:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  citation-key: stausbergReligionswissenschaftWarumWas2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  event-place: Berlin
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 1-3 (von 16)
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyterbrill.com
+  title: 'Religionswissenschaft: Warum, was, wer, wie'
+  title-short: Religionswissenschaft
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-001/html
+
+- id: stephensonRitual2022
+  abstract: '"Ritual" published on  by Oxford University Press.'
+  accessed:
+    - year: 2024
+      month: 10
+      day: 28
+  author:
+    - family: Stephenson
+      given: Barry
+  citation-key: stephensonRitual2022
+  container-title: Oxford Research Encyclopedia of Religion
+  DOI: 10.1093/acrefore/9780199340378.013.923
+  ISBN: 978-0-19-934037-8
+  issued:
+    - year: 2022
+      month: 11
+      day: 22
+  language: en
+  source: oxfordre-com.proxy.ub.uni-frankfurt.de
+  title: Ritual
+  type: chapter
+  URL: >-
+    https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/acrefore/9780199340378.013.923
+
+- id: strubeIII1GlobaleEntstehung2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Strube
+      given: Julian
+  citation-key: strubeIII1GlobaleEntstehung2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 217-228
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    III.1 Die globale Entstehung der Religionswissenschaft: Das Beispiel
+    Bengalens zwischen Universalismus und Nationalismus
+  title-short: III.1 Die globale Entstehung der Religionswissenschaft
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-020/html
+
+- id: suarsanaI6VomGlauben2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Suarsana
+      given: Yan
+  citation-key: suarsanaI6VomGlauben2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 85-96
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    I.6 Vom Glauben zur Religion: Liberaler Protestantismus und Religionsbegriff
+    im 19. und 20. Jahrhundert
+  title-short: I.6 Vom Glauben zur Religion
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-008/html
+
+- id: Totem
+  abstract: '"Totem" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 7
+      day: 25
+  citation-key: Totem
+  container-title: referenceworks
+  DOI: 10.1163/9789004249707_vsr_COM_00000168
+  language: en
+  title: Totem
+  type: webpage
+  URL: >-
+    https://referenceworks-1brill-1com-1h247bkmi02b8.proxy.fid-lizenzen.de/display/entries/VSRO/COM-00000168.xml
+
+- id: tsuriaJournalReligionMedia
+  accessed:
+    - year: 2023
+      month: 10
+      day: 10
+  author:
+    - family: Tsuria
+      given: Ruth
+  citation-key: tsuriaJournalReligionMedia
+  container-title: Journal of Religion, Media and Digital Culture
+  ISSN: 2165-9214
+  title: Journal of Religion, Media and Digital Culture
+  type: article-journal
+  URL: >-
+    https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/rmdc/rmdc-overview.xml
+
+- id: VocabularyStudyReligion
+  abstract: '"Vocabulary for the Study of Religion Online" published on  by Brill.'
+  accessed:
+    - year: 2025
+      month: 7
+      day: 25
+  citation-key: VocabularyStudyReligion
+  container-title: referenceworks
+  language: en
+  title: Vocabulary for the Study of Religion Online
+  type: webpage
+  URL: >-
+    https://referenceworks-1brill-1com-1h247bkmi02b8.proxy.fid-lizenzen.de/display/db/vsro
+
+- id: waardenburgReligionenUndReligion1986
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Waardenburg
+      given: Jacques
+  citation-key: waardenburgReligionenUndReligion1986
+  event-place: Berlin
+  ISBN: 978-3-11-085219-6
+  issued:
+    - year: 1986
+  language: de
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    Religionen und Religion: Systematische Einführung in die
+    Religionswissenschaft
+  title-short: Religionen und Religion
+  type: book
+  URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110852196
+
+- id: walker11Pilgrimage2018
+  abstract: >-
+    The Oxford Illustrated History of the Holy Land covers the 3,000 years which
+    saw the rise of Judaism, Christianity, and Islam--and relates the familiar
+    stories of the sacred texts with the fruits of modern scholarship. Beginning
+    with the origins of the people who became the Israel of the Bible, it
+    follows the course of the ensuing millennia down to the time when the
+    Ottoman Empire succumbed to British and French rule at the end of the First
+    World War. Parts of the story, especially as known from the Bible, will be
+    widely familiar. Less familiar are the ways in which modern research, both
+    from archaeology and from other ancient sources, sometimes modify this story
+    historically. Better understanding, however, enables us to appreciate
+    crucial chapters in the story of the Holy Land, such as how and why Judaism
+    developed in the way that it did from the earlier sovereign states of Israel
+    and Judah and the historical circumstances in which Christianity emerged
+    from its Jewish cradle. Later parts of the story are vital not only for the
+    history of Islam and its relationships with the two older religions, but
+    also for the development of pilgrimage and religious tourism, as well as the
+    notions of sacred space and of holy books with which we are still familiar
+    today. Sensitive to the concerns of those for whom the sacred books of
+    Judaism, Christianity, and Islam are of paramount religious authority, the
+    authors all try sympathetically to show how historical information from
+    other sources, as well as scholarly study of the texts themselves, enriches
+    our understanding of the history of the region and its prominent position in
+    the world's cultural and intellectual history.
+  author:
+    - family: Walker
+      given: Peter
+    - family: Hoyland
+      given: Robert
+  citation-key: walker11Pilgrimage2018
+  container-title: The Oxford Illustrated History of the Holy Land
+  editor:
+    - family: Hoyland
+      given: Robert G.
+    - family: Williamson
+      given: Hugh Godfrey Maturin
+  event-place: Oxford
+  ISBN: 978-0-19-872439-1
+  issued:
+    - year: 2018
+  language: en
+  page: 281-316
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: Google Books
+  title: 11. Pilgrimage
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/09_Walker+and+Hoyland+-+2018+-+11.+Pilgrimage.pdf
+
+- id: walthertI1ReligionAls2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 8
+  author:
+    - family: Walthert
+      given: Rafael
+  citation-key: walthertI1ReligionAls2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 25-36
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: I.1 Religion als Symbolsystem? Clifford Geertz und die Folgen
+  title-short: I.1 Religion als Symbolsystem?
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-003/html
+
+- id: wenzelDefinitionenReligion2023
+  author:
+    - family: Wenzel
+      given: Catherina
+  citation-key: wenzelDefinitionenReligion2023
+  issued:
+    - year: 2023
+      month: 10
+      day: 24
+  language: de
+  title: Definitionen von Religion
+  type: document
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/02-Wenzel+-+2023+-+Definitionen+von+Religion.pdf
+
+- id: wilkeIV6TextKlang2012
+  abstract: >-
+    What constitutes the field of religious studies? The 29 chapters in this
+    introductory text offer an incisive look at the key approaches, methods,
+    problems, and subjects that define contemporary academic research in the
+    field of religious studies at universities in the German-speaking world. It
+    provides a unique and polyphonic portrait of contemporary religious studies.
+    The contributions are written in a clear, accessible style; an appendix with
+    supplemental reading aids helps one to navigate the individual
+    contributions.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 6
+  author:
+    - family: Wilke
+      given: Annette
+  citation-key: wilkeIV6TextKlang2012
+  collection-title: De Gruyter Studium
+  container-title: Religionswissenschaft
+  DOI: 10.1515/9783110258936
+  editor:
+    - family: Stausberg
+      given: Michael
+  event-place: Berlin
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: de
+  license: >-
+    De Gruyter expressly reserves the right to use all content for commercial
+    text and data mining within the meaning of Section 44b of the German
+    Copyright Act.
+  page: 407-420
+  publisher: De Gruyter
+  publisher-place: Berlin
+  source: www.degruyter.com
+  title: >-
+    IV.6 Text, Klang und Ritual. Plädoyer für Religionswissenschaft als
+    Kulturhermeneutik
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.degruyter.com%2Fdoi%2Fbook%2F10.1515%2F9783110258936.407
+
+- id: winterIII5ReligionsgeschichteAls2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Winter
+      given: Franz
+  citation-key: winterIII5ReligionsgeschichteAls2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 263-272
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: III.5 Religionsgeschichte als Begegnungs- und Verflechtungsgeschichte
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-024/html
+
+- id: yelleII7SecularizationTransformations2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 9
+  author:
+    - family: Yelle
+      given: Robert A.
+  citation-key: yelleII7SecularizationTransformations2025
+  container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
+  editor:
+    - family: Stausberg
+      given: Michael
+    - family: Wilkens
+      given: Katharina
+  ISBN: 978-3-11-145889-2
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  language: de
+  page: 197-208
+  publisher: De Gruyter
+  source: www.degruyterbrill.com
+  title: >-
+    II.7 Secularization: Transformations of Religion and Politics in Western
+    Europe (and the US)
+  title-short: II.7 Secularization
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-018/html
+
+- id: zinser35SozialeBeziehungen2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinser35SozialeBeziehungen2010
+  container-title: Grundfragen der Religionswissenschaft
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  page: 105-111
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: 3.5 Soziale Beziehungen der Menschen in den religiösen Gemeinschaften
+  type: chapter
+  URL: https://daten.digitale-sammlungen.de/~db/0010/bsb00107067/image_103
+
+- id: zinser74TempelUnd2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinser74TempelUnd2010
+  container-title: Grundfragen der Religionswissenschaft
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  page: 212-216
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: 7.4 Tempel und Sakralbauten
+  type: chapter
+  URL: https://daten.digitale-sammlungen.de/~db/0010/bsb00107067/image_210
+
+- id: zinser92OrakelUnd2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinser92OrakelUnd2010
+  container-title: Grundfragen der Religionswissenschaft
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  page: 237-241
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: '9.2 Orakel und Offenbarung: Mantik und andere Divinationsverfahren'
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/22068363264/CourseNode/93668888136198/10_Zinser_Grundfragen_233-47.pdf
+
+- id: zinserGrundfragenReligionswissenschaft2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinserGrundfragenReligionswissenschaft2010
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: Grundfragen der Religionswissenschaft
+  type: book
+  URL: https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb00107067-3
+
+- id: zinserVITexteUnd2010
+  author:
+    - family: Zinser
+      given: Hartmut
+  citation-key: zinserVITexteUnd2010
+  container-title: Grundfragen der Religionswissenschaft
+  event-place: Paderborn
+  issued:
+    - year: 2010
+  language: de
+  page: 155-193
+  publisher: Schöningh
+  publisher-place: Paderborn
+  title: VI Texte und Schriften in den Religionen
+  type: chapter
+  URL: >-
+    https://daten.digitale-sammlungen.de/0010/bsb00107067/images/index.html?fip=193.174.98.30&id=00107067&seite=153
+
+- id: zuckermanReligionReligion2016
+  citation-key: zuckermanReligionReligion2016
+  collection-title: Macmillan interdisciplinary handbooks
+  editor:
+    - family: Zuckerman
+      given: Phil
+    - literal: Gale (Firm)
+  event-place: Farmington Hills, Mich
+  ISBN: 978-0-02-866361-6
+  issued:
+    - year: 2016
+  language: eng
+  number-of-pages: '1'
+  publisher: Macmillan Reference USA, a part of Gale, Cengage Learning
+  publisher-place: Farmington Hills, Mich
+  source: K10plus ISBN
+  title: 'Religion: beyond religion'
+  title-short: Religion
+  type: book
 ...
