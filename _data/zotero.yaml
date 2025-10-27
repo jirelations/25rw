@@ -3159,6 +3159,40 @@ references:
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-003/html
 
+- id: welteckeUeberReligionVor2015
+  accessed:
+    - year: 2022
+      month: 1
+      day: 25
+  author:
+    - family: Weltecke
+      given: Dorothea
+  citation-key: welteckeUeberReligionVor2015
+  container-title: Religion als Prozess
+  DOI: 10.30965/9783657781164_004
+  editor:
+    - family: Schlögl
+      given: Rudolf
+    - family: Kirsch
+      given: Thomas G.
+    - family: Weltecke
+      given: Dorothea
+  event-place: Paderborn
+  ISBN: 978-3-657-78116-4 978-3-506-78116-1
+  issued:
+    - year: 2015
+  language: de
+  page: 13-34
+  publisher: Brill/Schöningh
+  publisher-place: Paderborn
+  source: DOI.org (Crossref)
+  title: >-
+    Über Religion vor der „Religion“: Konzeptionen vor der Entstehung des
+    neuzeitlichen Begriffes
+  title-short: Über Religion vor der „Religion“
+  type: chapter
+  URL: https://doi.org/10.30965/9783657781164_004
+
 - id: wenzelDefinitionenReligion2023
   author:
     - family: Wenzel
