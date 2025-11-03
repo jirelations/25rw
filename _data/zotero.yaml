@@ -1042,6 +1042,24 @@ references:
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-009/html
 
+- id: grimesBeginningsRitualStudies1995
+  author:
+    - family: Grimes
+      given: Ronald L.
+  citation-key: grimesBeginningsRitualStudies1995
+  edition: rev. ed.
+  event-place: Columbia, NC
+  ISBN: 978-1-57003-001-7
+  issued:
+    - year: 1995
+  number-of-pages: XXVIII, 299 S.
+  publisher: Univ. of South Carolina Press
+  publisher-place: Columbia, NC
+  source: COinS
+  title: Beginnings in ritual studies
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB04315218X
+
 - id: grimesCraftRitualStudies2014
   abstract: >-
     In religious studies, theory and method research has long been embroiled in
@@ -1085,6 +1103,24 @@ references:
   title: The Craft of Ritual Studies
   type: book
   URL: https://www.google.de/books?id=BWMBAQAAQBAJ
+
+- id: grimesRiteOutPlace2006
+  author:
+    - family: Grimes
+      given: Ronald L.
+  citation-key: grimesRiteOutPlace2006
+  event-place: Oxford [u.a.]
+  ISBN: 978-0-19-530145-8
+  issued:
+    - year: 2006
+  number-of-pages: XI, 199 S.
+  publisher: Oxford Univ. Press
+  publisher-place: Oxford [u.a.]
+  source: COinS
+  title: 'Rite out of place : ritual, media, and the arts'
+  title-short: Rite out of place
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB18034837X
 
 - id: haussmannUniversitaetUndLehrerausbildung2013
   author:
@@ -1371,6 +1407,36 @@ references:
   URL: >-
     https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073941&page=1
 
+- id: hoondertExploringRitualFields2021
+  abstract: >-
+    Rituals, although seemingly traditional and fixed, a re v ery m uch
+    contextualand subject to change. Rituals do not exist and are not performed
+    in a vacuum,and are not independent of time and place. They are deeply
+    influenced by thecultural, social, economic, and political contexts in which
+    they appear. Trendsin culture also lead to ritual trends. Therefore, rituals
+    are a dynamic field, whichis reflected in this Special Issue of Religions
+    regarding "Exploring RitualFields Today".
+  accessed:
+    - year: 2025
+      month: 10
+      day: 31
+  citation-key: hoondertExploringRitualFields2021
+  DOI: 10.3390/books978-3-0365-1311-9
+  editor:
+    - family: Hoondert
+      given: Martin
+    - family: Post
+      given: Paul
+  issued:
+    - year: 2021
+  language: English
+  note: 'Accepted: 2022-01-11T13:45:33Z'
+  publisher: MDPI - Multidisciplinary Digital Publishing Institute
+  source: directory.doabooks.org
+  title: Exploring Ritual Fields Today
+  type: book
+  URL: https://directory.doabooks.org/handle/20.500.12854/76897
+
 - id: hoylandOxfordIllustratedHistory2018
   abstract: >-
     The Oxford Illustrated History of the Holy Land covers the 3,000 years which
@@ -1454,6 +1520,30 @@ references:
   title: 'Religion: narrating religion'
   title-short: Religion
   type: book
+
+- id: joyceMaterializingRitualPractices2022
+  abstract: "Materializing Ritual Practices explores the deep history of ritual practice in Mexico and Central America and the ways interdisciplinary research can be coordinated to illuminate how rituals create, destroy, and transform social relations. \_ Ritual action produces sequences of creation, destruction, and transformation, which involve a variety of materials that are active and agential. The materialities of ritual may persist at temporal scales long beyond the lives of humans or be as ephemeral as spoken words, music, and scents. In this book, archaeologists and ethnographers, including specialists in narrative, music, and ritual practice, explore the rhythms and materiality of rituals that accompany everyday actions, like the construction of houses, healing practices, and religious festivals, and that paced commemoration of rulers, ancestor veneration, and relations with spiritual beings in the past. \_ Connecting the kinds of observed material discursive practices that ethnographers witness to the sedimented practices from which archaeologists infer similar practices in the past, Materializing Ritual Practices addresses how specific materialities encourage repetition in ritual actions and, in other circumstances, resist changes to ritual sequences. The volume will be of interest to cultural anthropologists, archaeologists, and linguists with interests in Central America, ritual, materiality, and time. \_ Contributors: M. Charlotte Arnauld, Giovani Balam Caamal, Isaac Barrientos, Cedric Becquey, Johann Begel, Valeria Bellomia, Juan Carillo Gonzalez, Maire Chosson, Julien Hiquet, Katrina Kosyk, Olivier Le Guen, Maria Luisa Vasquez de Agredos Pascual, Alessandro Lupo, Philippe Nondedeo, Julie Patrois, Russel Sheptak, Valentina Vapnarsky, Francisca Zalaquett Rock"
+  accessed:
+    - year: 2025
+      month: 10
+      day: 31
+  author:
+    - family: Joyce
+      given: Rosemary A.
+    - family: Johnson
+      given: Lisa M.
+  citation-key: joyceMaterializingRitualPractices2022
+  event-place: Boulder
+  ISBN: 978-1-64642-239-5
+  issued:
+    - year: 2022
+  publisher: University Press of Colorado
+  publisher-place: Boulder
+  source: Project MUSE
+  title: Materializing Ritual Practices
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fmuse.jhu.edu%2Fbook%2F100667%2F
 
 - id: kehrerGruppeGruppendynamik1993
   author:
@@ -3009,6 +3099,103 @@ references:
   title-short: I.6 Vom Glauben zur Religion
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-008/html
+
+- id: tavarezAnthropologyRitualLanguage2024
+  abstract: >-
+    This chapter examines classic and current anthropological and social science
+    approaches to ritualized activities and ritual language. As an introduction
+    to the topic, it surveys early anthropological proposals by Boas, Durkheim,
+    and Malinowski. It then turns to the influential work of Turner, Tambiah,
+    and Rappaport before introducing a concise survey of current debates and
+    methods. It also includes a discussion of recent research on the five major
+    topical areas that provide a structure for the chapters in this volume, and
+    it also situates the handbook’s chapters within classic and emerging
+    paradigms.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 31
+  author:
+    - family: Tavárez
+      given: David
+  citation-key: tavarezAnthropologyRitualLanguage2024
+  container-title: The Oxford Handbook of Ritual Language
+  DOI: 10.1093/oxfordhb/9780192868091.013.2
+  editor:
+    - family: Tavárez
+      given: David
+  ISBN: 978-0-19-286809-1
+  issued:
+    - year: 2024
+      month: 12
+      day: 12
+  page: '0'
+  publisher: Oxford University Press
+  source: Silverchair
+  title: 'The Anthropology of Ritual Language: Classic and Contemporary Approaches'
+  title-short: The Anthropology of Ritual Language
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1093%2Foxfordhb%2F9780192868091.013.2
+
+- id: tavarezLanguageRitualColonialism2024
+  abstract: >-
+    This chapter provides a condensed overview of the cultural and intellectual
+    history of ritual language from classical antiquity to the nineteenth
+    century, with a focus on how the regimentation of ritual speech became
+    intertwined with colonial rule and Christian indoctrination between the
+    sixteenth and the nineteenth centuries as part of the emergence of colonial
+    dynamics of knowledge in the Americas and Asia. It focuses on a central
+    property of ritual speech, defined here as inscriptibility, and on
+    lexicographic hegemony and lexical invention as two important processes that
+    structured colonial understandings of ritual language.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 31
+  author:
+    - family: Tavárez
+      given: David
+  citation-key: tavarezLanguageRitualColonialism2024
+  container-title: The Oxford Handbook of Ritual Language
+  DOI: 10.1093/oxfordhb/9780192868091.013.1
+  editor:
+    - family: Tavárez
+      given: David
+  ISBN: 978-0-19-286809-1
+  issued:
+    - year: 2024
+      month: 12
+      day: 12
+  page: '0'
+  publisher: Oxford University Press
+  source: Silverchair
+  title: 'Language, Ritual, and Colonialism: A Brief Cultural History'
+  title-short: Language, Ritual, and Colonialism
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1093%2Foxfordhb%2F9780192868091.013.1
+
+- id: tavarezOxfordHandbookRitual2025
+  author:
+    - family: Tavárez
+      given: David (Herausgeber)
+  citation-key: tavarezOxfordHandbookRitual2025
+  event-place: Oxford
+  ISBN: 978-0-19-196014-7
+  issued:
+    date-parts:
+      - - '2025'
+  number-of-pages: 1 Online-Ressource (xxvi, 590 Seiten)
+  original-date:
+    - year: 2025
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: COinS
+  title: The Oxford handbook of ritual language
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1093%2Foxfordhb%2F9780192868091.001.0001
 
 - id: Totem
   abstract: '"Totem" published on  by Brill.'
