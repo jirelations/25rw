@@ -1,5 +1,45 @@
 ---
 references:
+- id: ackermannCharismaNetzwerkBraco2015
+  abstract: >-
+    Charisma, verstanden als die Zuschreibung des Außergewöhnlichen, ist ein
+    rein relationales Konstrukt. Die Beschreibung einer Person oder eines Dings
+    als charismatisch ist dieser Definition entsprechend irreführend. Der
+    wissenschaftliche Diskurs über Charisma stolpert allerdings bis anhin noch
+    über diesen sprachlichen Stein. Somit blieben auch nach der seit Weber
+    geforderten Relationalisierung des Konzepts Sinnartefakte anderer
+    Charisma-Diskurse bestehen. Mithilfe der Perspektive der sozialen
+    Netzwerkanalyse sollen diese Begrifflichkeiten in folgenden Beitrag
+    geschärft und das Charisma-Konzept erweitert werden. Anstatt von
+    charismatischen Akteuren zu sprechen, schlage ich vor nur noch Beziehungen
+    und Netzwerke charismatisch, Akteure hingegen charismatisiert oder
+    charismatisierend zu nennen. Am Beispiel des Heilers Braco wird dieser
+    Vorschlag demonstriert, gezeigt wie sich Charisma-Netzwerke über
+    Zuschreibungsprozesse konstituieren und verbreiten und wie die Strukturlogik
+    von Events die Charismatisierung normativieren.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 8
+  author:
+    - family: Ackermann
+      given: Martin
+  citation-key: ackermannCharismaNetzwerkBraco2015
+  container-title: Zeitschrift für junge Religionswissenschaft
+  DOI: 10.4000/zjr.908
+  ISSN: 1862-5886
+  issue: '10'
+  issued:
+    - year: 2015
+      month: 12
+      day: 31
+  language: de
+  publisher: Zeitschrift für junge Religionswissenschaft
+  source: journals-openedition-org.proxy.ub.uni-frankfurt.de
+  title: Das Charisma-Netzwerk von Braco
+  type: article-journal
+  URL: https://journals.openedition.org/zjr/908
+
 - id: aeschbachWhatBritishMuslimsReallyThink2017
   abstract: >-
     In the discursive construction of intra-national sameness, religious
@@ -88,7 +128,7 @@ references:
     - year: 2008
       month: 3
   language: en
-  page: 37-59
+  page: 37–59
   source: DOI.org (Crossref)
   title: >-
     “Why Are You Mixing what Cannot be Mixed?” Shared Devotions in the
@@ -127,7 +167,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 107-118
+  page: 107–118
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: I.8 Das Weltreligionenparadigma
@@ -197,7 +237,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 305-316
+  page: 305–316
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: IV.2 Metaphern und die Lesbarkeit von Religion
@@ -228,6 +268,42 @@ references:
   title-short: Choreographies of shared sacred sites
   type: book
 
+- id: barnesCharismaReligiousLeadership1978
+  abstract: >-
+    While Max Weber formulated an "ideal" definition of charisma and its
+    routinization, he did not fully address the question of charismatic origins.
+    This paper proposes a theory of charismatic leadership which explores the
+    social conditions under which charisma will emerge. Charismatic leaders are
+    hypothesized to live in periods of radical social change or be cut off from
+    the mainstream of society, perceive religious tradition as relative, and
+    have innovative teachings if their religion is to be institutionalized. They
+    are also not excluded from occupying an institutional office within a
+    traditional religion. The theory is tentatively supported by an examination
+    of biographical data for fifteen charismatic leaders and their successors
+    from various periods of history and from different parts of the world.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 8
+  author:
+    - family: Barnes
+      given: Douglas F.
+  citation-key: barnesCharismaReligiousLeadership1978
+  container-title: Journal for the Scientific Study of Religion
+  DOI: 10.2307/1385423
+  ISSN: 0021-8294
+  issue: '1'
+  issued:
+    - year: 1978
+  page: 1–18
+  publisher: '[Society for the Scientific Study of Religion, Wiley]'
+  source: JSTOR
+  title: 'Charisma and Religious Leadership: An Historical Analysis'
+  title-short: Charisma and Religious Leadership
+  type: article-journal
+  URL: https://www.jstor.org/stable/1385423
+  volume: '17'
+
 - id: beinhauer-koehlerIV4ReligionsgeschichteSchreiben2025
   accessed:
     - year: 2025
@@ -249,7 +325,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 329-340
+  page: 329–340
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: IV.4 Religionsgeschichte schreiben
@@ -277,7 +353,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 291-304
+  page: 291–304
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -308,7 +384,7 @@ references:
     - year: 2001
   language: de
   number-of-volumes: '5'
-  page: 143-152
+  page: 143–152
   publisher: W. Kohlhammer
   publisher-place: Stuttgart
   source: BnF ISBN
@@ -395,7 +471,7 @@ references:
   issued:
     - year: 2003
   language: de
-  page: 281-97
+  page: 281–97
   publisher: Opladen
   publisher-place: Wiesbaden
   source: Google Scholar
@@ -435,7 +511,7 @@ references:
     - year: 2020
       month: 1
   language: en
-  page: 5-17
+  page: 5–17
   source: DOI.org (Crossref)
   title: Contextualizing current digital religion research on emerging technologies
   type: article-journal
@@ -601,6 +677,38 @@ references:
   title: Handbuch religionswissenschaftlicher Grundbegriffe
   type: book
 
+- id: cavalli2CharismaGemeinde2013
+  accessed:
+    - year: 2025
+      month: 11
+      day: 8
+  author:
+    - family: Cavalli
+      given: Luciano
+  citation-key: cavalli2CharismaGemeinde2013
+  container-title: 'Charisma: Theorie - Religion - Politik'
+  editor:
+    - family: Gebhardt
+      given: Winfried
+    - family: Zingerle
+      given: Arnold
+    - family: Ebertz
+      given: Michael N.
+  ISBN: 978-3-11-088979-6
+  issued:
+    - year: 2013
+      month: 2
+      day: 6
+  language: de
+  page: 33–46
+  publisher: De Gruyter
+  source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    2 Charisma, Gemeinde und Bewegung Zwei Paradigmata für den charismatischen
+    Prozeß
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783110889796.33/html
+
 - id: christophejaffrelotSHAREDSACREDSITES2025
   citation-key: christophejaffrelotSHAREDSACREDSITES2025
   editor:
@@ -664,6 +772,34 @@ references:
   title: Medicine, religion, and the body
   type: book
 
+- id: conradRitualSocialDynamics2024
+  author:
+    - family: Conrad
+      given: Ruth (Herausgeber)
+    - family: Hardenberg
+      given: Roland (Herausgeber)
+    - family: Miethner
+      given: Hanna (Herausgeber)
+    - family: Stille
+      given: Max (Herausgeber)
+  citation-key: conradRitualSocialDynamics2024
+  DOI: 10.5040/9781350408876
+  event-place: London
+  ISBN: 978-1-350-40885-2
+  issued:
+    date-parts:
+      - - '2024'
+  number-of-pages: 1 Online-Ressource (viii, 212 Seiten)
+  original-date:
+    - year: 2024
+  publisher: Bloomsbury
+  publisher-place: London
+  source: COinS
+  title: Ritual and social dynamics in Christian and Islamic preaching
+  type: book
+  URL: >-
+    https://www-bloomsburycollections-com.proxy.ub.uni-frankfurt.de/monograph?docid=b-9781350408876
+
 - id: csordas1Introduction1994
   abstract: >-
     How does religious healing work, if indeed it does? What is actually being
@@ -707,7 +843,7 @@ references:
     - year: 1994
   language: eng
   note: 'OCLC: 28844324'
-  page: 1-24
+  page: 1–24
   publisher: University of California Press
   publisher-place: Berkeley
   source: Open WorldCat
@@ -737,7 +873,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 151-160
+  page: 151–160
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: II.3 Was ist Esoterik?
@@ -765,7 +901,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 341-352
+  page: 341–352
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: IV.5 Kontextualisierungen religionsgeschichtlicher Textquellen
@@ -834,7 +970,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 61-72
+  page: 61–72
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -925,7 +1061,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 127-138
+  page: 127–138
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -934,6 +1070,45 @@ references:
   title-short: II.1 Charisma
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-012/html
+
+- id: freudenbergJoelOsteensProsperity2024
+  abstract: >-
+    This volume explores the socio-cultural dynamics of religious speeches
+    through an analysis of Christian and Islamic sermons and preachers in the
+    past and present.
+                Part I focuses on the explicit contribution of sermons in socio-cultural transformation processes. It shows how the sermons' connection to holy texts and religious norms of the specific group results in a tense relationship between preaching and the respective socio-cultural present. Part II intensifies this observation, analysing the dynamic tension between normativity and popularity. Rather than juxtaposing normative stances and popularity of sermons, it shows how that normativity can itself contribute to popularity and the quest of popularity carries its own normative stances. Part III explores the relevance of the ritual embeddedness of religious speech for the sermon as a catalyst of social dynamics and as a hybrid of normativity and popularity. It shows how speech and rituals are situated in a reciprocal relationship, where the performance of the speech, its own ritual character, and its positioning within religious practice must be individually examined.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 8
+  author:
+    - family: Freudenberg
+      given: Maren
+  citation-key: freudenbergJoelOsteensProsperity2024
+  container-title: Ritual and Social Dynamics in Christian and Islamic Preaching
+  DOI: 10.5040/9781350408876.ch-005
+  edition: '1'
+  editor:
+    - family: Conrad
+      given: Ruth
+    - family: Hardenberg
+      given: Roland
+    - family: Miethner
+      given: Hanna
+    - family: Stille
+      given: Max
+  ISBN: 978-1-350-40887-6 978-1-350-40884-5
+  issued:
+    - year: 2024
+  language: en
+  page: 105–126
+  publisher: Bloomsbury Publishing Plc
+  source: DOI.org (Crossref)
+  title: >-
+    Joel Osteen’s Prosperity Gospel and the Enduring Popularity of America’s
+    “Smiling Preacher”
+  type: chapter
+  URL: https://www.bloomsburycollections.com/monograph?docid=b-9781350408876
 
 - id: gebauerErlebeVersuchZion2022
   accessed:
@@ -951,7 +1126,7 @@ references:
     - year: 2022
   language: ger
   number: '10'
-  page: 40-45
+  page: 40–45
   source: eref.uni-bayreuth.de
   title: >-
     Erlebe den Versuch von Zion! Die Religionsgeschichte der Mormonen als Living
@@ -960,6 +1135,32 @@ references:
   URL: >-
     https://www.westermann.de/anlage/4649775/Erlebe-den-Versuch-von-Zion-Die-Religionsgeschichte-der-Mormonen-als-Living-History-Museum-und-sakrales-Event
   volume: '74'
+
+- id: gebhardtCharismaTheorieReligion2013
+  accessed:
+    - year: 2025
+      month: 11
+      day: 8
+  citation-key: gebhardtCharismaTheorieReligion2013
+  editor:
+    - family: Gebhardt
+      given: Winfried
+    - family: Zingerle
+      given: Arnold
+    - family: Ebertz
+      given: Michael N.
+  ISBN: 978-3-11-088979-6
+  issued:
+    - year: 2013
+      month: 2
+      day: 6
+  language: de
+  publisher: De Gruyter
+  source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
+  title: 'Charisma: Theorie - Religion - Politik'
+  type: book
+  URL: >-
+    https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110889796/html
 
 - id: gemmekeMaraboutWomenDakar2009
   author:
@@ -1032,7 +1233,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 97-106
+  page: 97–106
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -1140,7 +1341,7 @@ references:
   issued:
     - year: 2013
   language: de
-  page: 508-519
+  page: 508–519
   publisher: Gütersloher Verlagshaus
   publisher-place: Gütersloh
   source: COinS
@@ -1203,7 +1404,7 @@ references:
     - year: 2002
       month: 4
   language: en
-  page: 205-231
+  page: 205–231
   source: DOI.org (Crossref)
   title: >-
     Antagonistic Tolerance: Competitive Sharing of Religious Sites in South Asia
@@ -1234,7 +1435,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 353-364
+  page: 353–364
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -1286,7 +1487,7 @@ references:
   issued:
     - year: 2018
   language: en
-  page: 317-351
+  page: 317–351
   publisher: Oxford University Press
   publisher-place: Oxford
   source: Google Books
@@ -1312,7 +1513,7 @@ references:
   issued:
     - year: 2001
   language: de
-  page: 153-166
+  page: 153–166
   publisher: EMW
   publisher-place: Hamburg
   source: COinS
@@ -1368,7 +1569,7 @@ references:
       month: 4
       day: 15
   language: de
-  page: 97-105
+  page: 97–105
   publisher: WBG
   publisher-place: Darmstadt
   source: content-select-com.proxy.ub.uni-frankfurt.de
@@ -1396,7 +1597,7 @@ references:
       month: 4
       day: 15
   language: de
-  page: 146-152
+  page: 146–152
   publisher: WBG
   publisher-place: Darmstadt
   source: content-select-com.proxy.ub.uni-frankfurt.de
@@ -1566,7 +1767,7 @@ references:
     - year: 1993
   language: de
   number-of-volumes: '5'
-  page: 51-63
+  page: 51–63
   publisher: W. Kohlhammer
   publisher-place: Stuttgart
   source: BnF ISBN
@@ -1615,7 +1816,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 229-238
+  page: 229–238
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: III.2 Religion and Urban Life
@@ -1743,7 +1944,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 173-184
+  page: 173–184
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -1777,7 +1978,7 @@ references:
   issued:
     - year: 2010
   language: de
-  page: 163-188
+  page: 163–188
   publisher: Tyrolia-Verlag
   publisher-place: Innsbruck
   source: unipub.uni-graz.at
@@ -1831,7 +2032,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 317-328
+  page: 317–328
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: 'IV.3 Religionsbezogene Orte: Eine praxisorientierte Annäherung'
@@ -1893,7 +2094,7 @@ references:
       month: 12
       day: 1
   language: en
-  page: 393-403
+  page: 393–403
   publisher: Routledge
   source: Taylor and Francis+NEJM
   title: >-
@@ -1928,7 +2129,7 @@ references:
   issued:
     - year: 2013
   language: de
-  page: 451-465
+  page: 451–465
   publisher: Lit-Verlag
   publisher-place: Vienna
   source: COinS
@@ -1959,7 +2160,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 161-172
+  page: 161–172
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: 'II.4 Gender: Zur Vergeschlechtlichung von Allgemein- und Vergleichsbegriffen'
@@ -2044,7 +2245,7 @@ references:
       month: 2
       day: 18
   language: en
-  page: 79-140
+  page: 79–140
   publisher: Wiley-Blackwell
   publisher-place: Chichester
   source: Google Books
@@ -2086,7 +2287,7 @@ references:
     - year: 1993
       month: 9
       day: 1
-  page: 231-242
+  page: 231–242
   source: ScienceDirect
   title: Sacred space and place attachment
   type: article-journal
@@ -2125,7 +2326,7 @@ references:
   issue: '4'
   issued:
     - year: 2019
-  page: 238-243
+  page: 238–243
   publisher: Universitaet Tuebingen
   source: DOI.org (Datacite)
   title: >-
@@ -2157,7 +2358,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 139-150
+  page: 139–150
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: 'II.2 Diaspora: Migration und religiöser Wandel'
@@ -2188,7 +2389,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 239-250
+  page: 239–250
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -2240,7 +2441,7 @@ references:
       month: 1
       day: 31
   language: en
-  page: 67-86
+  page: 67–86
   publisher: Penguin
   publisher-place: New York
   source: Google Books
@@ -2302,7 +2503,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 185-196
+  page: 185–196
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: 'II.6 Millenarismus: Definition, Theorie, Systematik'
@@ -2390,7 +2591,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 273-282
+  page: 273–282
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: III.6 Religion in Zeiten tiefgreifender Mediatisierung
@@ -2421,7 +2622,7 @@ references:
       month: 5
       day: 29
   language: de
-  page: 313-326
+  page: 313–326
   publisher: De Gruyter
   publisher-place: Berlin
   source: www-degruyter-com.proxy.ub.uni-frankfurt.de
@@ -2452,7 +2653,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 37-48
+  page: 37–48
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: I.2 Das religiöse Feld
@@ -2480,7 +2681,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 73-84
+  page: 73–84
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -2510,7 +2711,7 @@ references:
     - year: 1990
   language: de
   note: 'OCLC: 23972886'
-  page: 1-24
+  page: 1–24
   publisher: Mohr (Paul Siebeck)
   publisher-place: Tübingen
   source: Open WorldCat
@@ -2521,6 +2722,50 @@ references:
   type: chapter
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/13_Riesebrodt_Fundamentalismus-1_1-3.pdf
+
+- id: riesebrodtCharismaMaxWebers1999
+  abstract: >-
+    Weber’s concept ofcharismahas received diverse and contradictory
+    interpretations. The essay argues that this diversity is caused less by
+    inadequate readings of Weber than by inconsistencies in Weber’s own
+    conceptualization. Weber introduced his concept ofcharismain two different
+    contexts: his political sociology and his sociology of religion. In his
+    political sociology he formulates the ideal type ofcharismaticauthority
+    informed by R. Sohm. In his sociology of religion Weber connects it with the
+    anthropological debate of the turn of the century on magic and religion,
+    especially the debate on pre-animism initiated by R. R. Marett, and uses it
+    as an alternative for concepts likemanaororenda. Both conceptualizations
+    ofcharismaare located on quite different levels of abstraction, which Weber
+    has not sufficiently clarified and systematized. This leads to
+    inconsistencies, contradictions, and overgeneralizations. Especially
+    problematic is his claim of a supposedly anti-traditionalist or even
+    revolutionary character ofcharisma. The article argues that while this claim
+    may apply to certain types ofcharismaunder specific conditions, many types
+    ofcharismaactually seem to be integral parts of institutionalized and
+    traditionalized social orders.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 8
+  author:
+    - family: Riesebrodt
+      given: Martin
+  citation-key: riesebrodtCharismaMaxWebers1999
+  container-title: Religion
+  container-title-short: Religion
+  DOI: 10.1006/reli.1999.0175
+  ISSN: 0048-721X
+  issue: '1'
+  issued:
+    - year: 1999
+      month: 1
+      day: 1
+  page: 1–14
+  source: ScienceDirect
+  title: Charisma in Max Weber’s Sociology of Religion
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S0048721X99901756
+  volume: '29'
 
 - id: riesebrodtFundamentalismusAlsPatriarchalische1990
   accessed:
@@ -2570,7 +2815,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 251-262
+  page: 251–262
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: III.4 Interreligiöser Dialog und Religionswissenschaft
@@ -2655,7 +2900,7 @@ references:
       month: 5
       day: 29
   language: de
-  page: 227-240
+  page: 227–240
   publisher: De Gruyter
   source: www-degruyter-com.proxy.ub.uni-frankfurt.de
   title: Religion, Religionswissenschaft und Normativität
@@ -2681,7 +2926,7 @@ references:
   issued:
     - year: 2008
   language: de
-  page: 228-237
+  page: 228–237
   publisher: Böhlau
   publisher-place: Köln Weimar Wien
   source: K10plus ISBN
@@ -2714,7 +2959,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 49-60
+  page: 49–60
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -2779,7 +3024,7 @@ references:
   issued:
     - year: 2018
   language: de
-  page: 1-31
+  page: 1–31
   source: K10plus ISBN
   title: >-
     Radikalisierung von Individuen: ein Überblick über mögliche
@@ -2806,7 +3051,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 379-390
+  page: 379–390
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: Glossar
@@ -2839,7 +3084,7 @@ references:
     De Gruyter expressly reserves the right to use all content for commercial
     text and data mining within the meaning of Section 44b of the German
     Copyright Act.
-  page: 33-47
+  page: 33–47
   publisher: De Gruyter
   publisher-place: Berlin
   source: www.degruyter.com
@@ -2869,7 +3114,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 367-378
+  page: 367–378
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: Normen, Werte und Tugenden in der Religionswissenschaft
@@ -2971,7 +3216,7 @@ references:
       month: 5
       day: 29
   language: en
-  page: 1-30
+  page: 1–30
   publisher: De Gruyter
   source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
   title: >-
@@ -3059,7 +3304,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 217-228
+  page: 217–228
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -3090,7 +3335,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 85-96
+  page: 85–96
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -3308,7 +3553,7 @@ references:
   issued:
     - year: 2018
   language: en
-  page: 281-316
+  page: 281–316
   publisher: Oxford University Press
   publisher-place: Oxford
   source: Google Books
@@ -3338,13 +3583,36 @@ references:
       month: 5
       day: 19
   language: de
-  page: 25-36
+  page: 25–36
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: I.1 Religion als Symbolsystem? Clifford Geertz und die Folgen
   title-short: I.1 Religion als Symbolsystem?
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-003/html
+
+- id: weberWirtschaftUndGesellschaft1922
+  abstract: '26'
+  accessed:
+    - year: 2025
+      month: 11
+      day: 8
+  author:
+    - family: Weber
+      given: Max
+  call-number: AFC-2045
+  citation-key: weberWirtschaftUndGesellschaft1922
+  contributor:
+    - literal: Robarts - University of Toronto
+  issued:
+    - year: 1922
+  language: ger
+  number-of-pages: '868'
+  publisher: Tübingen, Mohr
+  source: Internet Archive
+  title: Wirtschaft und Gesellschaft
+  type: book
+  URL: http://archive.org/details/wirtschaftundges00webeuoft
 
 - id: welteckeUeberReligionVor2015
   accessed:
@@ -3369,7 +3637,7 @@ references:
   issued:
     - year: 2015
   language: de
-  page: 13-34
+  page: 13–34
   publisher: Brill/Schöningh
   publisher-place: Paderborn
   source: DOI.org (Crossref)
@@ -3430,7 +3698,7 @@ references:
     De Gruyter expressly reserves the right to use all content for commercial
     text and data mining within the meaning of Section 44b of the German
     Copyright Act.
-  page: 407-420
+  page: 407–420
   publisher: De Gruyter
   publisher-place: Berlin
   source: www.degruyter.com
@@ -3462,7 +3730,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 263-272
+  page: 263–272
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: III.5 Religionsgeschichte als Begegnungs- und Verflechtungsgeschichte
@@ -3490,7 +3758,7 @@ references:
       month: 5
       day: 19
   language: de
-  page: 197-208
+  page: 197–208
   publisher: De Gruyter
   source: www.degruyterbrill.com
   title: >-
@@ -3510,7 +3778,7 @@ references:
   issued:
     - year: 2010
   language: de
-  page: 105-111
+  page: 105–111
   publisher: Schöningh
   publisher-place: Paderborn
   title: 3.5 Soziale Beziehungen der Menschen in den religiösen Gemeinschaften
@@ -3527,7 +3795,7 @@ references:
   issued:
     - year: 2010
   language: de
-  page: 212-216
+  page: 212–216
   publisher: Schöningh
   publisher-place: Paderborn
   title: 7.4 Tempel und Sakralbauten
@@ -3544,7 +3812,7 @@ references:
   issued:
     - year: 2010
   language: de
-  page: 237-241
+  page: 237–241
   publisher: Schöningh
   publisher-place: Paderborn
   title: '9.2 Orakel und Offenbarung: Mantik und andere Divinationsverfahren'
@@ -3577,7 +3845,7 @@ references:
   issued:
     - year: 2010
   language: de
-  page: 155-193
+  page: 155–193
   publisher: Schöningh
   publisher-place: Paderborn
   title: VI Texte und Schriften in den Religionen
