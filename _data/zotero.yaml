@@ -1036,7 +1036,7 @@ references:
   title: Religionen, Religionswissenschaft und die Kategorie Geschlecht/Gender
   type: chapter
   URL: >-
-    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/06_Franke_Maske_Gender.pdf
+    https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110258936.125/html
 
 - id: freudenbergII1CharismaGenese2025
   accessed:
@@ -1414,6 +1414,29 @@ references:
   URL: https://www.journals.uchicago.edu/doi/10.1086/338303
   volume: '43'
 
+- id: hellerReligionUndGeschlecht2024
+  accessed:
+    - year: 2025
+      month: 11
+      day: 17
+  author:
+    - family: Heller
+      given: Birgit
+    - family: Franke
+      given: Edith
+  citation-key: hellerReligionUndGeschlecht2024
+  DOI: 10.1515/9783110697407
+  ISBN: 978-3-11-069740-7 978-3-11-069340-9 978-3-11-069748-3
+  issued:
+    - year: 2024
+  language: German
+  note: 'Accepted: 2024-06-25T15:03:24Z'
+  publisher: De Gruyter
+  source: library.oapen.org
+  title: Religion und Geschlecht
+  type: book
+  URL: https://library.oapen.org/handle/20.500.12657/91036
+
 - id: hermannIV6GlobaleReligionsgeschichte2025
   accessed:
     - year: 2025
@@ -1607,6 +1630,31 @@ references:
   type: chapter
   URL: >-
     https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073941&page=1
+
+- id: hoepflingerHandbuchGenderUnd2008
+  citation-key: hoepflingerHandbuchGenderUnd2008
+  collection-number: '3062'
+  collection-title: UTB Theologie, Religion
+  editor:
+    - family: Höpflinger
+      given: Anna-Katharina
+    - family: Jeffers
+      given: Ann
+    - family: Pezzoli-Olgiati
+      given: Daria
+  event-place: Göttingen
+  ISBN: 978-3-8252-3062-3 978-3-525-03623-5
+  issued:
+    - year: 2008
+  language: de
+  number-of-pages: '342'
+  publisher: Vandenhoeck & Ruprecht
+  publisher-place: Göttingen
+  source: K10plus ISBN
+  title: Handbuch Gender und Religion
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Felibrary.utb.de%2Fdoi%2Fbook%2F10.36198%2F9783838530628
 
 - id: hoondertExploringRitualFields2021
   abstract: >-
