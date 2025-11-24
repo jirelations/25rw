@@ -480,6 +480,23 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/04_Bromberger_Fussball.pdf
 
+- id: burkleGrundwerteMenschlichenVerhaltens1993
+  author:
+    - family: Bürkle
+      given: Horst (Herausgeber)
+  citation-key: burkleGrundwerteMenschlichenVerhaltens1993
+  event-place: Frankfurt am Main
+  ISBN: 978-3-631-44740-6
+  issued:
+    - year: 1993
+  number-of-pages: 221 Seiten
+  publisher: Lang
+  publisher-place: Frankfurt am Main
+  source: COinS
+  title: Grundwerte menschlichen Verhaltens in den Religionen
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB095267891
+
 - id: campbellContextualizingCurrentDigital2020
   abstract: >-
     This article provides an overview of contemporary research within the
@@ -979,6 +996,69 @@ references:
   title-short: I.4 Religionisierung
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-006/html
+
+- id: durkheimDurkheimReligionSelection1975
+  abstract: >-
+    x, 376 pages ; 23 cm; Includes bibliographical references and indexes;
+    Review. 'Herbert Spencer--Ecclesiastical institutions' -- Review.
+    'Guyay--L'Irreligion de l'avenir' -- Suicide. Book II, chapter 2 --
+    'Individualism and the intellectuals' -- 'Concerning the definition of
+    religious phenomena' -- Note. 'Religious systems of primitive societies' (I)
+    -- The elementary forms of the religious life: the Totemic system in
+    Australia. Introduction; Book I, chapter I, sections III and IV; Book II,
+    chapter VII, sections I, II, IV and VI; Conclusions, sections I and II --
+    Note. 'Religious systems of primitive societies' (II) -- Review.
+    'Leyy-Bruhl--Les Fonctions mentales dans les societes inferieures' and
+    'Durkheim--Les Formes elementarires de la vie religieuse' -- Review with M.
+    Mauss. 'Frazer--Totemism and exogamy. Durkheim--Les Formes elementaires de
+    la vie religieuse' -- Contribution to discussion. 'Religious sentiment at
+    the present time' -- Moral education. Intoduction -- Review. 'Les Fomres
+    elementaires de la vie religieuse' / A. van Gennep -- Review. 'Les Formes
+    elementaires de la vie religieuse' / A.A. Goldenweiser -- Dogmantic atheism
+    in the sociology of religion / G. Richard -- Reflection on the Durkheim and
+    aboriginal religion / W.E.H. Stanner
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Durkheim
+      given: Émile
+  citation-key: durkheimDurkheimReligionSelection1975
+  contributor:
+    - literal: Internet Archive
+  ISBN: 978-0-7100-8108-7 978-0-7100-9074-4
+  issued:
+    - year: 1975
+  language: eng
+  number-of-pages: '394'
+  publisher: 'London ; Boston : Routledge & K. Paul'
+  source: Internet Archive
+  title: 'Durkheim on religion : a selection of readings with bibliographies'
+  title-short: Durkheim on religion
+  type: book
+  URL: http://archive.org/details/durkheimonreligi0000durk
+
+- id: durkheimSoziologieUndPhilosophie1996
+  author:
+    - family: Durkheim
+      given: Émile (Verfasser)
+    - family: Adorno
+      given: Theodor W.
+  citation-key: durkheimSoziologieUndPhilosophie1996
+  edition: 3. Auflage
+  event-place: Frankfurt am Main
+  ISBN: 978-3-518-27776-8
+  issued:
+    - year: 1996
+  number-of-pages: 156 Seiten
+  publisher: Suhrkamp
+  publisher-place: Frankfurt am Main
+  source: COinS
+  title: 'Soziologie und Philosophie : mit einer Einleitung von Theodor W. Adorno'
+  title-short: Soziologie und Philosophie
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB184748046
 
 - id: dziriFluchtMigrationVertreibung2018
   accessed:
@@ -1750,6 +1830,24 @@ references:
   title-short: Religionsgeschichte
   type: book
 
+- id: joasEntstehungWerte1999
+  author:
+    - family: Joas
+      given: Hans
+  citation-key: joasEntstehungWerte1999
+  edition: 1. Aufl.
+  event-place: Frankfurt am Main
+  ISBN: 978-3-518-29016-3
+  issued:
+    - year: 1999
+  number-of-pages: 320 S.
+  publisher: Suhrkamp
+  publisher-place: Frankfurt am Main
+  source: COinS
+  title: Die Entstehung der Werte
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB063776359
+
 - id: johnstonReligionNarratingReligion2017
   citation-key: johnstonReligionNarratingReligion2017
   collection-title: Macmillan interdisciplinary handbooks
@@ -1930,6 +2028,27 @@ references:
   title: 'Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf'
   title-short: Praktische Religionswissenschaft
   type: book
+
+- id: koenemannNormativitaet2025
+  abstract: 'Andere Schreibweise: normativ; engl. normativity'
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Könemann
+      given: Judith
+  citation-key: koenemannNormativitaet2025
+  container-title: Wissenschaftlich-Religionspädagogisches Lexikon
+  DOI: 10.23768/wirelex.400064
+  issued:
+    - year: 2025
+      month: 2
+  language: de
+  publisher: Deutsche Bibelgesellschaft
+  title: Normativität
+  type: chapter
+  URL: https://bibelwissenschaft.de/stichwort/400064
 
 - id: kripalReligionSourcesPerspectives2016
   citation-key: kripalReligionSourcesPerspectives2016
@@ -2360,6 +2479,36 @@ references:
   type: book
   URL: http://dx.doi.org/10.1093/acprof:oso/9780199931002.001.0001
 
+- id: mesethNormativitaetErziehungswissenschaft2019
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  citation-key: mesethNormativitaetErziehungswissenschaft2019
+  DOI: 10.1007/978-3-658-21244-5
+  editor:
+    - family: Meseth
+      given: Wolfgang
+    - family: Casale
+      given: Rita
+    - family: Tervooren
+      given: Anja
+    - family: Zirfas
+      given: Jörg
+  event-place: Wiesbaden
+  ISBN: 978-3-658-21243-8 978-3-658-21244-5
+  issued:
+    - year: 2019
+  language: de
+  license: http://www.springer.com/tdm
+  publisher: Springer Fachmedien Wiesbaden
+  publisher-place: Wiesbaden
+  source: DOI.org (Crossref)
+  title: Normativität in der Erziehungswissenschaft
+  type: book
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/book/10.1007/978-3-658-21244-5
+
 - id: middelbeck-varwickRamadanBrandenburgSignaturen2019
   accessed:
     - year: 2023
@@ -2384,6 +2533,37 @@ references:
   type: article-journal
   URL: https://publikationen.uni-tuebingen.de/xmlui/handle/10900/137121
   volume: '70'
+
+- id: miethNormen1998
+  author:
+    - family: Mieth
+      given: Dietmar
+  call-number: '2'
+  citation-key: miethNormen1998
+  collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  container-title: Handbuch religionswissenschaftlicher Grundbegriffe
+  editor:
+    - family: Cancik
+      given: Hubert
+    - family: Gladigow
+      given: Burkhard
+    - family: Kohl
+      given: Karl-Heinz
+  event-place: Stuttgart
+  ISBN: 978-3-17-010531-7 978-3-17-009553-3 978-3-17-009554-0 978-3-17-009555-7
+  issued:
+    - year: 1998
+  language: de
+  number-of-volumes: '5'
+  page: 243–250
+  publisher: W. Kohlhammer
+  publisher-place: Stuttgart
+  source: BnF ISBN
+  title: Normen
+  type: chapter
+  URL: >-
+    https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA243&printsec=frontcover
+  volume: 4 (Kultbild - Rolle)
 
 - id: nagelII2DiasporaMigration2025
   accessed:
@@ -3661,6 +3841,25 @@ references:
   title: Wirtschaft und Gesellschaft
   type: book
   URL: http://archive.org/details/wirtschaftundges00webeuoft
+
+- id: wedgwoodNatureNormativity2009
+  author:
+    - family: Wedgwood
+      given: Ralph
+  call-number: 02/CC 7240 W393
+  citation-key: wedgwoodNatureNormativity2009
+  event-place: Oxford
+  ISBN: 978-0-19-956819-2
+  issued:
+    - year: 2009
+  number-of-pages: X, 296 S.
+  publisher: Clarendon Press
+  publisher-place: Oxford
+  source: UBFFM BzG
+  title: The nature of normativity
+  type: book
+  URL: >-
+    https://www.google.de/books/edition/The_Nature_of_Normativity/HLESDAAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover
 
 - id: welteckeUeberReligionVor2015
   accessed:
