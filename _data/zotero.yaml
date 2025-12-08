@@ -194,6 +194,25 @@ references:
   title-short: Religion
   type: book
 
+- id: apostolos-cappadonaReligionMaterialReligion2016a
+  author:
+    - family: Apostolos-Cappadona
+      given: Diane (Herausgeber)
+  citation-key: apostolos-cappadonaReligionMaterialReligion2016a
+  event-place: '[Farmington Hills, Michigan]'
+  ISBN: 978-0-02-866362-3
+  issued:
+    - year: 2016
+  number-of-pages: 1 Online-Ressource (xxxiii, 413 pages)
+  publisher: Gale Cengage Learning
+  publisher-place: '[Farmington Hills, Michigan]'
+  source: COinS
+  title: 'Religion : material religion'
+  title-short: Religion
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Flink.gale.com%2Fapps%2Fpub%2F8NWR%2FGVRL%3Fsid%3Dgale_marc%26u%3Dsuf
+
 - id: armbrusterSpiritualitaetUndSeelische2013
   citation-key: armbrusterSpiritualitaetUndSeelische2013
   edition: 1. Aufl
@@ -393,6 +412,52 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/07_Berner+-+2001+-+Synkretismus.pdf
   volume: '5'
+
+- id: bernsteinIntroductionsDigitalHumanities2022
+  author:
+    - family: Bernstein
+      given: Meg (Mitwirkender)
+    - family: Clark
+      given: Emily Suzanne (Mitwirkender)
+    - family: Edmonds
+      given: James (Mitwirkender)
+    - family: Floyd
+      given: Emily C. (Mitwirkender)
+    - family: Geuns
+      given: Suzanne van (Mitwirkender)
+    - family: Guignard
+      given: Florence Pasche (Mitwirkender)
+    - family: Klassen
+      given: Pamela E. (Mitwirkender)
+    - family: Leibsohn
+      given: Dana (Mitwirkender)
+    - family: Lindsey
+      given: Rachel McBride (Mitwirkender)
+    - family: Mc Bride Lindsey
+      given: Rachel (Herausgeber)
+    - family: McBride Lindsey
+      given: Rachel (Mitwirkender)
+    - family: Mohan
+      given: Urmila (Mitwirkender)
+    - family: Mundy
+      given: Barbara E. (Mitwirkender)
+    - family: Sabharwal
+      given: Arjun (Mitwirkender)
+  citation-key: bernsteinIntroductionsDigitalHumanities2022
+  event-place: Berlin
+  ISBN: 978-3-11-060875-5
+  issued:
+    - year: 2022
+  number-of-pages: 1 Online-Ressource (VII, 212 p.)
+  publisher: Walter de Gruyter GmbH
+  publisher-place: Berlin
+  source: COinS
+  title: >-
+    Introductions to Digital Humanities - Religion. Volume 6, Digital Humanities
+    and Material Religion ; An Introduction
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1515%2F9783110608755
 
 - id: betzReligionGeschichteUnd1998
   call-number: BL31 .R4 1998
@@ -3572,6 +3637,29 @@ references:
   title-short: I.6 Vom Glauben zur Religion
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-008/html
+
+- id: tamimiarabRoutledgeHandbookMaterial2023
+  citation-key: tamimiarabRoutledgeHandbookMaterial2023
+  editor:
+    - family: Tamimi Arab
+      given: Pooyan
+    - family: Hughes
+      given: Jennifer Scheper
+    - family: Plate
+      given: S. Brent
+  event-place: London
+  ISBN: 978-1-351-17623-1
+  issued:
+    - year: 2023
+  language: en
+  number-of-pages: 1 Online-Ressource
+  publisher: Taylor & Francis Group
+  publisher-place: London
+  source: COinS
+  title: The Routledge handbook of material religion
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2F9781351176231
 
 - id: tavarezAnthropologyRitualLanguage2024
   abstract: >-
