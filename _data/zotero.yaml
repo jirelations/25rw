@@ -1255,6 +1255,56 @@ references:
   type: chapter
   URL: https://www.bloomsburycollections.com/monograph?docid=b-9781350408876
 
+- id: freudZukunftIllusion1927
+  abstract: 1927, Internationaler Psychoanalytischer Verlag, Wien - Leipzig - Zürich
+  accessed:
+    - year: 2026
+      month: 1
+      day: 12
+  author:
+    - family: Freud
+      given: Sigmund
+  citation-key: freudZukunftIllusion1927
+  issued:
+    - year: 1927
+  language: de
+  license: >-
+    Public domain where the copyright term is the author's life plus 70 years or
+    less.
+  number-of-pages: '105'
+  publisher: Internationaler Psychoanalytischer Verlag
+  source: Internet Archive
+  title: Die Zukunft einer Illusion
+  type: book
+  URL: http://archive.org/details/Freud_1927_Die_Zukunft_einer_Illusion_k
+
+- id: frommPsychoanalyseUndReligion2018
+  author:
+    - family: Fromm
+      given: Erich (Verfasser)
+    - family: Rotten
+      given: Elisabeth (Übersetzer)
+    - family: Mickel
+      given: Liselotte (Übersetzer)
+    - family: Mickel
+      given: Ernst (Übersetzer)
+    - family: Funk
+      given: Rainer (Herausgeber)
+  call-number: 90.938.12
+  citation-key: frommPsychoanalyseUndReligion2018
+  edition: Neuausgabe
+  event-place: München
+  ISBN: 978-3-423-34934-5
+  issued:
+    - year: 2018
+  number-of-pages: 383 Seiten
+  publisher: dtv
+  publisher-place: München
+  source: UBFFM ZB
+  title: Psychoanalyse und Religion
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB42879825X
+
 - id: gebauerErlebeVersuchZion2022
   accessed:
     - year: 2024
@@ -1583,6 +1633,25 @@ references:
   type: book
   URL: https://library.oapen.org/handle/20.500.12657/91036
 
+- id: henningEinfuehrungReligionspsychologie2003
+  author:
+    - family: Henning
+      given: Christian (Herausgeber)
+  call-number: 02/BE 3620 H517
+  citation-key: henningEinfuehrungReligionspsychologie2003
+  event-place: Paderborn
+  ISBN: 978-3-8252-2435-6
+  issued:
+    - year: 2003
+  language: de
+  number-of-pages: 260 Seiten
+  publisher: Schöningh
+  publisher-place: Paderborn
+  source: UBFFM BzG
+  title: Einführung in die Religionspsychologie
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB116532807
+
 - id: hermannIV6GlobaleReligionsgeschichte2025
   accessed:
     - year: 2025
@@ -1875,6 +1944,27 @@ references:
   title: The Oxford Illustrated History of the Holy Land
   type: book
 
+- id: huberDimensionenReligiositatSkalen1996
+  author:
+    - family: Huber
+      given: Stefan
+  call-number: 'PsyMertonstr: XIV a 081'
+  citation-key: huberDimensionenReligiositatSkalen1996
+  event-place: Freiburg, Schweiz
+  ISBN: 978-3-7278-1086-2
+  issued:
+    - year: 1996
+  number-of-pages: 291 S.
+  publisher: Univ.-Verl. [u.a.]
+  publisher-place: Freiburg, Schweiz
+  source: COinS
+  title: >-
+    Dimensionen der Religiosität : Skalen, Messmodelle und Ergebnisse einer
+    empirisch orientierten Religionspsychologie
+  title-short: Dimensionen der Religiosität
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB050959220
+
 - id: hutterReligionsgeschichteEinfuehrung2025
   author:
     - family: Hutter
@@ -1895,6 +1985,52 @@ references:
   title: 'Religionsgeschichte: Einführung'
   title-short: Religionsgeschichte
   type: book
+
+- id: jamesVarietiesReligiousExperience1902
+  abstract: |-
+    Book Source: Digital Library of India Item 2015.205091
+
+    dc.contributor.author: James,william.
+    dc.contributor.other: --
+    dc.date.accessioned: 2015-07-09T13:57:39Z
+    dc.date.available: 2015-07-09T13:57:39Z
+    dc.date.copyrightexpirydate: 0000-00-00
+    dc.date.digitalpublicationdate: 0000-00-00
+    dc.date.citation: 1902
+    dc.identifier: Book\Philosophy\Varieties of religious experience.\21299
+    dc.identifier.barcode: 1999990073904
+    dc.identifier.origpath: /data_copy/upload/0073/909
+    dc.identifier.copyno: 1
+    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/205091
+    dc.description.scanningcentre: Pune University
+    dc.description.main: 1
+    dc.description.tagged: 0
+    dc.description.totalpages: 532
+    dc.format.mimetype: application/pdf
+    dc.language.iso: English
+    dc.publisher.digitalrepublisher: Ingwale, Surekha.
+    dc.publisher: Modern Library.- New York.
+    dc.rights: Author
+    dc.source.library: ---
+    dc.subject.classification: Philosophy
+    dc.title: Varieties Of Religious Experience.
+    dc.rights.holder: Modern Library.- New York.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 12
+  author:
+    - family: James
+      given: william
+  citation-key: jamesVarietiesReligiousExperience1902
+  issued:
+    - year: 1902
+  language: eng
+  publisher: The Modern Library of New York
+  source: Internet Archive
+  title: 'The Varieties of religious experience: A study in human nature'
+  type: book
+  URL: http://archive.org/details/in.ernet.dli.2015.205091
 
 - id: joasEntstehungWerte1999
   author:
@@ -1957,6 +2093,34 @@ references:
   type: book
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fmuse.jhu.edu%2Fbook%2F100667%2F
+
+- id: jungPsychologieUndReligion1947
+  abstract: >-
+    192 p. ; 21 cm; "Aus dem englischen übersetzt."; Pages 191-192, advertising
+    matter; Die autonomie des unbewussten.--Dogma und natürliche
+    symbole.--Geschichte und psychologie eines natürlichen symbols
+  accessed:
+    - year: 2026
+      month: 1
+      day: 12
+  author:
+    - family: Jung
+      given: C. G. (Carl Gustav)
+  citation-key: jungPsychologieUndReligion1947
+  contributor:
+    - literal: Internet Archive
+  issued:
+    - year: 1947
+  language: ger
+  number-of-pages: '204'
+  publisher: 'Zürich und Leipzig : Rascher verlag'
+  source: Internet Archive
+  title: >-
+    Psychologie und religion. : Die Terry lectures, 1937, gehalten an der Yale
+    university
+  title-short: Psychologie und religion.
+  type: book
+  URL: http://archive.org/details/psychologieundre0000jung
 
 - id: kehrerGruppeGruppendynamik1993
   author:
@@ -2631,6 +2795,58 @@ references:
     https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA243&printsec=frontcover
   volume: 4 (Kultbild - Rolle)
 
+- id: murkenReligionspsychologie2006
+  accessed:
+    - year: 2026
+      month: 1
+      day: 12
+  author:
+    - family: Murken
+      given: Sebastian
+    - family: Namini
+      given: S.
+  citation-key: murkenReligionspsychologie2006
+  editor:
+    - family: Pawlik
+      given: K.
+  event-place: Heidelberg
+  issued:
+    - year: 2006
+  language: de
+  page: 903–910
+  publisher: Springer
+  publisher-place: Heidelberg
+  title: Religionspsychologie
+  type: chapter
+  URL: https://www.psychology-of-religion.de/deutsch/murken/murken+namini2006.pdf
+
+- id: murkenUngesundeReligiositaetEntscheidungen1997
+  author:
+    - family: Murken
+      given: Sebastian
+  citation-key: murkenUngesundeReligiositaetEntscheidungen1997
+  container-title: >-
+    Kritik an Religionen. Religionwissenschaft und der kritische Umgang mit
+    Religionen.
+  editor:
+    - family: G. M.
+      given: Klinkhammer
+    - family: Rink
+      given: Steffen
+    - family: Frick
+      given: T.
+  event-place: Marburg
+  issued:
+    - year: 1997
+  language: de
+  page: 157–172
+  publisher: Diagonal
+  publisher-place: Marburg
+  source: Zotero
+  title: Ungesunde Religiosität – Entscheidungen der Psychologie?
+  type: chapter
+  URL: https://religionspsychologie.de/inc/download/murken1997.pdf
+
 - id: nagelII2DiasporaMigration2025
   accessed:
     - year: 2025
@@ -2692,6 +2908,25 @@ references:
   title-short: III.3 Religiöse Pluralität
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-022/html
+
+- id: palmerFreudJungReligion2022
+  author:
+    - family: Palmer
+      given: Michael (Verfasser)
+  citation-key: palmerFreudJungReligion2022
+  DOI: 10.4324/9781003266785
+  event-place: London
+  ISBN: 978-1-000-73908-4
+  issued:
+    - year: 2022
+  number-of-pages: 1 Online-Ressource
+  publisher: Taylor & Francis Group
+  publisher-place: London
+  source: COinS
+  title: Freud and Jung on religion
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2F9781003266785
 
 - id: parsonsReligionSocialReligion2016
   citation-key: parsonsReligionSocialReligion2016
@@ -2891,6 +3126,16 @@ references:
   title: III.6 Religion in Zeiten tiefgreifender Mediatisierung
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-025/html
+
+- id: Religionspsychologie
+  accessed:
+    - year: 2026
+      month: 1
+      day: 12
+  citation-key: Religionspsychologie
+  title: Religionspsychologie
+  type: webpage
+  URL: https://religionspsychologie.de/de/
 
 - id: rengerIII7MeisterJuengerUnd2012
   abstract: >-
@@ -4045,6 +4290,35 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.degruyter.com%2Fdoi%2Fbook%2F10.1515%2F9783110258936.407
 
+- id: willFreudsAtheismusIm2014
+  accessed:
+    - year: 2026
+      month: 1
+      day: 12
+  author:
+    - family: Will
+      given: Herbert
+  citation-key: willFreudsAtheismusIm2014
+  DOI: 10.17433/978-3-17-025023-9
+  edition: '1'
+  event-place: Stuttgart
+  ISBN: 978-3-17-025023-9
+  issued:
+    - year: 2014
+      month: 7
+      day: 24
+  language: de
+  publisher: W. Kohlhammer GmbH
+  publisher-place: Stuttgart
+  source: DOI.org (Crossref)
+  title: >-
+    Freuds Atheismus im Widerspruch: Freud, Weber und Wittgenstein im Konflikt
+    zwischen säkularem Denken und Religion
+  title-short: Freuds Atheismus im Widerspruch
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdx.doi.org%2F10.17433%2F978-3-17-025023-9
+
 - id: winterIII5ReligionsgeschichteAls2025
   accessed:
     - year: 2025
@@ -4072,6 +4346,25 @@ references:
   title: III.5 Religionsgeschichte als Begegnungs- und Verflechtungsgeschichte
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-024/html
+
+- id: wulffPsychologyReligionClassic1997
+  author:
+    - family: Wulff
+      given: David M. (Verfasser)
+  citation-key: wulffPsychologyReligionClassic1997
+  edition: 2. edition
+  event-place: New York
+  ISBN: 978-0-471-03706-4
+  issued:
+    - year: 1997
+  number-of-pages: XXI, 760 Seiten
+  publisher: Wiley
+  publisher-place: New York
+  source: COinS
+  title: 'Psychology of religion : classic and contemporary views'
+  title-short: Psychology of religion
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB104479914
 
 - id: yelleII7SecularizationTransformations2025
   accessed:
@@ -4208,4 +4501,25 @@ references:
   title: 'Religion: beyond religion'
   title-short: Religion
   type: book
+
+- id: zwingmannReligiositatMessverfahrenUnd2004
+  author:
+    - family: Zwingmann
+      given: Christian (Hrsg )
+  call-number: X 7262
+  citation-key: zwingmannReligiositatMessverfahrenUnd2004
+  event-place: Münster [u.a.]
+  ISBN: 978-3-8309-1428-0
+  issued:
+    - year: 2004
+  number-of-pages: 350 S.
+  publisher: Waxmann
+  publisher-place: Münster [u.a.]
+  source: UBFFM BSP
+  title: >-
+    Religiosität: Messverfahren und Studien zu Gesundheit und Lebensbewältigung
+    : neue Beiträge zur Religionspsychologie
+  title-short: Religiosität
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB12432519X
 ...
