@@ -351,6 +351,28 @@ references:
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-030/html
 
+- id: belzenReligionspsychologieHistorischeAnalyse2015
+  author:
+    - family: Belzen
+      given: J. A. van (Verfasser)
+  citation-key: belzenReligionspsychologieHistorischeAnalyse2015
+  edition: 1st ed. 2015
+  event-place: Cham
+  ISBN: 978-3-662-46575-2
+  issued:
+    - year: 2015
+  number-of-pages: 1 Online-Ressource (XI, 277 Seiten)
+  publisher: Springer International Publishing AG
+  publisher-place: Cham
+  source: COinS
+  title: >-
+    Religionspsychologie : Eine historische Analyse im Spiegel der
+    Internationalen Gesellschaft
+  title-short: Religionspsychologie
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-662-46575-2
+
 - id: bergunderIV1MethodologieReligionsvergleichs2025
   accessed:
     - year: 2025
@@ -1609,6 +1631,25 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.jstor.org%2Fstable%2F10.1086%2F338303%3F
   volume: '43'
+
+- id: heineGrundlagenReligionspsychologieModelle2005
+  author:
+    - family: Heine
+      given: Susanne
+  call-number: 02/BE 3620 H468
+  citation-key: heineGrundlagenReligionspsychologieModelle2005
+  event-place: Göttingen
+  ISBN: 978-3-8252-2528-5
+  issued:
+    - year: 2005
+  number-of-pages: 442 S.
+  publisher: Vandenhoeck & Ruprecht
+  publisher-place: Göttingen
+  source: UBFFM BzG
+  title: 'Grundlagen der Religionspsychologie : Modelle und Methoden'
+  title-short: Grundlagen der Religionspsychologie
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB121790029
 
 - id: hellerReligionUndGeschlecht2024
   accessed:
