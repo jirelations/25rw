@@ -63,6 +63,7 @@ ___
   - Warum müssen Normverletzungen behandelt werden?
   - Warum brauchen verschriftliche Normen Interpretationsregeln?
   - Warum sollen Forscher/innen bereit sein, ihre eigene Normen anzuerkennen und sich nur für die Beschreibung oder auch die Bewertung entscheiden?
+  - 
 
 ### 7. Wie werden heilige Schriften überliefert?
 **🧭 Lernziel:** Die mündliche und schriftliche Dynamik der abrahamitischen Religionen im Verhältnis zueinander zu beschreiben.
