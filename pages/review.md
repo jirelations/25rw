@@ -4,6 +4,109 @@ title: Überblick
 permalink: /review
 ---
 
+### 1. Religion als Gegenstand: Was machen wir hier? ###
+
+==**🧭 Lernziel:** Heutiges Lernziel
+Sich gegenseitig kennenlernen und unsere gegenseitige Ziele für den Kurs berücksichtigen.==
+
+Wer bin ich, wer seid ihr?
+- ==gerne per “Du”==
+
+==Karteikarten
+Name
+Studiengang
+Interesse am Kurs
+Hobby/private Interesse==
+
+==Wer bin ich?==
+
+==Gruppen
+- Religionswissenschaft
+- L1 ev. Religion
+- L2/5 & L3 ev. Religion
+- Lehramt kath. Religion
+- Theologie & Religionsphilosophie==
+
+==Religionswissenschaft studieren –– warum?
+- weil Religion nicht ausstirbt
+- weil Religion ein Teil des menschlichen Lebens ist
+- und ein Beispiel von menschlichen Phänomenen ist
+- um kritisches Denken und kulturwissenschaftliche Fähigkeiten zu trainieren (“soft skills”)==
+
+~~Religion has inspired
+- incredible humanitarian deeds,
+- caring for the marginalized
+- great literature, art, music
+- philosophical & scientific advancements~~
+
+~~Parts:
+- social communities
+- rituals and practices
+- scriptures
+- holy places and holy objects~~
+
+~~We observe dynamics of:
+- leadership, power, gender
+- social inclusion & exclusion
+- oral & written communication
+- physicality & embodiedness~~
+
+==Wie geht man mit Krisen um?
+- Krisen in der Welt: politischer Extremismus, Kriege, Leugnung des Klimawandels, Machtmissbrauch
+- Persönliche Krisen: familiäre Spannungen, Streit und Missbrauch, soziale Isolation und Verschwörungstheorien==
+
+~~Diversity of “wholes”
+- belief in one God, many gods, universal spirit, or no god
+- different ideas about the source of truth or guidance, whether from scripture as divine revelation, from personal enlightenment, etc.
+- religions that don’t consider themselves religions, or that claim to embrace all religions
+- different kinds of roots in particular languages & cultures
+- overall different or even conflicting ideas about what a religion is and what it means for a person to follow or belong to a religion … which leads us to the question, how can we define religion for the sake of studying it? Is there even such a category that encompasses this whole variety of things we call “religion”?~~
+
+==Persönliche und kommunale Ressourcen
+- Aufbau einer Gemeinschaft
+- Lebensereignisse und Feiern
+- Spirituelle Hilfe und soziale Unterstützung in Krisen
+- Sinn und Richtung im Leben
+- Psychisches Wohlbefinden==
+
+~~And on the personal level, it can be a factor in
+- building community
+- life events & celebrations
+- spiritual help & social support in crisis
+- purpose & direction in life
+- psychological well-being~~
+
+~~In the news and in history, religion is at the fore in
+- political extremism
+- wars
+- climate denying
+- abuse of power~~
+
+~~And on personal level, religion is sometimes a factor in
+- family tension
+- fighting and abuse
+- social isolation & conspiracy theories~~
+
+Lehrplan
+==Bitte sorgfältig lesen!==
+
+==Poll
+Selbstinventar:
+https://ars.particify.de/p/59898205/series/1-Vorstellung==
+
+~~Individual experience with religion
+Poll
+https://partici.fi/92022824~~
+
+==Video
+- https://www.youtube.com/shorts/RggGySKY5og?feature=share==
+
+==Vorschau
+Was ist die Religionswissenschaft?==
+
+~~Ihre Ziele~~
+
+
 ## Überblick
 ___
  
