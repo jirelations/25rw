@@ -7,16 +7,16 @@ permalink: /review
 ### 1. Religion als Gegenstand: Was machen wir hier? ###
 
 ==**🧭 Lernziel:** Heutiges Lernziel
-Sich gegenseitig kennenlernen und unsere gegenseitige Ziele für den Kurs berücksichtigen.==
+- Sich gegenseitig kennenlernen und unsere gegenseitige Ziele für den Kurs berücksichtigen.==
 
-Wer bin ich, wer seid ihr?
-- ==gerne per “Du”==
+- Wer bin ich, wer seid ihr?
+ ==- gerne per “Du”==
 
-==Karteikarten
-Name
-Studiengang
-Interesse am Kurs
-Hobby/private Interesse==
+==- Karteikarten
+ - Name
+ - Studiengang
+ - Interesse am Kurs
+ - Hobby/private Interesse==
 
 ==Wer bin ich?==
 
