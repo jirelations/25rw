@@ -213,6 +213,54 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Flink.gale.com%2Fapps%2Fpub%2F8NWR%2FGVRL%3Fsid%3Dgale_marc%26u%3Dsuf
 
+- id: arielBiblicalNarrativesMessianic2016
+  abstract: >-
+    The paper examines the contemporary scene of Jewish fundamentalism, focusing
+    on its two major wings: the separatist Ultra-Orthodox, and the more
+    culturally accommodating but politically radical Zionist Orthodox Settlers
+    and would-be Temple Builders. Both those segments of Judaism have been
+    demographically and institutionally on the rise in the last generation and
+    have made their impact on the political scene, changing the character and
+    image of Judaism as a whole. The essay comes to offer an historical and
+    sociological context to the formation, development and growth in numbers and
+    importance of the two camps. It points to the diversity within the two camps
+    and relates to major institutions, leaders and theological concepts. It also
+    examines the meaning of the term fundamentalism in late modern Judaism and
+    points to the fact that while there are obvious differences between the
+    Ultra and the Zionist Orthodox, there are also striking similarities. These
+    demonstrate themselves, among other features, in the centrality of
+    scriptural narratives to the two groups, including the idea of holding a
+    special place in God!s plans for humanity, and the idea of the imminent or
+    eventual arrival of the messianic times.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Ariel
+      given: Yaakov
+  citation-key: arielBiblicalNarrativesMessianic2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.185
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 185–200
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    Biblical narratives, messianic hopes and religious radicalism: Jewish
+    fundamentalism in our time
+  title-short: Biblical narratives, messianic hopes and religious radicalism
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.185
+  volume: '2'
+
 - id: armbrusterSpiritualitaetUndSeelische2013
   citation-key: armbrusterSpiritualitaetUndSeelische2013
   edition: 1. Aufl
@@ -323,6 +371,34 @@ references:
   URL: https://www.jstor.org/stable/1385423
   volume: '17'
 
+- id: bechmannV3InterreligioserDialog2012
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Bechmann
+      given: Ulrike
+  citation-key: bechmannV3InterreligioserDialog2012
+  container-title: Religionswissenschaft
+  editor:
+    - family: Stausberg
+      given: Michael
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: en
+  page: 449–462
+  publisher: De Gruyter
+  source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    V.3 Interreligiöser Dialog und Religionswissenschaft. Zwischen Analyse und
+    Engagement
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.449/html
+
 - id: beinhauer-koehlerIV4ReligionsgeschichteSchreiben2025
   accessed:
     - year: 2025
@@ -372,6 +448,47 @@ references:
   type: book
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-662-46575-2
+
+- id: benslamaSubjectiveImpactJihadist2016
+  abstract: >-
+    The jihadist radicalismcan represent an important factor in relationship
+    with the process of subjectivation, identification, de-idealization and
+    re-idealization of adolescents or young adults today. This contribution
+    focuses on the phenomenon of radicalization in France and on its clinical
+    aspects, on the basis of the data collected by the Ministry of Internal
+    Affairs in 2015. It aims to understand the sources of radicalisation,
+    showing that many of the candidates for jihad are getting younger and
+    younger, belong to all social classes and constitute a heterogeneous whole,
+    including the element of “prolonged adolescence” into a factorial
+    multiplicity. In this perspective it is possible to measure the function of
+    ideals in juvenile temporality, to interpret the clinically corroborated
+    data according to it and to analyse the power of collecting negativity that
+    characterizes jihadist radicalism around the world at present.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Benslama
+      given: Fethi
+  citation-key: benslamaSubjectiveImpactJihadist2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.75
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 75–85
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: The subjective impact of the jihadist offer
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.75
+  volume: '2'
 
 - id: bergunderIV1MethodologieReligionsvergleichs2025
   accessed:
@@ -1032,6 +1149,46 @@ references:
   title-short: Religion
   type: book
 
+- id: deiblInterpretationUndBundnis2016
+  abstract: >-
+    This article asks for the genuine resources of the Christian narrative
+    against fundamentalist tendencies within (Christian) religion. It
+    presupposes that critical reflection on religion and reflection within
+    religion cannot be separated from each other: Critique of religions and
+    illumination processes within them must always be combined. In the first
+    chapter I examine three types of fundamentalism according to three main
+    questions highlighted by the philosopher Klaus Heinrich concerning identity,
+    language, and selfdestruction. In the second chapter, I refer to these
+    questions by looking at important motives of Gianni Vattimo!s
+    re-interpretation of Christianity. In the last chapter I ask whether the
+    motives picked up in Heinrich and Vattimo can find their centre within the
+    biblical term covenant.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Deibl
+      given: Jakob Helmut
+  citation-key: deiblInterpretationUndBundnis2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.107
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 107–130
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: Interpretation und Bündnis
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.107
+  volume: '2'
+
 - id: dejongSpiritualEliteCommunities2018
   author:
     - family: Jong
@@ -1167,6 +1324,53 @@ references:
     islamische Theologie?
   type: article-journal
   URL: https://publikationen.uni.tuebingen.de/xmlui/handle/10900/137123
+
+- id: eilertFundamentalistischeKommunikationAls2015
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Eilert
+      given: Jürgen
+  citation-key: eilertFundamentalistischeKommunikationAls2015
+  container-title: Fundamentalismus als religionspädagogische Herausforderung
+  DOI: 10.14220/9783737004190.197
+  ISBN: 978-3-8471-0419-3
+  issued:
+    - year: 2015
+      month: 5
+  page: 197–208
+  publisher: V&R Unipress
+  source: www-vr-elibrary-de.proxy.ub.uni-frankfurt.de (Atypon)
+  title: >-
+    Fundamentalistische Kommunikation als religionspädagogische Herausforderung
+    ? Fundamentalisten sind nicht immer »die Anderen«
+  title-short: >-
+    Fundamentalistische Kommunikation als religionspädagogische Herausforderung
+    ?
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://doi.org/10.14220/9783737004190.197
+
+- id: epplerFundamentalismusAlsReligionspadagogische2015
+  author:
+    - family: Eppler
+      given: Wilhelm (Herausgeber)
+  citation-key: epplerFundamentalismusAlsReligionspadagogische2015
+  edition: 1. Auflage
+  event-place: Göttingen
+  ISBN: 978-3-7370-0419-0
+  issued:
+    - year: 2015
+  number-of-pages: 1 Online-Ressource
+  publisher: Vandenhoeck & Ruprecht Gmbh & Co. KG
+  publisher-place: Göttingen
+  source: COinS
+  title: Fundamentalismus als religionspädagogische Herausforderung
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.14220%2F9783737004190
 
 - id: frankeReligionenReligionswissenschaftUnd2012
   accessed:
@@ -1887,6 +2091,58 @@ references:
   URL: >-
     https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073941&page=1
 
+- id: hodlReversedRacismFundamentalist2016
+  abstract: >-
+    As one of the consequences of the Atlantic slave trade, distinct religions
+    evolved among the descendants of the Africans brought to the Americas. As a
+    rule, Afro-Americans in Latin America developed their own religions (like
+    Santería in Cuba or Candomblé in Brazil), based on West or Central African
+    cultural matrices using elements taken from other traditions the slaves were
+    exposed to, like Christianity and Spiritism. In contrast to Latin America,
+    in North America under colonial rule and in ante-bellum USA there emerged,
+    for the main part, evangelical forms of Christianity among the African
+    Americans. In the class of those new religious groups outside mainstream
+    Christianity that came into being amidst AfricanAmericans at the end of the
+    19th and throughout the 20th century, we find so called
+    “messianic-nationalist sects” (Baer / Singer) that have in common a
+    criticism of American society, a central myth about a glorious past of the
+    “black race”, and the strive to re-establish black supremacy in a golden
+    future of the “black race”. The mythical background concerning genealogies
+    of races these religions share can be described as an inversion of white
+    dualistic racist theories within the framework of Abrahamic religions: Dark
+    skinned Africans are either regarded as the true Hebrews or as the true
+    Muslims, “whites” as members of an inferior race. Some of these groups are
+    openly separatist, whilst others have a more integrationist stance. This
+    paper reads the development of some of these groups on the background of a
+    sketch of African-American religious history and interprets it as a more or
+    less fundamentalist reaction to a situation of incongruence.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Hödl
+      given: Hans Gerald
+  citation-key: hodlReversedRacismFundamentalist2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.131
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 131–153
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: 'Reversed racism: fundamentalist genealogies in African-American religions'
+  title-short: Reversed racism
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.131
+  volume: '2'
+
 - id: hoepflingerHandbuchGenderUnd2008
   citation-key: hoepflingerHandbuchGenderUnd2008
   collection-number: '3062'
@@ -2163,6 +2419,72 @@ references:
   type: book
   URL: http://archive.org/details/psychologieundre0000jung
 
+- id: karcherJugendkulturReligionUnd2015
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Karcher
+      given: Florian
+  citation-key: karcherJugendkulturReligionUnd2015
+  container-title: Fundamentalismus als religionspädagogische Herausforderung
+  DOI: 10.14220/9783737004190.163
+  ISBN: 978-3-8471-0419-3
+  issued:
+    - year: 2015
+      month: 5
+  page: 163–178
+  publisher: V&R Unipress
+  source: www-vr-elibrary-de.proxy.ub.uni-frankfurt.de (Atypon)
+  title: >-
+    Jugendkultur, Religion und Fundamentalismus ? Religiosität Jugendlicher
+    heute und ihre Anfälligkeit für Fundamentalismus
+  title-short: Jugendkultur, Religion und Fundamentalismus ?
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://doi.org/10.14220/9783737004190.163
+
+- id: kasehageReligiousFundamentalismAge2021
+  abstract: >-
+    The multidisciplinary anthology Religious Fundamentalism in the Age of
+    Pandemic provides deep insights concerning the current impact of Covid-19 on
+    various religious groups and believers around the world. Based on
+    contributions of well-known scholars in the field of Religious
+    Fundamentalism, the contributors offer about a window into the origins of
+    religious fundamentalism and the development of these movements as well as
+    the creation of the category itself. Further recommendations regarding
+    specific (fundamentalist) religious groups and actors and their possible
+    development within Buddhism, Christianity, Islam and Judaism round up the
+    discussion about the rise of Religious Fundamentalism in the Age of
+    Pandemic.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  citation-key: kasehageReligiousFundamentalismAge2021
+  collection-title: Religionswissenschaft
+  DOI: 10.14361/9783839454855
+  edition: '1'
+  editor:
+    - family: Käsehage
+      given: Nina
+  event-place: Bielefeld, Germany
+  ISBN: 978-3-8376-5485-1 978-3-8394-5485-5
+  issued:
+    - year: 2021
+      month: 3
+      day: 29
+  language: en
+  license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+  publisher: transcript Verlag
+  publisher-place: Bielefeld, Germany
+  source: DOI.org (Crossref)
+  title: Religious Fundamentalism in the Age of Pandemic
+  type: book
+  URL: https://www.transcript-open.de/isbn/5485
+  volume: '21'
+
 - id: kehrerGruppeGruppendynamik1993
   author:
     - family: Kehrer
@@ -2192,6 +2514,73 @@ references:
   type: chapter
   URL: >-
     https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ?hl=de&gbpv=1&pg=PA51&printsec=frontcover
+
+- id: khorchideIslamischerFundamentalismusDeutschland2015
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Khorchide
+      given: Mouhanad
+  citation-key: khorchideIslamischerFundamentalismusDeutschland2015
+  container-title: Fundamentalismus als religionspädagogische Herausforderung
+  DOI: 10.14220/9783737004190.85
+  ISBN: 978-3-8471-0419-3
+  issued:
+    - year: 2015
+      month: 5
+  page: 85–104
+  publisher: V&R Unipress
+  source: www-vr-elibrary-de.proxy.ub.uni-frankfurt.de (Atypon)
+  title: >-
+    Islamischer Fundamentalismus in Deutschland: Ein soziales Phänomen?
+    Verunsicherte Identitäten und die Suche nach Anerkennung
+  title-short: Islamischer Fundamentalismus in Deutschland
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://doi.org/10.14220/9783737004190.85
+
+- id: khosrokhavarNewEuropeanJihadism2016
+  abstract: >-
+    European Jihadism has evolved since it first appeared in the 1990s. In many
+    European countries, at the outset, it tended to be restricted to the
+    "disaffected youth! from the poor suburbs (France) or poor inner city areas
+    (in the UK), but it rapidly spread to the middle classes, whether Muslims or
+    converts. In 2013, with the civil war in Syria, Jihadism underwent major
+    changes. Before that it was restricted to a few hundred people, but it has
+    now risen to several thousand (around 5000 young people have left Europe for
+    Syria and their number would have been much higher had the governments not
+    established controls preventing the departure of adolescents via Turkey to
+    Syria). At the same time, adolescents have become numerous and the number of
+    girls and converts has sharply increased. The aim of the article is to
+    propose an understanding of the mindset of these new social actors in the
+    light of the internal conditions of European societies.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Khosrokhavar
+      given: Farhad
+  citation-key: khosrokhavarNewEuropeanJihadism2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.1
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 1–29
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: The new European Jihadism and its avatars
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.1
+  volume: '2'
 
 - id: kippenbergEinfuehrungReligionswissenschaftGegenstaende2003
   author:
@@ -2478,6 +2867,50 @@ references:
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-029/html
 
+- id: langerLearningInsteadFighting2016
+  abstract: >-
+    Rabbinic Judaism was a reaction to the destruction of the Jerusalem temple
+    and the disaster of the Bar-Kochba uprising in the 1st and 2nd century CE.
+    The rabbinic movement concentrated on the teaching and learning of the
+    Torah, the uttering of God’s will, which was intensively interpreted by the
+    Rabbis. Not success in war, not political independence in a Jewish state,
+    not political power or an imminent eschatological expectation should save
+    and rescue Jewish identity, but the ambitious effort of learning and keeping
+    the Torah up to date as a “wandering homeland”. Often beingaminority group,
+    Judaism had to come to terms with majorities or other minorities finding a
+    position of acculturation, openness and self-assurance. New approaches and
+    solutions were based on old experiences and traditions and enriched with
+    actual necessities and ideas, developing an intellectual Judaism in a
+    diasporic context.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Langer
+      given: Gerhard
+  citation-key: langerLearningInsteadFighting2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.201
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 201–215
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    Learning instead of fighting: the impact of rabbinic theory on Jewish
+    identity
+  title-short: Learning instead of fighting
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.201
+  volume: '2'
+
 - id: langerTherapeutischreligioseRitualperformanzenIm2015
   author:
     - family: Langer
@@ -2545,6 +2978,91 @@ references:
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.tandfonline.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D1353-0194%26volume%3D37%26issue%3D3%26spage%3D393
   volume: '37'
 
+- id: lassanderContemporaryFundamentalistChristianity2016
+  abstract: >-
+    In sharp contrast to both academic and public expectations on
+    secularisation, religious fundamentalism has lately exhibited vitality both
+    socially and culturally. This raises questions regarding its characteristics
+    and nature; and from the increasing academic interestamore definite and
+    nuanced understanding of its defining features has emerged. In this article
+    we address the internal diversity of religious fundamentalism. The findings
+    we report are from a mixed-method study of Christian fundamentalism in
+    Finland. The methods we used were the Schwartz!s value survey using the
+    PVQ-R questionnaire with Wulff!s Faith Q-sort based on Q-methodology. We
+    explore both values and religious subjectivities and the potential
+    relationship between these. Our results indicate that contemporary religious
+    fundamentalism should not be comprehended as a singular trajectory with some
+    defining internal features, but rather as a negotiation between a diversity
+    of individual motives and external and contextual influences. This finding
+    can shed further light on the potential variation and change of contemporary
+    fundamentalism in different contexts.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Lassander
+      given: Mika
+    - family: Nynäs
+      given: Peter
+  citation-key: lassanderContemporaryFundamentalistChristianity2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.154
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 154–184
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    Contemporary fundamentalist Christianity in Finland: the variety of
+    religious subjectivities and their association with values
+  title-short: Contemporary fundamentalist Christianity in Finland
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.154
+  volume: '2'
+
+- id: lohlkerFundamentalismInternet2016
+  abstract: >-
+    This study is ananalysis of the interrelation of fundamentalism and the
+    Internet. Contrary to common assumptions that the Internet is a space of
+    free communication and construction of individuality – and contrary to the
+    assumption of total control – the internal structure of the Web is
+    understood as creating a space structured by hierarchical structures
+    fundamentalist internet use positively accepts. Two case studies look into
+    the role of fundamentalist video practices on the Web exemplified by
+    Salafist and Hindutva internet activities.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Lohlker
+      given: Rüdiger
+  citation-key: lohlkerFundamentalismInternet2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.56
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 56–74
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: Fundamentalism and the Internet
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.56
+  volume: '2'
+
 - id: lugerVerkoerperteSpirituelleErfahrung2013
   author:
     - family: Luger
@@ -2576,6 +3094,84 @@ references:
     Feldenkrais-Methode und Vipassana-Meditation
   title-short: Verkörperte spirituelle Erfahrung
   type: chapter
+
+- id: makridesIII4JenseitsHerkommlichen2012
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Makrides
+      given: Vasilios N.
+  citation-key: makridesIII4JenseitsHerkommlichen2012
+  container-title: Religionswissenschaft
+  editor:
+    - family: Stausberg
+      given: Michael
+  ISBN: 978-3-11-025893-6
+  issued:
+    - year: 2012
+      month: 5
+      day: 29
+  language: en
+  page: 269–282
+  publisher: De Gruyter
+  source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    III.4 Jenseits von herkömmlichen Religionsformen: Kulte um Personen,
+    säkulare Systeme, politische Religionen
+  title-short: III.4 Jenseits von herkömmlichen Religionsformen
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.269/html
+
+- id: makridesOrthodoxChristianRigorism2016
+  abstract: >-
+    In the historically Orthodox Christian heartlands of Eastern and South
+    Eastern Europe, as well as sometimes in the Orthodox diasporic communities
+    around the globe, one may come across fundamentalist-like phenomena. For
+    various reasons explained in this paper I subsume these cases under a
+    category which I call rigorism. Such cases exhibit certain particularities
+    vis-'-vis their Western Christian or Islamic counterparts and also attest to
+    the diversity existing within the wider and dispersed body of Orthodox
+    Christianity. Orthodox rigorists of varied provenance are at times in
+    serious tension and conflict with the respective official Orthodox Churches,
+    while in other instances they collaborate with them for common purposes.
+    Using various theoretical perspectives on this topic and selected examples
+    from different Orthodox contexts, this paper attempts to delineate the main
+    contours of this phenomenon by focusing on the bearers of rigorism and their
+    activities, the main characteristics, the socio-historical background and
+    the later transformations of this phenomenon including its endogenous and
+    exogenous causes. Finally, the potential resources and counter-currents from
+    within the Orthodox world, which are aimed at neutralizing the rigorist
+    influences, are also presented and discussed.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Makrides
+      given: Vasilios N.
+  citation-key: makridesOrthodoxChristianRigorism2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.216
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 216–252
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    Orthodox Christian rigorism: attempting to delineate a multifaceted
+    phenomenon
+  title-short: Orthodox Christian rigorism
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.216
+  volume: '2'
 
 - id: malteseII4GenderZur2025
   accessed:
@@ -2836,6 +3432,32 @@ references:
     https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA243&printsec=frontcover
   volume: 4 (Kultbild - Rolle)
 
+- id: molthagenFundamentalismusUndDemokratie2015
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Molthagen
+      given: Dietmar
+  citation-key: molthagenFundamentalismusUndDemokratie2015
+  container-title: Fundamentalismus als religionspädagogische Herausforderung
+  DOI: 10.14220/9783737004190.257
+  ISBN: 978-3-8471-0419-3
+  issued:
+    - year: 2015
+      month: 5
+  page: 257–278
+  publisher: V&R Unipress
+  source: www-vr-elibrary-de.proxy.ub.uni-frankfurt.de (Atypon)
+  title: >-
+    Fundamentalismus und Demokratie ? am Beispiel des Salafismus und des
+    Rechtsextremismus in Deutschland
+  title-short: Fundamentalismus und Demokratie ?
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://doi.org/10.14220/9783737004190.257
+
 - id: murkenReligionspsychologie2006
   accessed:
     - year: 2026
@@ -3081,6 +3703,26 @@ references:
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-017/html
 
+- id: poschFundamentalismusUberblick2009
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Posch
+      given: Gottfried
+  citation-key: poschFundamentalismusUberblick2009
+  issued:
+    - year: 2009
+  language: deu
+  license: http://publikationen.ub.uni-frankfurt.de/home/index/help#policies
+  publisher: MUK
+  source: publikationen.ub.uni-frankfurt.de
+  title: 'Fundamentalismus : ein Überblick'
+  title-short: Fundamentalismus
+  type: report
+  URL: http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/11631
+
 - id: postRitualStudies2015
   abstract: '"Ritual Studies" published on  by Oxford University Press.'
   accessed:
@@ -3270,6 +3912,43 @@ references:
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-007/html
 
+- id: riedenauerFundamentalismusAlsKritische2016
+  abstract: >-
+    Religious fundamentalists think that the basis of their religion and
+    possibly of society is missing. While what they construct and propose as the
+    definite fundament seems less convincing, the diagnosis might contain some
+    truth. Modern atheism, too, is seen as a consequence of an erosion of the
+    fundament or roots, the general outlines of which are the topic of
+    philosophical theology. If both fundamentalismand atheism are critical
+    reactions to a lack of basis, the field of philosophical theology needs to
+    be examined, researching the fate of the fundament. The article proposes
+    hypotheses to this end, like archeologists conduct a test excavation.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Riedenauer
+      given: Markus
+  citation-key: riedenauerFundamentalismusAlsKritische2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.86
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 86–106
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: Fundamentalismus als „kritische Reaktion“?
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.86
+  volume: '2'
+
 - id: riesebrodt11FundamentalismusUnd1990
   accessed:
     - year: 2023
@@ -3401,6 +4080,48 @@ references:
   title: III.4 Interreligiöser Dialog und Religionswissenschaft
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-023/html
+
+- id: rothgangelFundamentalismKeyTopic2016
+  abstract: >-
+    The origins of religious fundamentalism lie not in Islam, but in
+    Christianity. Specifically, the “original” religious fundamentalism may be
+    found in the Protestant tradition of the United States. Since studying the
+    concept!s origin will exemplify the basic features of fundamentalism, the
+    first part of this article is devoted to an overview of this topic. Against
+    this backdrop, the second part will present fundamentalism as a theological
+    challenge, according special attention to the inerrancy of Scripture. In the
+    third and final part, conclusions are drawn from a religious educational
+    perspective: the educational relevance of fundamentalism is pedagogically
+    justified, reflexive questions are provided for religious teachers, and
+    finally, the reasons for why fundamentalism is a key topic for religious
+    education are thetically summarized.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Rothgangel
+      given: Martin
+  citation-key: rothgangelFundamentalismKeyTopic2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.253
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 253–270
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    Fundamentalism as a key topic for religious education. Observations from a
+    Protestant perspective
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.253
+  volume: '2'
 
 - id: schauppMachtReligionGesund2010
   accessed:
@@ -3548,6 +4269,32 @@ references:
   title-short: I.3 Religion relational
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-005/html
+
+- id: schweitzerFundamentalNichtFundamentalistisch2015
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Schweitzer
+      given: Friedrich
+  citation-key: schweitzerFundamentalNichtFundamentalistisch2015
+  container-title: Fundamentalismus als religionspädagogische Herausforderung
+  DOI: 10.14220/9783737004190.13
+  ISBN: 978-3-8471-0419-3
+  issued:
+    - year: 2015
+      month: 5
+  page: 13–30
+  publisher: V&R Unipress
+  source: www-vr-elibrary-de.proxy.ub.uni-frankfurt.de (Atypon)
+  title: >-
+    Fundamental, nicht fundamentalistisch ? Wege einer religiösen Erziehung
+    jenseits von Relativismus und Fundamentalismus
+  title-short: Fundamental, nicht fundamentalistisch ?
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://doi.org/10.14220/9783737004190.13
 
 - id: sijapatiBodyToolRemembrance2021
   author:
@@ -3838,6 +4585,57 @@ references:
   title-short: Religionswissenschaft
   type: chapter
   URL: https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-001/html
+
+- id: stepanovaRegionalizationViolentJihadism2016
+  abstract: >-
+    In the early 21st century, violent extremism in general and Islamist
+    violence in particular have been dominated by several jihadist movements
+    that are regionally-based, primarily operate at regional level and have been
+    undergoing the bottom-up regionalization process. All these movements are
+    major combatants in the world!s most intense regional armed conflicts and
+    the lead terrorist actors against non-combatants. All try to build Islamic
+    states in their regions. They are distinct from both peripheral
+    Islamist/separatist insurgencies fought at subnational level and from
+    al-Qaeda as an inherently extraterritorial movement and ideology, with a
+    fully globalized agenda. Against this background, Daesh, or the “Islamic
+    State”, did not emerge as a global phenomenon, but as a regional movement in
+    the Iraq-Syria context, driven by bottom-up regional dynamics and conflicts
+    facilitated by collapse or weakness of states of the region, fueled by
+    sectarianism and catalyzed by external interventions. The key question is:
+    what turned this regional actor into the new cutting edge of “global jihad”
+    as a movement and ideology?The article identifies three main trends in the
+    evolution of transnational violent Islamism: bottom-up “regionalization”,
+    network fragmentation of the “global jihad” movement and the intensification
+    of targeted intra- and cross-regional jihadist “migration flows”. While
+    interrelated, these trends are distinct, develop in parallel to one another,
+    and only partially overlap. It is precisely where they overlap that the
+    Daesh phenomenon has formed.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 2
+  author:
+    - family: Stepanova
+      given: Ekaterina
+  citation-key: stepanovaRegionalizationViolentJihadism2016
+  container-title: >-
+    Interdisciplinary Journal for Religion and Transformation in Contemporary
+    Society – J-RaT
+  DOI: 10.14220/jrat.2016.2.2.30
+  ISSN: 2365-3140
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 7
+      day: 11
+  page: 30–55
+  publisher: V&R unipress
+  source: vr-elibrary.de (Atypon)
+  title: 'Regionalization of violent jihadism and beyond: the case of Daesh'
+  title-short: Regionalization of violent jihadism and beyond
+  type: article-journal
+  URL: https://www.vr-elibrary.de/doi/10.14220/jrat.2016.2.2.30
+  volume: '2'
 
 - id: stephensonRitual2022
   abstract: '"Ritual" published on  by Oxford University Press.'
