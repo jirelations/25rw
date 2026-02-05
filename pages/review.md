@@ -111,7 +111,9 @@ Was ist die Religionswissenschaft?==
 ___
  
 ### 2. Was ist Religion?
-**🧭 Lernziel:** Verschiedene Definitionen von Religion unterscheiden können, was sie umfassen und wofür sie nützlich sein können.
+==**🧭 Lernziel:** Die Bestimmung des Fachs Religionswissenschaft in seiner Breite und mit seinen Unterschieden zur Theologie erfassen.==
+
+Verschiedene Definitionen von Religion unterscheiden können, was sie umfassen und wofür sie nützlich sein können.
 
 - Welche Kriterien sind für eine Religionsdefinition wichtig?
 - Für die folgenden Autoren wichtige Aspekte der Religionsdefinition nennen:
