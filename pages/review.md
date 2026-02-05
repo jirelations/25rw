@@ -114,11 +114,11 @@ ___
 **🧭 Lernziel:** Die Bestimmung des Fachs Religionswissenschaft in seiner Breite und mit seinen Unterschieden zur Theologie erfassen.
 ==
 
-== Rückblick
+==Rückblick
 - gegenseitiges Kennenlernen und Erwartungen
 - Lehrplan
-- Warum Religionswissenschaft
-==
+- Warum Religionswissenschaft==
+
 ~~Wie Religion ein wichtiger Teil des menschlichen Lebens ist
 Warum es für die Religionsforschung keinen neutralen Standpunkt gibt
 Wie sich religionswissenschaftliche Fragestellungen von theologischen unterscheiden
