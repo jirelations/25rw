@@ -110,8 +110,8 @@ Was ist die Religionswissenschaft?==
 ## Überblick
 ___
  
-### 2. Was ist Religion?
-==**🧭 Lernziel:** Die Bestimmung des Fachs Religionswissenschaft in seiner Breite und mit seinen Unterschieden zur Theologie erfassen.==
+==### 2. Religion als Gegenstand: Was ist die Religionswissenschaft?
+**🧭 Lernziel:** ==Die Bestimmung des Fachs Religionswissenschaft in seiner Breite und mit seinen Unterschieden zur Theologie erfassen.==
 
 Verschiedene Definitionen von Religion unterscheiden können, was sie umfassen und wofür sie nützlich sein können.
 
