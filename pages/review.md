@@ -126,17 +126,118 @@ Ob “Religion” als Oberbegriff geeignet ist, obwohl Religionen sehr unterschi
 
 ## Heutiges Lernziel
 Verschiedene Definitionen von Religion unterscheiden können, was sie umfassen und wofür sie nützlich sein können.
-
+==
+==Gliederung
+- Theologie vs. Religionswissenschaft
+- Religionswissenschaft bunt!
+- Dein Standpunkt in der Religionsforschung
+==
+~~
 - Welche Kriterien sind für eine Religionsdefinition wichtig?
 - Für die folgenden Autoren wichtige Aspekte der Religionsdefinition nennen:
   - Durkheim: System, das Heilige, Gemeinschaft
   - Geertz: Symbolsystem, Stimmungen & Motivationen, Aura von Faktizität
   - Bourdieu: System, natürlich-übernatürliche Struktur, Auferlegung einer hierarchischen Denkweise
 
+🔭 Reflexion: Émile Durkheim
+Eine Religion ist ein solidarisches System von Überzeugungen und Pratiken, die sich auf heilige, d. h. abgesonderte und verbotene Dinge, Überzeugungen und Pratiken beziehen, die in einer und derselben moralischen Gemeinschaft, die man Kirche nennt, alle vereinen, die ihr angehören. (1912/2007, S. 75)
+
+🔭 Reflexion: Cliﬀord Geertz
+Religion ist „(1) ein Symbolsystem, das darauf zielt, (2) starke, umfassende und dauerhafe Stimmungen und Motivationen in den Menschen zu schaﬀen (3) indem es Vorstellungen einer allgemeinen Seinsordnung formuliert und (4) diese Vorstellungen mit einer solchen Aura von Faktizität umgibt, dass (5) die Stimmungen und Motivationen völlig der Wirklichkeit zu entsprechen scheinen“ (1973, S. 48)
+
+🔭 Reflexion: Cliﬀord Geertz
+a religion is (1) a system of symbols which act to (2) establish powerful, pervasive, and long-lasting moods and motivations in men by (3) formulating conceptions of a general order of existence and (4) clothing these conceptions with such an aura of factuality that (5) moods and motivations seem uniquely realistic (1993, S. 90)
+
+🔭 Reflexion: Pierre Bourdieu
+die Religion hat die Funktion, ein System von Praktiken und Vorstellungen zu entwickeln, das sich auf das Prinzip einer natürlich-übernatürlichen Struktur des Kosmos gründet und damit die objektiv bestehenden irdischen Verhältnisse wiederholt und einprägt. Damit trägt sie zur (verschleierten) Durchsetzung der Wahrnehmungs- und Denkmuster bei…
+
+🔭 Reflexion: Pierre Bourdieu
+… Zur Wirkung der Legitimation kommt es allerdings nicht nur durch die Herstellung einer Entsprechung zwischen der kosmologischen Hierarchie und der sozialen und kirchlichen Hierarchie, sondern auch und vor allem durch die Auferlegung einer hierarchischen Denkweise, welche die Ordnungsbeziehungen dadurch natürlich erscheinen lässt, dass sie die Existenz privilegierter Punkte im kosmischen wie im politischen Raum setzt und/oder anerkennt. (Wenzel 2023 nach Bourdieu 2000, S. 49; 97-98)
+
 - Lektüre (Stausberg):
   - Ist die Definition der Religion in der Religionswissenschaft gleich wie im rechtlichen Diskurs?
   - Warum sollte der Religionsbegriff in nicht-Westlichen Kulturen als implizit verstanden werden?  
   - Wie unterscheiden sich substanzialistische Religionsdefinitionen (an Merkmalen orientiert) von funktionalistischen (an Leistungen orientiert)?
+ 
+    
+~~
+==
+1. Theologie vs. Religionswissenschaft: Geschichte
+- Religionswissenschaft im 19. Jhdt. als “alter ego” zur Theologie (so Stausberg 2012) entstanden.
+Damals viel mit den (evolutionären) Ursprüngen der Religion(en) beschäftigt.
+
+1. Theologie vs. Religionswissenschaft: Definitionen
+- Die Religionswissenschaft versteht sich als eine empirisch arbeitende Wissenschaft – das heißt, als eine Wissenschaft, die auf der Beobachtung und Beschreibung von Religionen, religiösen Akteuren oder religiösen Sachverhalten (Dingen, Ereignissen, Phänomenen) aufbaut. (Stausberg 2012)
+
+1. Theologie vs. Religionswissenschaft: Definitionen
+- [Religionswissenschaft] fragt auf der Basis vielfältigen Quellenmaterials (Text, Bild, Film, Architektur, Ritual, und so weiter) sowie empirischen Daten (Umfragen, Interviews, Statistiken und so weiter) nach den Funktionen von Religion in der Gesellschaft, nach Grundmustern religiösen Wandels und nach Formen religiöser Identitätsbildung sowie nach Interaktionen (Konflikten, Dialogen und Inkulturation) mit anderen Religionen und Weltanschauungen. (Uni-Frankfurt Studienordnungen)
+
+1. Theologie vs. Religionswissenschaft: Vergleich
+ 	Theologie	Religionswissenschaft
+Fragen	inhaltliche über den Glaube bzw. die Praxis (göttliche Handlungen oder metaphysische Realitäten)	menschliche Handlungen mit der Religion
+Gültigkeit	allgemein	bestimmte Gruppierungen, Orte, Zeiten
+Ansatz	normativ (soll, darf)	beschreibend (ist)
+Materialien	v. a. Texte	empirische Daten, Texte, Medien
+Vorannahmen	Relevanz bzw. Autorität der Schriften, Institutionen o. ä.	menschliche Wirkung in der Gestaltung und Durchführung von Religionen, geistes- und sozialwissenschaftliche Methoden
+
+1. Theologie vs. Religionswissenschaft: Vergleich
+ 	Theologie	Religionswissenschaft
+Fragen	inhaltliche über den Glaube bzw. die Praxis (göttliche Handlungen oder metaphysische Realitäten)	menschliche Handlungen mit der Religion
+Gültigkeit	allgemein	bestimmte Gruppierungen, Orte, Zeiten
+
+1. Theologie vs. Religionswissenschaft: Vergleich
+ 	Theologie	Religionswissenschaft
+Ansatz	normativ (soll, darf)	beschreibend (ist)
+Materialien	v. a. Texte	empirische Daten, Texte, Medien
+Vorannahmen	Relevanz bzw. Autorität der Schriften, Institutionen o. ä.	menschliche Wirkung in der Gestaltung und Durchführung von Religionen, geistes- und sozialwissenschaftliche Methoden
+
+1. Theologie vs. Religionswissenschaft
+- Dennoch beschäftigt sich die Theologie mit wichtigen und notwendigen Fragen!
+
+2. Religionswissenschaft bunt!
+1. Religion/Region + Thema auswählen.
+2. Auf https://relbib.de/ das/der interessanteste Buch/Beitrag für eure Gruppe finden.
+3. Auf die Fragen hier (https://etherpad.studiumdigitale.uni-frankfurt.de/p/25rw2) antworten.
+
+3. Dein Standpunkt in der Religionsforschung: Umfrage-Ergebnisse
+- https://ars.particify.de/present/59898205/series/1-Vorstellung/1
+- Wie schaffen wir eine kritische Distanz?
+- Perspektivenwechsel als Lernkompetenz
+
+3. Dein Standpunkt in der Religionsforschung: Schwierige Themen
+- Könntest du dir vorstellen, das manche Themen in der Religionswissenschaft für dich unangenehm oder sogar offensiv sein könnten? Was würdest du tun, sodass du auch bei solchen Themen zuhörst, mitdenkst und mitdiskutierst?
+- Gibt es Raum für gläubige bzw. nicht-gläubige Menschen in der Religionswissenschaft?
+- Findest du irgendwelche Affinitäten zu Religion auf menschlicher Ebene, wenn du selber nicht religiös bist bzw. über eine andere Religion als eigene diskutierst? (S. kurzes Video)
+
+3. Dein Standpunkt in der Religionsforschung: Spielregeln
+- Nicht davon ausgehen, dass wir im Raum repräsentativ sind.
+- Nicht davon ausgehen, dass andere im Raum ähnlich überzeugt sind.
+- Erst andere Perspektiven zuhören und verstehen (nicht gleich beurteilen, wenn überhaupt).
+
+3. Dein Standpunkt in der Religionsforschung: Lektüre (Stausberg & Wilkens 2025) und Ziele
+- Inwieweit findest du das Plädoyer für Religionswissenschaft nach Stausberg & Wilkens überzeugend?
+Welches Ziel würdest du für dich in diesem Grundkurs setzen?
+
+Projekte
+
+Sprechstunden
+Montag 14-15h
+Oder Terminvereinbarung:
+
+In Präsenz (IG 6.552): https://npgibson.com/m/sprechstunden
+Per Zoom: https://npgibson.com/m/sprechstunden-zoom 
+
+Vorschau
+Was ist Religion?
+
+==
+
+
+
+~~
+Vorschau
+Was gilt als religiöses Ritual? (Fussballschal mitbringen)
+~~
 
 ### 3. Was gilt als religiöses Ritual?
 **🧭 Lernziel:** Rituale auf drei Ebenen (Formen, Funktionen, Bedeutungen) anhand von Beispielen schildern können.
