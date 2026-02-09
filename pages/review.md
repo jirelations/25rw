@@ -4,349 +4,289 @@ title: Überblick
 permalink: /review
 ---
 
-### 1. Religion als Gegenstand: Was machen wir hier? ###
-
-==**🧭 Lernziel:** Heutiges Lernziel
-- Sich gegenseitig kennenlernen und unsere gegenseitige Ziele für den Kurs berücksichtigen.
-==
-- Wer bin ich, wer seid ihr?
- ==- gerne per “Du”==
-
-==- Karteikarten
- - Name
- - Studiengang
- - Interesse am Kurs
- - Hobby/private Interesse==
-
-==Wer bin ich?==
-
-==Gruppen
-- Religionswissenschaft
-- L1 ev. Religion
-- L2/5 & L3 ev. Religion
-- Lehramt kath. Religion
-- Theologie & Religionsphilosophie==
-
-==Religionswissenschaft studieren –– warum?
-- weil Religion nicht ausstirbt
-- weil Religion ein Teil des menschlichen Lebens ist
-- und ein Beispiel von menschlichen Phänomenen ist
-- um kritisches Denken und kulturwissenschaftliche Fähigkeiten zu trainieren (“soft skills”)==
-
-~~Religion has inspired
-- incredible humanitarian deeds,
-- caring for the marginalized
-- great literature, art, music
-- philosophical & scientific advancements~~
-
-~~Parts:
-- social communities
-- rituals and practices
-- scriptures
-- holy places and holy objects~~
-
-~~We observe dynamics of:
-- leadership, power, gender
-- social inclusion & exclusion
-- oral & written communication
-- physicality & embodiedness~~
-
-==Wie geht man mit Krisen um?
-- Krisen in der Welt: politischer Extremismus, Kriege, Leugnung des Klimawandels, Machtmissbrauch
-- Persönliche Krisen: familiäre Spannungen, Streit und Missbrauch, soziale Isolation und Verschwörungstheorien==
-
-~~Diversity of “wholes”
-- belief in one God, many gods, universal spirit, or no god
-- different ideas about the source of truth or guidance, whether from scripture as divine revelation, from personal enlightenment, etc.
-- religions that don’t consider themselves religions, or that claim to embrace all religions
-- different kinds of roots in particular languages & cultures
-- overall different or even conflicting ideas about what a religion is and what it means for a person to follow or belong to a religion … which leads us to the question, how can we define religion for the sake of studying it? Is there even such a category that encompasses this whole variety of things we call “religion”?~~
-
-==Persönliche und kommunale Ressourcen
-- Aufbau einer Gemeinschaft
-- Lebensereignisse und Feiern
-- Spirituelle Hilfe und soziale Unterstützung in Krisen
-- Sinn und Richtung im Leben
-- Psychisches Wohlbefinden==
-
-~~And on the personal level, it can be a factor in
-- building community
-- life events & celebrations
-- spiritual help & social support in crisis
-- purpose & direction in life
-- psychological well-being~~
-
-~~In the news and in history, religion is at the fore in
-- political extremism
-- wars
-- climate denying
-- abuse of power~~
-
-~~And on personal level, religion is sometimes a factor in
-- family tension
-- fighting and abuse
-- social isolation & conspiracy theories~~
-
-Lehrplan
-==Bitte sorgfältig lesen!==
-
-==Poll
-Selbstinventar:
-https://ars.particify.de/p/59898205/series/1-Vorstellung==
-
-~~Individual experience with religion
-Poll
-https://partici.fi/92022824~~
-
-==Video
-- https://www.youtube.com/shorts/RggGySKY5og?feature=share==
-
-==Vorschau
-Was ist die Religionswissenschaft?==
-
-~~Ihre Ziele~~
-
-
 ## Überblick
-___
-== 
+
+### 1. Religion als Gegenstand: Was machen wir hier?
+
+**(Die erste Sitzung Kommt nicht in der Klausur vor.)**
+
+**🧭 Lernziel:** Sich gegenseitig kennenlernen und unsere gegenseitige Ziele für den Kurs berücksichtigen.
+
+- Vorstellungen
+- Grunde, um Religionswissenschaft zu studieren, 
+  - weil Religion ...
+    - nicht ausstirbt
+    - Teil des menschlichen Lebens ist
+    - ein Beispiel von menschlichen Phänomenen ist
+  - um kritisches Denken und kulturwissenschaftliche Fähigkeiten zu trainieren
+- Was über die Religion zu studieren gibt's:
+  - Was Religionen inspiriert haben
+  - Elemente der Religion
+  - Dynamiken von Religionen, die betrachtet werden können
+  - Krisen (gesellschaftliche und persönliche), die mit Religion zu tun haben, und Ressourcen (persönliche und kommunale) von religiösen Gemeinschaften und Weltansichten
+  - Unterschiedliche Vorstellungen bzw. Selbstdarstellungen von Religionen, die einen Definitionsversuch erschweren
+- Selbstinventar
+- Video: ["You're more religious than you think"](https://www.youtube.com/shorts/RggGySKY5og)
+
 ### 2. Religion als Gegenstand: Was ist die Religionswissenschaft?
+
 **🧭 Lernziel:** Die Bestimmung des Fachs Religionswissenschaft in seiner Breite und mit seinen Unterschieden zur Theologie erfassen.
-==
 
-==Rückblick
-- gegenseitiges Kennenlernen und Erwartungen
-- Lehrplan
-- Warum Religionswissenschaft==
-
-~~Wie Religion ein wichtiger Teil des menschlichen Lebens ist
-Warum es für die Religionsforschung keinen neutralen Standpunkt gibt
-Wie sich religionswissenschaftliche Fragestellungen von theologischen unterscheiden
-Ob “Religion” als Oberbegriff geeignet ist, obwohl Religionen sehr unterschiedlich sind?~~
-
-## Heutiges Lernziel
-Verschiedene Definitionen von Religion unterscheiden können, was sie umfassen und wofür sie nützlich sein können.
-==
-==Gliederung
 - Theologie vs. Religionswissenschaft
-- Religionswissenschaft bunt!
+  - Wie unterscheidet sich die Religionswissenschaft von der Geschichte
+    - in ihrer geschichtlichen Entwicklung?
+    - in ihrer Quellen, Methoden und Fragestellungen?
+- Wie ist die Religionswissenschaft bunt in ihrer 
+  - Forschungsobjekte (Zeitepochen, Kulturen, Sprachen, Regionen)?
+  - Methoden und Disziplinen?
 - Dein Standpunkt in der Religionsforschung
-==
-~~
+  - Wie schaffst du eine kritische Distanz?
+  - Warum ist der Perspektivenwechsel ein hilfreiches Lernkompetenz?
+
+
+### 3. Religion als Gegenstand: Was ist Religion?
+
+**🧭 Lernziel:** Verschiedene Definitionen von Religion unterscheiden können, was sie umfassen und wofür sie nützlich sein können.
+
+- Das Beeren-Tee-zum-Nachtisch-Problem
+  - Nachtisch-Problem? <!-- Ursprung des Wortes bestimmt nicht die Anwendbarkeit -->.
+  - Tee-Problem? <!-- Manches kann nicht allein von den Zutaten/Charakteristiken bestimmt werden. -->
+  - Beeren-Problem? <!-- Spezialist/innen können etwas evtl. anders bestimmen als das übliche Wortgebrauch. -->
 - Welche Kriterien sind für eine Religionsdefinition wichtig?
-- Für die folgenden Autoren wichtige Aspekte der Religionsdefinition nennen:
-  - Durkheim: System, das Heilige, Gemeinschaft
-  - Geertz: Symbolsystem, Stimmungen & Motivationen, Aura von Faktizität
-  - Bourdieu: System, natürlich-übernatürliche Struktur, Auferlegung einer hierarchischen Denkweise
+- Wie unterscheiden sich substanzialistische Definitionen von funktionalistischen Definitionen? <!-- substanzialistisch (Merkmale) oder funktionalistisch (Leistungen)? (Stausberg S. 40) -->
+  - ein System oder Familienähnlichkeiten? (Stausberg S. 42)
+- Definitionen nach Durkheim, Geertz, Bourdieu
+  - Was haben sie gemeinsam?
+<!--     - System
+    - Funktion
+    - Absonderung bzw. Seinsordnung bzw. Struktur des Kosmos -->
+  - Worauf fokussiert
+    - Durkheim? <!-- System, das Heilige, Gemeinschaft -->
+    - Geertz? <!-- Symbolsystem, Stimmungen & Motivationen, Aura von Faktizität -->
+    - Bourdieu? <!-- System, natürlich-übernatürliche Struktur, Auferlegung einer hierarchischen Denkweise -->
 
-🔭 Reflexion: Émile Durkheim
-Eine Religion ist ein solidarisches System von Überzeugungen und Pratiken, die sich auf heilige, d. h. abgesonderte und verbotene Dinge, Überzeugungen und Pratiken beziehen, die in einer und derselben moralischen Gemeinschaft, die man Kirche nennt, alle vereinen, die ihr angehören. (1912/2007, S. 75)
+### 4. Religion als Gegenstand: Was gilt als religiöses Ritual?
 
-🔭 Reflexion: Cliﬀord Geertz
-Religion ist „(1) ein Symbolsystem, das darauf zielt, (2) starke, umfassende und dauerhafe Stimmungen und Motivationen in den Menschen zu schaﬀen (3) indem es Vorstellungen einer allgemeinen Seinsordnung formuliert und (4) diese Vorstellungen mit einer solchen Aura von Faktizität umgibt, dass (5) die Stimmungen und Motivationen völlig der Wirklichkeit zu entsprechen scheinen“ (1973, S. 48)
-
-🔭 Reflexion: Cliﬀord Geertz
-a religion is (1) a system of symbols which act to (2) establish powerful, pervasive, and long-lasting moods and motivations in men by (3) formulating conceptions of a general order of existence and (4) clothing these conceptions with such an aura of factuality that (5) moods and motivations seem uniquely realistic (1993, S. 90)
-
-🔭 Reflexion: Pierre Bourdieu
-die Religion hat die Funktion, ein System von Praktiken und Vorstellungen zu entwickeln, das sich auf das Prinzip einer natürlich-übernatürlichen Struktur des Kosmos gründet und damit die objektiv bestehenden irdischen Verhältnisse wiederholt und einprägt. Damit trägt sie zur (verschleierten) Durchsetzung der Wahrnehmungs- und Denkmuster bei…
-
-🔭 Reflexion: Pierre Bourdieu
-… Zur Wirkung der Legitimation kommt es allerdings nicht nur durch die Herstellung einer Entsprechung zwischen der kosmologischen Hierarchie und der sozialen und kirchlichen Hierarchie, sondern auch und vor allem durch die Auferlegung einer hierarchischen Denkweise, welche die Ordnungsbeziehungen dadurch natürlich erscheinen lässt, dass sie die Existenz privilegierter Punkte im kosmischen wie im politischen Raum setzt und/oder anerkennt. (Wenzel 2023 nach Bourdieu 2000, S. 49; 97-98)
-
-- Lektüre (Stausberg):
-  - Ist die Definition der Religion in der Religionswissenschaft gleich wie im rechtlichen Diskurs?
-  - Warum sollte der Religionsbegriff in nicht-Westlichen Kulturen als implizit verstanden werden?  
-  - Wie unterscheiden sich substanzialistische Religionsdefinitionen (an Merkmalen orientiert) von funktionalistischen (an Leistungen orientiert)?
- 
-    
-~~
-==
-1. Theologie vs. Religionswissenschaft: Geschichte
-- Religionswissenschaft im 19. Jhdt. als “alter ego” zur Theologie (so Stausberg 2012) entstanden.
-Damals viel mit den (evolutionären) Ursprüngen der Religion(en) beschäftigt.
-
-1. Theologie vs. Religionswissenschaft: Definitionen
-- Die Religionswissenschaft versteht sich als eine empirisch arbeitende Wissenschaft – das heißt, als eine Wissenschaft, die auf der Beobachtung und Beschreibung von Religionen, religiösen Akteuren oder religiösen Sachverhalten (Dingen, Ereignissen, Phänomenen) aufbaut. (Stausberg 2012)
-
-1. Theologie vs. Religionswissenschaft: Definitionen
-- [Religionswissenschaft] fragt auf der Basis vielfältigen Quellenmaterials (Text, Bild, Film, Architektur, Ritual, und so weiter) sowie empirischen Daten (Umfragen, Interviews, Statistiken und so weiter) nach den Funktionen von Religion in der Gesellschaft, nach Grundmustern religiösen Wandels und nach Formen religiöser Identitätsbildung sowie nach Interaktionen (Konflikten, Dialogen und Inkulturation) mit anderen Religionen und Weltanschauungen. (Uni-Frankfurt Studienordnungen)
-
-1. Theologie vs. Religionswissenschaft: Vergleich
- 	Theologie	Religionswissenschaft
-Fragen	inhaltliche über den Glaube bzw. die Praxis (göttliche Handlungen oder metaphysische Realitäten)	menschliche Handlungen mit der Religion
-Gültigkeit	allgemein	bestimmte Gruppierungen, Orte, Zeiten
-Ansatz	normativ (soll, darf)	beschreibend (ist)
-Materialien	v. a. Texte	empirische Daten, Texte, Medien
-Vorannahmen	Relevanz bzw. Autorität der Schriften, Institutionen o. ä.	menschliche Wirkung in der Gestaltung und Durchführung von Religionen, geistes- und sozialwissenschaftliche Methoden
-
-1. Theologie vs. Religionswissenschaft: Vergleich
- 	Theologie	Religionswissenschaft
-Fragen	inhaltliche über den Glaube bzw. die Praxis (göttliche Handlungen oder metaphysische Realitäten)	menschliche Handlungen mit der Religion
-Gültigkeit	allgemein	bestimmte Gruppierungen, Orte, Zeiten
-
-1. Theologie vs. Religionswissenschaft: Vergleich
- 	Theologie	Religionswissenschaft
-Ansatz	normativ (soll, darf)	beschreibend (ist)
-Materialien	v. a. Texte	empirische Daten, Texte, Medien
-Vorannahmen	Relevanz bzw. Autorität der Schriften, Institutionen o. ä.	menschliche Wirkung in der Gestaltung und Durchführung von Religionen, geistes- und sozialwissenschaftliche Methoden
-
-1. Theologie vs. Religionswissenschaft
-- Dennoch beschäftigt sich die Theologie mit wichtigen und notwendigen Fragen!
-
-2. Religionswissenschaft bunt!
-1. Religion/Region + Thema auswählen.
-2. Auf https://relbib.de/ das/der interessanteste Buch/Beitrag für eure Gruppe finden.
-3. Auf die Fragen hier (https://etherpad.studiumdigitale.uni-frankfurt.de/p/25rw2) antworten.
-
-3. Dein Standpunkt in der Religionsforschung: Umfrage-Ergebnisse
-- https://ars.particify.de/present/59898205/series/1-Vorstellung/1
-- Wie schaffen wir eine kritische Distanz?
-- Perspektivenwechsel als Lernkompetenz
-
-3. Dein Standpunkt in der Religionsforschung: Schwierige Themen
-- Könntest du dir vorstellen, das manche Themen in der Religionswissenschaft für dich unangenehm oder sogar offensiv sein könnten? Was würdest du tun, sodass du auch bei solchen Themen zuhörst, mitdenkst und mitdiskutierst?
-- Gibt es Raum für gläubige bzw. nicht-gläubige Menschen in der Religionswissenschaft?
-- Findest du irgendwelche Affinitäten zu Religion auf menschlicher Ebene, wenn du selber nicht religiös bist bzw. über eine andere Religion als eigene diskutierst? (S. kurzes Video)
-
-3. Dein Standpunkt in der Religionsforschung: Spielregeln
-- Nicht davon ausgehen, dass wir im Raum repräsentativ sind.
-- Nicht davon ausgehen, dass andere im Raum ähnlich überzeugt sind.
-- Erst andere Perspektiven zuhören und verstehen (nicht gleich beurteilen, wenn überhaupt).
-
-3. Dein Standpunkt in der Religionsforschung: Lektüre (Stausberg & Wilkens 2025) und Ziele
-- Inwieweit findest du das Plädoyer für Religionswissenschaft nach Stausberg & Wilkens überzeugend?
-Welches Ziel würdest du für dich in diesem Grundkurs setzen?
-
-Projekte
-
-Sprechstunden
-Montag 14-15h
-Oder Terminvereinbarung:
-
-In Präsenz (IG 6.552): https://npgibson.com/m/sprechstunden
-Per Zoom: https://npgibson.com/m/sprechstunden-zoom 
-
-Vorschau
-Was ist Religion?
-
-==
-
-
-
-~~
-Vorschau
-Was gilt als religiöses Ritual? (Fussballschal mitbringen)
-~~
-
-### 3. Was gilt als religiöses Ritual?
 **🧭 Lernziel:** Rituale auf drei Ebenen (Formen, Funktionen, Bedeutungen) anhand von Beispielen schildern können.
 
-- Definitionen des Rituals nach
-  - Ronald Grimes
-  - Victor Turner
-- Die Funktion des Rituals nach Durkheim
 - Lektüre (Bromberger): am Beispiel vom Fußball
-  - Funktionen 
-  - Bedeutungen
+  - Formen <!-- Schalen, Lieder, Sitzplätze im Stadion -->
+  - Funktionen <!-- Zusammenhalt/Gemeinschaftsgefühl, Protest, Bestätigung der Hierarchien, u. a. -->
+  - Bedeutungen <!-- Schicksal, Aufstiegsmöglichkeiten, Zusammenarbeit u.a. -->
   - Fußball-Religion Vergleich
+    - Inwieweit geht es im Fußball um Rituale? (exemplarisch)
+<!-- 1. Bruch mit der alltäglichen Routine
+2. Spezieller Raum-Zeit-Bezug
+3. zyklisch wiederkehrender Ablaufsplan mit Worten/Gesten/Gegenständen und transzendente Ziele
+4. symbolische Konfiguration  
+5. Anti-Struktur (umgestellte Hierarchien)  
+6. moralisch verpflichtete Teilnahme   -->
+    - Was gehört der Religion aber fehlt dem Fußball?
+<!--       - transzendente Glauben?
+      - Exegese (Bedeutungsmuster), "eher tut als sagt"
+      - woher wir kommen, wohin wir gehen? -->
+- Warum ist Ritual schwierig zu definieren (nach Stephenson 2022)? <!-- "a catchall term for a diverse set of cultural forms and practices, such as worship, baptism, parades, coronations, and festivals"  -->
+- Definitionen des Rituals nach
+  - Ronald Grimes <!-- “embodied, condensed, and prescribed enactment.” (The Craft of Ritual Studies (New York: Oxford University Press, 2014), 195 in Stephenson 2022). Paraphrasiert: einen bestimmten Aspekt des Lebens nach bestimmten Regeln in Miniatur nachspielen
+  - verkörpert
+  - verdichtet
+  - vorgeschrieben -->
+  - Victor Turner <!-- Zeitlicher Moment als Bedeutungsvoll: "ein wirkmächtiges Moment, das der Existenz durch die notwendige Vermischung operativer und auslegender Aspekte, die anderen Dimensionen angehören, Bedeutung gibt." (in Bromberger 2003, 293) -->
+- Inwieweit überlappen sich Ritualen mit Zeremonien und Gewohnheiten bzw. inwieweit sind diese zu unterscheiden?
 
-### 4. Wie bilden sich religiöse Gruppen und Autoritäten?
-**🧭 Lernziel:** Historische und gegenwärtige Beispiele der Gruppenbildung anhand eines differenzierten Konzepts von "Meister/Jüngerschaft" erläutern können.
+### 5. Gruppen und Autorität: Wie bilden sich religiöse Gruppen und Autoritäten?
 
-- Unterschied zwischen Lehrer/in und Meister/in
-- Nach Weber
-  - Meister: "Repräsentant eines transzendenten Bereichs"
-  - Priester vs. Prophet
-  - ethische vs. exemplarische Propheten
-- Was bedeutet diese Aussage von Wach (1925:9): "der Meister wird erst zum Meister am Jünger"?
+**🧭 Lernziel:** Die Gruppenbildung durch die Genese, der Erhalt und die Veralltäglichung des Charismas mit historischen und gegenwärtigen Beispielen erläutern können.
 
-### 5. Welche Rolle spielt Gender in der Religion?
+- Übung Papierflieger
+- Was ist der Charisma-Begriff?
+  - Woher kommt das Wort?
+  - Wie benutzt Max Weber das Wort? <!-- "außeralltäglich geltende Qualität einer Persönlichkeit ... Anerkennung durch die Beherrschten"  (Weber [1919/20] 2005, 179) -->
+  - in der späteren Diskussion (z. B. Wach): Is charisma in the eye of the beholder? (Ob Charisma einer Person gehört oder von Anhänger/innen zugeschrieben wird.)
+- Wie entsteht die charismatische Leitung ("Genese" nach Freudenberg & Schüler)?
+  - Ob Anhänger/innen sich willentlich unterordnen?
+  - Wie die Leitung Glaubwürdigkeit und Legitimität gewinnt? 
+<!--     - Wunder
+    - Ehrfurcht
+    - Blickkontakt, körperliche Berührung usw.
+    - Selbststigmatisierung (Ebertz) -->
+- Wie wird eine charismatische Leitung erhalten? ("Erhalt" nach Freudenberg & Schüler)
+<!--   - genuines Charisma instabil, die meisten Bewegungen sterben aus, sozialer Aufwand
+  - engerer Kreis, für andere soziale Distanz
+  - evtl. Enttäuschung, Bestätigung, Anpassung von Botschaften und Visionen -->
+- Wie passiert die Veralltäglichung einer charismatischer Leitung? ("Veralltäglichung" nach Freudenberg & Schüler)
+  - Was ist Erbcharisma und Amtscharisma? Welchen Begriff hat Max Weber dafür?
+  <!-- - nach dem Tod des Anführers 
+    - Erbcharisma und Amtscharisma
+    - Weber: Priester
+  - schwieriges Legitimationsprozess: anfällig für Abspaltungen
+  - evtl. Verschriftlichung, Kanonisierung -->
+- Unterschied zwischen Lehrer/in und Meister/in?
+
+### 6. Gruppen und Autorität: Welche Rolle spielt Gender in der Religion?
+
 **🧭 Lernziel:** Ebenen der Genderforschung erläutern können, auf die die Religionswissenschaft grundlegend eingehen kann.
 
+- Welche systematische Bias wollen Genderforscher/innen in der Religionswissenschaft untersuchen (analog zu einer klinischen Studie über ein Medikament)?
+  <!-- - Institutionelle bzw. strukturelle Abhängigkeiten
+  - Unterrepräsentation von Frauen in den Forschungsquellen (besonders in Texten und formellen Strukturen)
+  - Erfahrungen von Frauen ignoriert, als Abweichungen gesehen oder an das Männliche genormt
+  - Methoden und Quellen müssen angepasst werden, um alle Genders berücksichtigen zu können  -->
+- Poll: Die Rolle von Frauen in religiösen Tätigkeiten
+- Ebenen in der Genderforschung
+  - Wer forscht? (Forschungssubjekt)
+  - Über was? (Forschungsobjekt)
+  - mit welchen Materiellen? 
+  - mit welchen Methoden?
 - Aus welchen Gründen wird dafür plädiert, dass die (Religions)forschung nicht nur weibliche (bzw. nicht-männliche) Akteurinnen in der Forschung thematisiert, sondern darüber hinaus die üblichen Fakten, Quellen und Narrativen in der Forschung hinterfragt?
 - Lektüre (Gemmeke):
   - Wie konnten die untersuchten Frauen in einem eher männlichen Beruf erfolgreich sein?
   - Welche Narrative (Theorie) erwähnt Gemmeke als die gängige in der Forschung über Frauen als Marabouts in Senegal? 
   - Wie stellt sie sich kritisch (mit Fakten und Quellen) gegenüber dieser Theorie?
 
-### 6. Wer oder was bestimmt die Orthodoxie?
+### 7. Gruppen und Autorität: Wer oder was bestimmt die Orthodoxie?
+
 **🧭 Lernziel:** Erklären können, wie Normativitätsansprüche in der Religionswissenschaft untersucht werden können.
 
-- "Orthodoxie" als theologischer Begriff vs. Normativität als religionswissenschaftlicher Begriff
+- Nicht-verschriftlichten Normen: Bsp. Schere, Stein, Papier
 - Lektüre (Schlieter):
   - Normativität als nicht nur beschreibend, sondern vorschreibend
+  - Was sind Normen? <!-- "Regeln für beobachtbares Verhalten" (Schlieter 2012, 228) -->
   - Betreffen Normen Gruppen oder Individuen? 
   - Was sind wichtige Funktionen von Normen?
-  - Warum müssen Normverletzungen behandelt werden?
+  - Warum müssen Normverletzungen behandelt werden? Wozu können Normverletzungen führen?
+    <!-- (Schlieter 230)
+    - von der Person
+      - Schuldbekenntnis
+      - Legitimierungsversuch
+    - von Anderen
+      - Sanktionen
+      - Präzisierung
+    - Allgemein
+      - Verlust an Legitimität -->
   - Warum brauchen verschriftliche Normen Interpretationsregeln?
   - Warum sollen Forscher/innen bereit sein, ihre eigene Normen anzuerkennen und sich nur für die Beschreibung oder auch die Bewertung entscheiden?
-  - 
+  - Als Diskussionswert: Ob Religionen mit ihren Normen eher kulturelle Elemente aufbewahren oder neues katalysieren?
+- "Orthodoxie" (bzw. Heterodoxie/Häresie/Ketzerei) als theologischer Begriff vs. Normativität als religionswissenschaftlicher Begriff
 
-### 7. Wie werden heilige Schriften überliefert?
+
+### 8. Materialität und Körper: Wie werden heilige Schriften überliefert?
+
 **🧭 Lernziel:** Die mündliche und schriftliche Dynamik der abrahamitischen Religionen im Verhältnis zueinander zu beschreiben.
 
-- Wirkung von der Schrift/vom Geschriebenen vs. vom Gesprochenen
-- Offenbarung als wichtiges Merkmal der abrahamitischen Religionen
-- Das Lesen und das Schreiben als Privileg und Kraft in der Vormoderne
-- Wie ein Buch als Technologie betrachtet werden kann
-- Welche Eigenschaften der geschriebenen Form könnten  Flexibilität in der Auslegung erlauben?
+- Wie wirken gesprochene vs. geschriebene Botschaften unterschiedlich?
+- Wie ist Offenbarung ein wichtiges Merkmal der abrahamitischen Religionen?
+- Wie war das Lesen und das Schreiben ein Privileg und ein Kraft in der Vormoderne?
+- Warum kann ein Buch als Technologie betrachtet werden?
+- Welche Eigenschaften der geschriebenen Form könnten Flexibilität in der Auslegung erlauben?
+  <!-- - Konsonanten ohne Punktierung -->
 - Lektüre (Pelikan):
   - Warum braucht man die mündliche Tradition, um die Thora lesen zu können?
   - ein Paar Beispiele von jüdischen Texten/Genres nennen, die Auslegungen der Thora beinhalten (durch Lesarten, Übersetzungen, Kommentare usw.)
   - ähnliche Phänomene in Christentum und Islam beschreiben
+- Warum ist die Schriftlichkeit immer von der Mündlichkeit geprägt?
 
-### 8. Welche Rolle spielen materielle Objekte in der Religion?
+### 9. Materialität und Körper: Welche Rolle spielen materielle Objekte in der Religion?
+
 **🧭 Lernziel:** Erklären können, wie die Forschung an materiellen Objekten den Glauben an das Transzendente greifbar macht.
 
-- Wie das "Materielle" transzendente Aspekte der Religion erfahrbar macht
-- Was Amida-Buddha Abdrücke über eine Gemeinschaft zeigen können bzw. wie sie die persönliche Spiritualität verändern können
+- Wie macht das "Materielle" transzendente Aspekte der Religion erfahrbar (nach Prohl)?
+- Unterschiedliche "Turns" (Wenden) in der Geisteswissenschaften
+  - Was ist der "Cultural Turn"? <!-- soziale Realität als "Folge von Kommunikationsprozessen" -->
+  - Welche Bedeutung hat diese Wende für die Religionswissenschaft? <!-- Materiale Religion als Abkehr von (oder wenigstens Ergänzung zu) rein textbasierten (protestantisch-geprägten) Methoden. -->
+- Was ist "Materiale Religion"? (Prohl 379) <!-- Dem Ansatz der Materialen Religion geht es in einem sehr viel umfassenderen Sinn darum, zu erforschen, wie Religion sich auf materialer Ebene ereignet -->
+- Was können Amida-Buddha Abdrücke über eine Gemeinschaft zeigen? 
+- Wie können diese Amida-Buddha Abdrücke die persönliche Spiritualität verändern? 
 
-### 9. Welche Rolle spielen heilige Orte in der Religion?
-**🧭 Lernziel:** Erklären können, auf welche Weise Orte sakrale Bedeutung erlangen, und diese Bedeutung anhand jüdischer, christlicher und islamischer Beispiele erläutern.
+### 10. Materialität und Körper: Welche Rolle spielen heilige Orte in der Religion?
 
-- Was macht einen Ort "heilig" für die Besucher/innen?
-  - Ist die Geschichte hinter dem Ort immer stabil? 
-  - Wie ist es möglich, dass unterschiedliche religiöse Gemeinschaften den selben Ort als heilig betrachten? 
-- Zusammenfassung der Lektüre <https://etherpad.studiumdigitale.uni-frankfurt.de/p/24rw9>
+**🧭 Lernziel:** Typische geographische, räumliche, rituelle und narrative Aspekte von sakralen Orten erzählen und in Verbindung mit Haydens "competitive sharing"-Modell bringen.
 
-### 10. Besuch Shahid Alam (Kunstler)
-**Wird nicht geprüft.**
+- Was ist die Typologie von "Attachment" nach Muzamdar & Muzamdar (1993, 232)?
+- Was sind typische Aspekte von heiligen Orten? Welche Faktoren spielen für die Heiligkeit eines Ortes oft eine Rolle?
+<!--   - in narrativen Erzählungen über die Geschichte des Ortes (bzw. wiederkehrende Ereignisse) (vgl. Eliade, "Hierophanie")
+  - landschaftliche Umgebung: Berg, Quelle usw. (vgl. Eliade, Zentrum der Welt)
+  - räumliche Beziehungen ("spatial turn"): Architektur, Kunst, Sensorisches
+  - rituelle Beziehungen bzw. sakrale Zeit (z.B. bestimmte Feste)
+  - Normen
+  - geopolitische bzw. wirtschaftliche Faktoren -->
+- Was ist das "Competitive sharing" Modell von Robert Hayden?
+  - Ist es eine Seltenheit, dass mehrere Gruppen den selben Ort als heilig betrachten?
+  - Inwieweit bezeichnet solches "Teilen" die Toleranz?
 
 ### 11. Welche Wirkung hat die religiöse Praxis auf den Körper?
+
 **🧭 Lernziel:** Religionspsychologische Ansätze zur Krankheit und Heilung schildern.
 
+- Wie stellt die Religionspsychologie einen Ansatz unter mehreren in der Untersuchung von Religion und Körper dar?
+- Was ist der unterschied zwischen extrinsisch religiös (sozialer Glaube) und intrinsisch religiös (innerer Glaube), und was macht das für religionspsychologische Studien aus? (nach Allport & co. (1950))
 - Warum ist die Säkularisierungstheorie nicht mehr aktuell?
-- Was bedeutet "Spiritualität" im Vergleich mit "Religiösität"? 
+- Was bedeutet "Spiritualität" im Vergleich mit "Religiösität"? <!-- Spiritualität = Mehrere spirituelle Wege + Experimentieren & Kombinieren + Ablehnung von institutionelle Kontrolle (164-165) (Vgl. "Lived Religion") -->
   - Welches soll die Religionspsychologie im Blick haben?
-- Was untersucht die empirische Religionspsychologie?
-- Welche Arten von "Coping" (Krankheitsverarbeitung) gibt es?
-- extrinsisch religiös (sozialer Glaube) und intrinsisch religiös (innerer Glaube)
+- Hat die Religiösität bzw. Spiritualität allgemein einen negativen Einfluss auf das psychische Wohlbefinden?
+- Welche Arten von "Coping" (Krankheitsverarbeitung) gibt es? 
+  <!-- - deferring (verschiebend) (174)
+  - collaborative (zusammenarbeitend) (175)
+  - self directive (selbstverantwortend) -->
+- Was untersucht die empirische Religionspsychologie? <!-- empirische Religionspsychologie untersucht "welche Religiosität bzw. Spiritualität in welcher Weise die Auseinandersetzung mit einer Erkrankung beeinflusst" (166) -->
+- Was sind die Methoden und was sind exemplarische Ergebnisse von der Studie von Ladenhauf und Unterrainer?
 
-### 12. Wie wird Religion digital untersucht?
+### 12. Religionswissenschaft für huete: Wie wird Religion digital untersucht?
+
 **🧭 Lernziel:** Verständnis dafür zeigen, wie religiöse Identität, Gemeinschaft und Autorität in Online- und Offline-Umgebungen miteinander verwoben sind.
 
+- Was ist der Unterschied von Forschung _mit_ digitalen Werkzeugen und Forschung _zu_ digitalen Phänomenen?
+- Was sind die 4 Schritten im "Schokoladenmodell" für die Forschung mit digitalen Werkzeugen?
 - Lektüre (Campbell):
-  - 4 Wellen der Forschung digitaler Religion
-  - mediation vs. mediatization
-  - Was ist "religious-social shaping of technology"?
-  - Was bedeutet "Third Space"?
-  - Beispiele davon merken, wie Autorität, Identität und Gemeinschaft zwischen Online und Offline verwoben sind
-- 4 Schritten im "Schokoladenmodell" für die Forschung mit digitalen Werkzeugen
+  - Was sind die 4 Wellen der Forschung digitaler Religion?
+  - Worauf liegt der Fokus in diesen Theorien?
+    - mediation  
+    - mediatization
+    - "religious-social shaping of technology"?
+    - "Third Space" bzw. "hypermediated Space"
+- Was ist eine "Tripod-Methode"?
+- Wofür interessiert sich "Digitale Religion"? 
+<!-- "Digitale Religion" interessiert sich nicht nur für religiöse Aktivitäten online sondern für die Evolution religiöser Praktiken, die gleichzeitig zu Online- und Offline-Kontexten gebunden sind. (6)
+  - wie traditionelle religiöse Praktiken an digitale Umgebungen angepasst werden
+  - wie das Leben und die Gewohnheiten religiöser Gruppen von digitaler Kultur informiert werden -->
+- Beispiele davon merken, wie Autorität, Identität und Gemeinschaft zwischen Online und Offline verwoben sind
 
-### 13. Wie sollte religiöser Extremismus verstanden werden?
+### 13. Religionswissenschaft für heute: Wie sollte religiöser Extremismus verstanden werden?
+
 **🧭 Lernziel:** Fundamentalismus, Radikalisierung und Extremismus definieren und Beispiele für jeden Begriff geben.
 
 - Lektüre (Riesbrodt):
-  - Wie definiert Riesebrodt den Fundamentalismus (wenn er überhaupt den Fundamentalismus definiert)?
+  - Wie definiert Riesebrodt den Fundamentalismus (wenn er überhaupt den Fundamentalismus definiert)? <!-- mobilisierter und radikalisierter Traditionalismus (19) -->
     - Wie unterscheidet sich der Fundamentalismus vom allgemeinen Traditionalismus?
-    - Utopischer Regress (Sozialreform) vs. Mythischer Regress (Fundamentalismus)
-    - Weltflucht vs. Weltbeherrschung
+    - Was ist der Unterschied zwischen utopischem Regress (Sozialreform) und mythischem Regress (Fundamentalismus)?
+    - Weltflucht vs. Weltbeherrschung?
   - Sind Fundamentalisten unbedingt gewaltbereit? 
-- Was ist die Radikalisierung?
-  - Was hat die Radikalisierung mit persönlichen Lebensgeschichten und mit der Gewalt zu tun?
+- Was ist Extremismus im deutschen Rechtskontext? <!-- "Ablehnung demokratischer wie auch rechtsstaatlicher Strukturen" (Khorchide 2015) (meistens mit Gewalt zu tun) -->
+- Was ist die Radikalisierung? <!-- Prozess der Entwicklung von extremistischen Ideologien und Überzeugungsstrukturen, der durch persönliche oder kollektive Ungerechtigkeitsempfindungen bzw. -erfahrungen in Gang gesetzt werden kann (Srowig et al. 1) -->
+- Exemplarisch: Was sind 5 ideologische Merkmale des Fundamentalismus?
+  <!-- 1. Reactivity to the Marginalized of Religion
+  2. Selectivity
+  3. Moral Manichaeism (good vs. evil)
+  4. Absolutism and Inerrancy and
+  5. Millenialism and Messianism
+
+  (Käsehage 2021, 83 nach Almond, Appleby, and Sivan 2003, 93, 90-115) -->
+- Exemplarisch: Was sind 4 strukturelle Merkmale des Fundamentalismus?
+<!-- 1. Elect, Chosen Membership
+1. Sharp Boundaries
+1. Authoritarian Organization and
+1. Behavioural Requirements
+
+(Käsehage 2021, 83 nach Almond, Appleby, and Sivan 2003, 93, 90-115) -->
+- Was könnte auf den folgenden Ebenen zur Radikalisierung untersucht werden? Und mit welchen Methoden?
+  - Makro-ebene?
+  - Meso-Ebene?
+  - Mikro-Ebene?
 
 ### 14. Sollten Religionswissenschaftler/innen am interreligiösen Dialog mitwirken?
+
+(**Diese Sitzung wird nicht geprüft.**)
+
 **🧭 Lernziel:** Überlegen und erklären können, inwieweit religionswissenschaftliche Ansätze zum interreligiösen Dialog beitragen können, sollen und dürfen.
 
 - Lektüre (Schmiedel): 
